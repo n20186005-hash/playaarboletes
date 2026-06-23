@@ -48,7 +48,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Playa Arboletes",
+      siteName: messages.header.siteName,
       locale: localeMap[locale] || 'en_US',
       type: 'website',
     },

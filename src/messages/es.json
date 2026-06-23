@@ -13,15 +13,15 @@
   },
   "hero": {
     "title": "Playa Arboletes",
-    "subtitle": "Descubre el Paraíso Marítimo de Colombia — Experimenta la Auténtica Cultura de Playa y la Diversión Acuática",
+    "subtitle": "Playa del Caribe, Volcán de Lodo Natural y Parque Acuático de Ensueño",
     "rating": "4.5",
     "reviewCount": "6,770",
-    "hours": "Atracción Turística / Parque Acuático Marítimo",
+    "hours": "Playa Natural / Parque Acuático / Volcán de Lodo Ecológico",
     "openMaps": "Ver Ubicación"
   },
   "intro": {
-    "title": "Explora la Playa Arboletes",
-    "description": "La Playa Arboletes es una atracción turística ubicada en Arboletes, Antioquia, Colombia. Como una famosa playa y parque acuático en el área, sirve como un lugar para el ocio y entretenimiento de los residentes locales y turistas.\n\nArboletes es un pueblo costero en Antioquia, Colombia, conocido por sus hermosas playas y aguas cálidas. La Playa Arboletes, como la principal atracción turística en el pueblo, es un lugar ideal para experimentar la cultura local de playa y las actividades acuáticas.",
+    "title": "Explora Playa Arboletes",
+    "description": "Descubre la joya costera de Antioquia, Colombia — un destino vacacional de primer nivel que combina a la perfección maravillas naturales con diversión acuática familiar.\n\nUbicada en la costa caribeña del departamento de Antioquia, Playa Arboletes es un destino turístico raro que combina a la perfección 'maravillas naturales vírgenes' con 'grandes instalaciones de entretenimiento artificial'.\n\nNo solo cuenta con amplias playas de aguas cristalinas y arena fina, sino que justo en el borde de la playa se encuentra un impresionante resort acuático temático de castillos (a menudo llamado el 'Disney de Colombia' por los lugareños). Además, a poca distancia a pie se encuentra el mundialmente famoso volcán de lodo costero natural. Ya sea que busques emociones en actividades acuáticas o seas un viajero de bienestar que anhela un baño de lodo mineral natural, aquí encontrarás tus vacaciones perfectas.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -31,29 +31,27 @@
       ]
     },
     "alsoKnownAs": {
-      "title": "Destacados",
+      "title": "Aspectos Destacados",
       "items": [
-        "🏖️ Hermosa Playa: Una famosa atracción turística marítima en Arboletes con hermosas playas y aguas cálidas.",
-        "🌊 Parque Acuático: Proporciona varias actividades acuáticas y instalaciones de entretenimiento, adecuado para viajes familiares.",
-        "👥 Ocio y Entretenimiento: Experimenta la vida de ocio de los residentes locales y turistas, y la auténtica vida marítima colombiana.",
-        "📸 Paraíso Fotográfico: La playa y el parque acuático son temas ideales para los entusiastas de la fotografía."
+        "🏰 Parque Acuático Castillo (Riviera del Sol): Un enorme complejo acuático temático de castillos construido justo al lado de la playa. Cuenta con múltiples piscinas azules gigantes, emocionantes toboganes de agua, un área interactiva de barco pirata y esculturas míticas únicas, lo que lo convierte en un hito perfecto para viajes familiares y fotografías.",
+        "🌋 Volcán de Lodo Natural de Clase Mundial: El volcán de lodo cerca de la playa es el regalo natural más singular de la región. Los visitantes pueden saltar al cráter para experimentar un baño de lodo cálido y de alta flotabilidad, y disfrutar de un spa natural rico en minerales.",
+        "🌊 Playa del Caribe y Arte en Arena: La playa amplia y de suave pendiente es perfecta para pasear y disfrutar de magníficos atardeceres en el mar. A menudo se pueden encontrar exquisitas esculturas de arena de vida marina (como delfines y tortugas) creadas por artistas locales, llenas de rico encanto costero colombiano."
       ]
     }
   },
   "route": {
-    "title": "Ruta de Visita",
-    "overview": "La ruta recomendada para explorar la Playa Arboletes:",
+    "title": "💡 Consejos y Itinerario",
+    "overview": "Itinerario Perfecto de Un Día:",
     "steps": [
-      "Comience desde el centro del pueblo de Arboletes y diríjase a la Playa Arboletes.",
-      "Relájese en la playa, disfrute del sol y el agua del mar.",
-      "Participe en varias actividades e instalaciones de entretenimiento en el parque acuático.",
-      "Pruebe la cocina local en restaurantes cercanos y experimente la vida marítima."
+      "Mañana (Baño de Lodo y Playa): Dirígete temprano al volcán de lodo para un baño de lodo natural, luego camina directamente hacia el Mar Caribe para lavarte en el agua tibia, dejando tu piel increíblemente suave.",
+      "Tarde (Diversión en el Parque Acuático): Entra al parque acuático del castillo junto a la playa, nada en las piscinas gigantes y experimenta los toboganes y diversas instalaciones de entretenimiento.",
+      "Noche (Atardecer y Comida): Regresa a la playa para encontrar el mejor lugar cerca de las esculturas de arena para fotografiar el atardecer caribeño. Luego, disfruta de un auténtico festín de mariscos colombianos en un restaurante cercano."
     ],
-    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplementsTitle": "Consejos Prácticos",
     "supplements": [
-      "Traiga protector solar, traje de baño y toallas.",
-      "Arboletes tiene un clima cálido, se recomienda traer abundante agua y protector solar.",
-      "El mejor momento para visitar es por la mañana o por la tarde, para evitar el calor del mediodía y tomar mejores fotos."
+      "Ropa: Al experimentar el volcán de lodo, asegúrate de usar un traje de baño viejo que no te importe ensuciar. El lodo tiene una flotabilidad extrema, por lo que puedes flotar de manera fácil y segura incluso si no sabes nadar.",
+      "Protección Solar e Hidratación: El clima local es cálido con fuerte luz solar. Por favor, lleva protector solar ecológico de alto FPS, gafas de sol y mucha agua potable.",
+      "Servicios de Lavado: Después del baño de lodo, además de lavarte en el mar, los residentes locales ofrecen servicios de lavado con agua dulce en la playa. Es muy conveniente tener listos algunos billetes pequeños de pesos colombianos (COP) para propinas."
     ]
   },
   "knowledge": {
@@ -81,7 +79,7 @@
     "officialName": "Nombre Oficial",
     "officialNameValue": "Playa Arboletes",
     "type": "Tipo de Atracción",
-    "typeValue": "Atracción Turística / Parque Acuático Marítimo / Playa",
+    "typeValue": "Playa Natural / Parque Acuático / Volcán de Lodo Ecológico",
     "country": "País",
     "countryValue": "Colombia",
     "city": "Ciudad",
@@ -90,20 +88,20 @@
     "address": "Dirección",
     "addressValue": "Cl. 31 #3246, Arboletes, Antioquia, Colombia",
     "plusCode": "Código Plus",
-    "plusCodeValue": "VH4F+25 Arboletes, Antioquia, Colombia",
+    "plusCodeValue": "VH4F+25",
     "phone": "Teléfono",
     "phoneValue": "N/A",
     "petFriendly": "Mascotas permitidas",
     "petFriendlyValue": "Por favor consulte al personal en el sitio",
     "tickets": "Entradas",
-    "ticketsValue": "Por favor consulte en el sitio",
+    "ticketsValue": "La playa pública es gratuita; el parque acuático/resort y los servicios de lavado del volcán de lodo requieren consulta en el lugar para conocer los precios.",
     "facilities": "Instalaciones",
     "facilitiesValue": "Baños públicos cercanos, restaurantes y estacionamiento"
   },
   "hours": {
     "title": "Horarios y Consejos para Visitantes",
     "outdoor": "Horario Comercial",
-    "outdoorTime": "09:00–21:00",
+    "outdoorTime": "Playa abierta todo el día; parque acuático e instalaciones principales aprox. 09:00–21:00",
     "lighthouse": "Mejor Momento de Visita",
     "summer": "Mañana y atardecer",
     "summerTime": "(Depende del clima y la temporada, consulte Google Maps)",
@@ -129,13 +127,13 @@
     "officialNoticeLink": "https://www.arboletes-antioquia.gov.co/"
   },
   "transport": {
-    "title": "Transporte",
-    "airport": "Desde el Aeropuerto",
-    "airportDesc": "Desde el aeropuerto más cercano (Aeropuerto Internacional José María Córdova, cerca de Medellín), necesita primero llegar a Medellín, luego tomar un bus a Arboletes.",
+    "title": "Cómo Llegar",
+    "airport": "✈️ Aeropuerto al Destino (Recomendación Principal)",
+    "airportDesc": "El aeropuerto más cercano a Playa Arboletes es el Aeropuerto Los Garzones (MTR) en Montería. Al llegar, puedes tomar un taxi o minibús local (Colectivos) en dirección noroeste por carretera. El viaje es de unos 80 km por buenas carreteras y toma solo de 1.5 a 2 horas directamente al centro del pueblo y la zona de la playa. Esta es la forma más eficiente de llegar.",
     "selfDrive": "En Coche",
     "selfDriveDesc": "Desde Medellín, siga el camino por aproximadamente 5-6 horas para llegar a Arboletes. La Playa Arboletes está ubicada en el pueblo.",
-    "bus": "Transporte Público",
-    "busDesc": "Tomar un bus desde el terminal de buses de Medellín a Arboletes es la opción de transporte más popular, aunque las salidas son menos frecuentes.",
+    "bus": "🚌 Autobús Intermunicipal / Conducción (Desde Medellín)",
+    "busDesc": "Si sales desde Medellín, deberás cruzar terreno montañoso, lo que hace que el viaje sea más largo (alrededor de 8-10 horas). Se recomienda hacer de esta ruta parte de un viaje por carretera profundo o elegir un autobús nocturno de lujo. Para aquellos que buscan ahorrar tiempo, se recomienda encarecidamente la opción de 'volar a Montería'.",
     "intercity": "Dentro del Pueblo",
     "intercityDesc": "La Playa Arboletes está ubicada en el pueblo de Arboletes, fácilmente accesible desde el centro del pueblo.",
     "cycling": "Otras Opciones",
