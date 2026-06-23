@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "title": "Playa Arboletes | 哥伦比亚阿沃莱特斯的海边水上乐园",
+    "description": "探索 Playa Arboletes，位于哥伦比亚安蒂奥基亚省阿沃莱特斯的旅游胜地，感受美丽的海滩和水上乐园体验。"
+  },
+  "header": {
+    "siteName": "Playa Arboletes",
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Playa Arboletes",
+    "subtitle": "探索哥伦比亚的滨海乐园 —— 体验纯正海滩风情与水上乐趣",
+    "rating": "4.5",
+    "reviewCount": "6,770",
+    "hours": "旅游胜地 / 海边水上乐园",
+    "openMaps": "查看地图导航"
+  },
+  "intro": {
+    "title": "探索 Playa Arboletes",
+    "description": "Playa Arboletes 是位于哥伦比亚安蒂奥基亚省阿沃莱特斯（Arboletes）的一处旅游胜地。作为当地著名的海滩和水上乐园，这里承载着阿沃莱特斯居民和游客的休闲娱乐功能。\n\n阿沃莱特斯是哥伦比亚安蒂奥基亚省的一个海滨城镇，以美丽的海滩和温暖的海水而闻名。Playa Arboletes 作为镇上的主要旅游景点，是体验当地海滩文化和水上活动的理想场所。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "🌞 上午游览：从阿沃莱特斯镇中心出发 ➔ 前往 Playa Arboletes ➔ 享受海滩阳光",
+        "🌙 下午水上活动：参加水上乐园活动 ➔ 品尝当地美食 ➔ 感受海滨生活",
+        "🎉 傍晚时光：在海滩上欣赏日落 ➔ 体验当地夜生活"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "🏖️ 美丽海滩：阿沃莱特斯当地著名的海滨旅游胜地，拥有美丽的海滩和温暖的海水。",
+        "🌊 水上乐园：提供各种水上活动和娱乐设施，适合全家游玩。",
+        "👥 休闲娱乐：感受当地居民和游客的休闲生活，体验 auténtica 的哥伦比亚海滨生活。",
+        "📸 摄影胜地：海滩和水上乐园是摄影爱好者的理想取景地。"
+      ]
+    }
+  },
+  "route": {
+    "title": "建议游览路线",
+    "overview": "探索 Playa Arboletes 的推荐路线：",
+    "steps": [
+      "从阿沃莱特斯镇中心出发，前往 Playa Arboletes。",
+      "在海滩上放松，享受阳光和海水。",
+      "参加水上乐园的各种活动和娱乐设施。",
+      "在附近餐厅品尝当地美食，感受海滨生活。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "建议携带防晒用品、泳衣和毛巾。",
+      "阿沃莱特斯气候炎热，建议携带充足的水和防晒霜。",
+      "最佳游览时间是早晨或傍晚，可以避开中午的炎热并拍摄到更好的照片。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现 Playa Arboletes 的魅力",
+    "sections": [
+      {
+        "id": "beach",
+        "title": "海滩与文化",
+        "content": "Playa Arboletes 是阿沃莱特斯重要的旅游景点，承载着当地旅游业的发展功能。这里拥有美丽的海滩和温暖的海水，是体验哥伦比亚海滨文化的理想场所。"
+      },
+      {
+        "id": "waterpark",
+        "title": "水上乐园功能",
+        "content": "作为旅游胜地和海边水上乐园，这里不仅是游客的休闲地点，更是当地居民和游客享受水上活动的重要场所。乐园体现了哥伦比亚海滨旅游的活力与乐趣。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置与交通",
+        "content": "Playa Arboletes 位于哥伦比亚安蒂奥基亚省阿沃莱特斯，交通便利，是前往哥伦比亚海滨旅游的理想选择。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "核心标签 (Quick Facts)",
+    "officialName": "正式名称",
+    "officialNameValue": "Playa Arboletes",
+    "type": "景点类型",
+    "typeValue": "旅游胜地 / 海边水上乐园 / 海滩",
+    "country": "国家",
+    "countryValue": "哥伦比亚",
+    "city": "城市",
+    "cityValue": "阿沃莱特斯 (Arboletes), 安蒂奥基亚省",
+    "googleRating": "谷歌评分",
+    "address": "位置",
+    "addressValue": "Cl. 31 #3246, Arboletes, Antioquia, 哥伦比亚",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "VH4F+25 阿沃莱特斯 哥伦比亚安蒂奥基亚省",
+    "phone": "联系电话",
+    "phoneValue": "无",
+    "petFriendly": "宠物准入",
+    "petFriendlyValue": "请咨询现场工作人员",
+    "tickets": "门票信息",
+    "ticketsValue": "请咨询现场",
+    "facilities": "实用设施",
+    "facilitiesValue": "附近有公共卫生间、餐厅和停车场"
+  },
+  "hours": {
+    "title": "开放时间与游览建议",
+    "outdoor": "营业时间",
+    "outdoorTime": "09:00–21:00",
+    "lighthouse": "最佳游览时间",
+    "summer": "早晨和傍晚",
+    "summerTime": "（具体视天气和季节而定，建议参考 Google Maps 数据）",
+    "winter": "注意事项",
+    "winterTime": "携带防晒用品、泳衣和充足的水",
+    "warning": "💡 动态天气提示",
+    "warningTime": "阿沃莱特斯气候炎热，非常适合海滩活动，建议携带防晒用品和充足的水。",
+    "tip": "海滩附近有许多当地小吃摊和餐厅，可以品尝 authentic 的哥伦比亚海滨美食。"
+  },
+  "tickets": {
+    "title": "注意事项",
+    "outdoor": "入场费用",
+    "outdoorPrice": "请咨询现场",
+    "lighthouse": "交通信息",
+    "adults": "从麦德林出发",
+    "adultsPrice": "乘坐巴士约5-6小时",
+    "students": "建议游玩时间",
+    "studentsPrice": "半天至一天",
+    "card": "周边景点",
+    "cardPrice": "阿沃莱特斯镇中心、其他海滩。👉 [前往阿沃莱特斯]",
+    "officialNotice": "获取最新信息，请查阅",
+    "officialNoticeLinkLabel": "阿沃莱特斯市政府官方网站",
+    "officialNoticeLink": "https://www.arboletes-antioquia.gov.co/"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "从最近的机场（何塞·玛丽亚·科尔多瓦国际机场，位于麦德林附近）出发，需要先到达麦德林，然后乘坐巴士前往阿沃莱特斯。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "从麦德林出发，沿着道路行驶约5-6小时即可到达阿沃莱特斯，Playa Arboletes 位于镇上。",
+    "bus": "公共交通",
+    "busDesc": "从麦德林的巴士总站乘坐巴士前往阿沃莱特斯是最受欢迎的交通方式，班次较少但可行。",
+    "intercity": "镇内交通",
+    "intercityDesc": "Playa Arboletes 位于阿沃莱特斯镇，从镇中心可轻松到达。",
+    "cycling": "其他方式",
+    "cyclingDesc": "可以在镇上租用交通工具或徒步游览，更好地欣赏海滨风光。",
+    "tips": "出行建议",
+    "tipsDesc": "从麦德林出发路程较远，建议提前规划好行程和住宿。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "感受哥伦比亚阿沃莱特斯的海滨魅力",
+    "captions": [
+      "Playa Arboletes 全景",
+      "美丽的海滩风光",
+      "水上乐园设施",
+      "当地海滩生活",
+      "阿沃莱特斯海滨景色",
+      "水上活动乐趣",
+      "海滩一角",
+      "哥伦比亚海滨风貌",
+      "游客活动场景",
+      "海滩娱乐设施",
+      "阿沃莱特斯街景",
+      "海滨乐园氛围",
+      "海滩休闲元素",
+      "海滨景观",
+      "旅游活动场景",
+      "海滨生活场景",
+      "阳光与海浪"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "美丽的海滩，可以感受到阿沃莱特斯的海滨魅力。"
+      },
+      {
+        "name": "李小明",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "水上乐园非常有趣，是家庭出游的好地方！"
+      },
+      {
+        "name": "María González",
+        "date": "3周前",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la playa en Colombia."
+      },
+      {
+        "name": "John Smith",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "A charming beach destination in Colombia. Great for family trips."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2个月前",
+        "rating": 4,
+        "text": "Hermoso lugar para disfrutar de la playa. Muy recomendado."
+      },
+      {
+        "name": "张伟",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "来到阿沃莱特斯一定要来这个海滩，感受哥伦比亚的海滨文化！"
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar de la playa y actividades acuáticas."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "A must-visit place in Arboletes! The beach is beautiful and fun."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Cl. 31 #3246, Arboletes, Antioquia, 哥伦比亚",
+    "openMaps": "在 Google Maps 查看位置",
+    "nearbyTitle": "周边推荐",
+    "nearby1Name": "阿沃莱特斯镇中心",
+    "nearby1Desc": "🚶 步行可达",
+    "nearby2Name": "其他海滩",
+    "nearby2Desc": "🚗 车程可达"
+  },
+  "footer": {
+    "rights": "© 2026 Playa Arboletes. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "哥伦比亚国家旅游局官方门户 (Colombia Travel)",
+        "url": "https://colombia.co/"
+      },
+      "medellinTravel": {
+        "name": "麦德林与安蒂奥基亚省官方旅游指南 (Medellín Travel)",
+        "url": "https://www.medellin.travel/"
+      },
+      "mincit": {
+        "name": "哥伦比亚贸易、工业和旅游部 (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "哥伦比亚旅游、外资和非传统出口促进局 (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "antioquia": {
+        "name": "安蒂奥基亚省政府官网 (Gobernación de Antioquia)",
+        "url": "https://antioquia.gov.co/"
+      },
+      "migracion": {
+        "name": "哥伦比亚国家移民局 (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用本网站或依赖其中提供的信息而产生的任何直接或间接损失，我们不承担任何责任。"
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "历史与发展",
+    "items": [
+      {
+        "year": "早期",
+        "title": "起源：天然海滩",
+        "plaque": "自然美景",
+        "description": "Playa Arboletes 最初是阿沃莱特斯的一处天然海滩，因其美丽的海景和温暖的海水而逐渐受到当地居民和游客的喜爱。"
+      },
+      {
+        "year": "发展期",
+        "title": "发展：旅游设施建设",
+        "plaque": "旅游发展",
+        "description": "随着时间推移，阿沃莱特斯的旅游业不断发展，Playa Arboletes 逐渐增加了各种旅游设施和水上活动项目，成为当地重要的旅游景点。"
+      },
+      {
+        "year": "现代",
+        "title": "现代：综合性海滨乐园",
+        "plaque": "旅游发展 (海滨乐园)",
+        "description": "如今，Playa Arboletes 已经成为集海滩休闲和水上乐园于一体的综合性旅游目的地，得到了更多游客的认可和喜爱。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "游客在参观时，可以从阿沃莱特斯镇中心出发，前往 Playa Arboletes；享受海滩阳光和海水；参加水上乐园的各种活动；在附近餐厅品尝当地美食；如果您有充足的时间，还可以继续探索阿沃莱特斯的其他景点。"
+  },
+  "officialManagement": {
+    "title": "关于 Playa Arboletes",
+    "text": "Playa Arboletes 是哥伦比亚安蒂奥基亚省阿沃莱特斯的一处旅游胜地，作为海滨旅游景点，是体验哥伦比亚海滩文化和休闲娱乐的重要场所。"
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  }
+}

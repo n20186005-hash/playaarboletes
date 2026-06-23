@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "title": "Playa Arboletes | Seaside Water Park in Arboletes, Colombia",
+    "description": "Explore Playa Arboletes, a tourist attraction in Arboletes, Antioquia, Colombia, and experience the beautiful beach and water park fun."
+  },
+  "header": {
+    "siteName": "Playa Arboletes",
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Playa Arboletes",
+    "subtitle": "Discover Colombia's Seaside Paradise — Experience Authentic Beach Culture and Water Fun",
+    "rating": "4.5",
+    "reviewCount": "6,770",
+    "hours": "Tourist Attraction / Seaside Water Park",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Playa Arboletes",
+    "description": "Playa Arboletes is a tourist attraction located in Arboletes, Antioquia, Colombia. As a famous beach and water park in the area, it serves as a venue for leisure and entertainment for local residents and tourists.\n\nArboletes is a coastal town in Antioquia, Colombia, known for its beautiful beaches and warm waters. Playa Arboletes, as the main tourist attraction in the town, is an ideal place to experience local beach culture and water activities.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "🌞 Morning Tour: Start from Arboletes town center ➔ Head to Playa Arboletes ➔ Enjoy beach sunshine",
+        "🌙 Afternoon Water Activities: Participate in water park activities ➔ Taste local cuisine ➔ Experience seaside life",
+        "🎉 Evening Time: Watch sunset on the beach ➔ Experience local nightlife"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "🏖️ Beautiful Beach: A famous seaside tourist attraction in Arboletes with beautiful beaches and warm waters.",
+        "🌊 Water Park: Provides various water activities and entertainment facilities, suitable for family trips.",
+        "👥 Leisure & Entertainment: Experience the leisure life of local residents and tourists, and authentic Colombian seaside life.",
+        "📸 Photography Paradise: The beach and water park are ideal subjects for photography enthusiasts."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "The recommended route to explore Playa Arboletes:",
+    "steps": [
+      "Start from Arboletes town center and head to Playa Arboletes.",
+      "Relax on the beach, enjoy sunshine and sea water.",
+      "Participate in various activities and entertainment facilities at the water park.",
+      "Taste local cuisine at nearby restaurants and experience seaside life."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Bring sunscreen, swimwear and towels.",
+      "Arboletes has a hot climate, it is recommended to bring plenty of water and sunscreen.",
+      "The best time to visit is in the morning or evening, to avoid the midday heat and take better photos."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Playa Arboletes",
+    "sections": [
+      {
+        "id": "beach",
+        "title": "Beach & Culture",
+        "content": "Playa Arboletes is an important tourist attraction in Arboletes, carrying the development function of local tourism. It has beautiful beaches and warm waters, making it an ideal place to experience Colombian seaside culture."
+      },
+      {
+        "id": "waterpark",
+        "title": "Water Park Function",
+        "content": "As a tourist attraction and seaside water park, this is not only a leisure place for tourists, but also an important venue for local residents and tourists to enjoy water activities. The park embodies the vitality and fun of Colombian seaside tourism."
+      },
+      {
+        "id": "location",
+        "title": "Location & Transportation",
+        "content": "Playa Arboletes is located in Arboletes, Antioquia, Colombia, with convenient transportation, making it an ideal choice for seaside tourism in Colombia."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Quick Facts",
+    "officialName": "Official Name",
+    "officialNameValue": "Playa Arboletes",
+    "type": "Attraction Type",
+    "typeValue": "Tourist Attraction / Seaside Water Park / Beach",
+    "country": "Country",
+    "countryValue": "Colombia",
+    "city": "City",
+    "cityValue": "Arboletes, Antioquia",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Cl. 31 #3246, Arboletes, Antioquia, Colombia",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "VH4F+25 Arboletes, Antioquia, Colombia",
+    "phone": "Phone",
+    "phoneValue": "N/A",
+    "petFriendly": "Pet Friendly",
+    "petFriendlyValue": "Please consult on-site staff",
+    "tickets": "Tickets",
+    "ticketsValue": "Please consult on-site",
+    "facilities": "Facilities",
+    "facilitiesValue": "Nearby public restrooms, restaurants and parking"
+  },
+  "hours": {
+    "title": "Opening Hours & Visitor Info",
+    "outdoor": "Business Hours",
+    "outdoorTime": "09:00–21:00",
+    "lighthouse": "Best Visiting Time",
+    "summer": "Morning and evening",
+    "summerTime": "(Depends on weather and season, please refer to Google Maps)",
+    "winter": "Notes",
+    "winterTime": "Bring sunscreen, swimwear and plenty of water",
+    "warning": "💡 Dynamic Weather Tip",
+    "warningTime": "Arboletes has a hot climate, perfect for beach activities. We recommend bringing sunscreen and plenty of water.",
+    "tip": "There are many local snack stalls and restaurants near the beach, where you can taste authentic Colombian seaside cuisine."
+  },
+  "tickets": {
+    "title": "Important Information",
+    "outdoor": "Admission Fee",
+    "outdoorPrice": "Please consult on-site",
+    "lighthouse": "Transportation Info",
+    "adults": "From Medellín",
+    "adultsPrice": "Take a bus approx. 5-6 hours",
+    "students": "Recommended Visit Duration",
+    "studentsPrice": "Half day to one day",
+    "card": "Nearby Attractions",
+    "cardPrice": "Arboletes town center, other beaches. 👉 [Go to Arboletes]",
+    "officialNotice": "For the latest updates, please refer to the",
+    "officialNoticeLinkLabel": "Official Website of Arboletes Municipality",
+    "officialNoticeLink": "https://www.arboletes-antioquia.gov.co/"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "From the nearest airport (José María Córdova International Airport, near Medellín), you need to first reach Medellín, then take a bus to Arboletes.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Medellín, follow the road for about 5-6 hours to reach Arboletes. Playa Arboletes is located in the town.",
+    "bus": "Public Transport",
+    "busDesc": "Taking a bus from Medellín's bus terminal to Arboletes is the most popular transportation option, though departures are less frequent.",
+    "intercity": "Within the Town",
+    "intercityDesc": "Playa Arboletes is located in Arboletes town, easily accessible from the town center.",
+    "cycling": "Other Options",
+    "cyclingDesc": "You can rent transportation in town or walk to explore and better appreciate the seaside scenery.",
+    "tips": "Travel Tips",
+    "tipsDesc": "The journey from Medellín is long. It is recommended to plan your itinerary and accommodation in advance."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Feel the Seaside Charm of Arboletes, Colombia",
+    "captions": [
+      "Playa Arboletes Panoramic View",
+      "Beautiful Beach Scenery",
+      "Water Park Facilities",
+      "Local Beach Life",
+      "Arboletes Seaside Scenery",
+      "Water Activities Fun",
+      "A Corner of the Beach",
+      "Colombian Seaside Style",
+      "Tourist Activity Scenes",
+      "Beach Entertainment Facilities",
+      "Arboletes Street View",
+      "Seaside Park Atmosphere",
+      "Beach Leisure Elements",
+      "Seaside Landscape",
+      "Tourist Activity Scenes",
+      "Seaside Life Scenes",
+      "Sunshine and Waves"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Beautiful beach, you can feel the seaside charm of Arboletes."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "The water park is very fun, a great place for family trips!"
+      },
+      {
+        "name": "María González",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la playa en Colombia."
+      },
+      {
+        "name": "John Smith",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A charming beach destination in Colombia. Great for family trips."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Hermoso lugar para disfrutar de la playa. Muy recomendado."
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Must-visit place when coming to Arboletes, feel the seaside culture of Colombia!"
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar de la playa y actividades acuáticas."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A must-visit place in Arboletes! The beach is beautiful and fun."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Cl. 31 #3246, Arboletes, Antioquia, Colombia",
+    "openMaps": "View on Google Maps",
+    "nearbyTitle": "Nearby Recommendations",
+    "nearby1Name": "Arboletes Town Center",
+    "nearby1Desc": "🚶 Walkable",
+    "nearby2Name": "Other Beaches",
+    "nearby2Desc": "🚗 By car"
+  },
+  "footer": {
+    "rights": "© 2026 Playa Arboletes. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Links",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "Colombia National Tourism Official Portal (Colombia Travel)",
+        "url": "https://colombia.co/"
+      },
+      "medellinTravel": {
+        "name": "Medellín and Antioquia Official Tourism Guide (Medellín Travel)",
+        "url": "https://www.medellin.travel/"
+      },
+      "mincit": {
+        "name": "Colombia Ministry of Commerce, Industry and Tourism (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "Colombia Tourism, Foreign Investment and Non-Traditional Exports Promotion Agency (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "antioquia": {
+        "name": "Antioquia Governorate Official Website (Gobernación de Antioquia)",
+        "url": "https://antioquia.gov.co/"
+      },
+      "migracion": {
+        "name": "Colombia National Migration Agency (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be liable for any direct or indirect damages arising from the use of this website or reliance on the information provided herein."
+      }
+    ]
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Early Days",
+        "title": "Origins: Natural Beach",
+        "plaque": "Natural Beauty",
+        "description": "Playa Arboletes was originally a natural beach in Arboletes, gradually becoming popular among local residents and tourists for its beautiful sea views and warm waters."
+      },
+      {
+        "year": "Development Period",
+        "title": "Development: Tourism Facilities Construction",
+        "plaque": "Tourism Development",
+        "description": "Over time, tourism in Arboletes continued to develop. Playa Arboletes gradually added various tourism facilities and water activity projects, becoming an important tourist attraction in the area."
+      },
+      {
+        "year": "Modern Era",
+        "title": "Modern: Comprehensive Seaside Park",
+        "plaque": "Tourism Development (Seaside Park)",
+        "description": "Today, Playa Arboletes has become a comprehensive tourism destination combining beach leisure and water park, receiving more recognition and love from tourists."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can start from Arboletes town center and head to Playa Arboletes; enjoy beach sunshine and sea water; participate in various activities at the water park; taste local cuisine at nearby restaurants; if you have enough time, you can also continue exploring other attractions in Arboletes."
+  },
+  "officialManagement": {
+    "title": "About Playa Arboletes",
+    "text": "Playa Arboletes is a tourist attraction in Arboletes, Antioquia, Colombia. As a seaside tourism attraction, it is an important venue for experiencing Colombian beach culture and leisure entertainment."
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  }
+}
