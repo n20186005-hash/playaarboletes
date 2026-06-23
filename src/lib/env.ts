@@ -8,10 +8,10 @@ export const getBaseUrl = () => {
   const url = process.env.NEXT_PUBLIC_SITE_URL;
   if (!url || url.trim() === '') {
     if (process.env.NODE_ENV === 'development') return 'http://localhost:3000';
-    throw new Error(
-      'NEXT_PUBLIC_SITE_URL environment variable is not set! ' +
-      'Add it to .env.local (development) or your deployment environment variables.'
-    );
+    // Fallback for Vercel or other build environments if not explicitly set
+    if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}`;
+    console.warn('NEXT_PUBLIC_SITE_URL is not set, falling back to default domain');
+    return 'https://playaarboletes.com';
   }
   return url.replace(/\/+$/, '');
 };
