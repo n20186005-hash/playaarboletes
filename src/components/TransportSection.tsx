@@ -5,6 +5,8 @@ import type { ReactNode } from 'react';
 
 export default function TransportSection() {
   const t = useTranslations('transport');
+  const airportModes = t.raw('airportModes') as Array<{ mode: string; detail: string; cost: string }>;
+
 
   const transportOptions = [
     {
@@ -87,6 +89,30 @@ export default function TransportSection() {
               description={t(`${option.key}Desc` as any)}
             />
           ))}
+        </div>
+
+        {/* Airport-to-attraction detail */}
+        <div
+          className="mt-8 rounded-xl p-6 sm:p-8"
+          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
+        >
+          <h3 className="font-display text-xl font-semibold mb-5" style={{ color: 'var(--text-primary)' }}>
+            {t('airportDetailTitle')}
+          </h3>
+          <div className="space-y-4">
+            {airportModes.map((m, i) => (
+              <div key={i} className="rounded-lg p-4" style={{ background: 'var(--bg-primary)', border: '1px solid var(--border-color)' }}>
+                <div className="flex flex-wrap items-baseline justify-between gap-2 mb-1">
+                  <span className="font-semibold" style={{ color: 'var(--text-primary)' }}>{m.mode}</span>
+                  <span className="text-sm font-medium" style={{ color: 'var(--accent)' }}>{m.cost}</span>
+                </div>
+                <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{m.detail}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-sm leading-relaxed mt-5" style={{ color: 'var(--text-muted)' }}>
+            🛣️ {t('roadNote')}
+          </p>
         </div>
 
         {/* Travel Tips */}

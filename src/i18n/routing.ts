@@ -10,6 +10,8 @@ export const routing = defineRouting({
     '/privacy-policy': '/privacy-policy',
     '/terms-of-service': '/terms-of-service',
     '/cookie-settings': '/cookie-settings',
+    '/attractions': '/attractions',
+    '/attractions/[slug]': '/attractions/[slug]',
   },
 });
 

@@ -2,6 +2,7 @@
 
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname, routing } from '@/i18n/routing';
+import { useParams } from 'next/navigation';
 import { useState, useRef, useEffect } from 'react';
 
 const labels: Record<string, string> = {
@@ -14,6 +15,7 @@ export default function LanguageToggle() {
   const locale = useLocale();
   const pathname = usePathname();
   const router = useRouter();
+  const params = useParams();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
@@ -29,8 +31,14 @@ export default function LanguageToggle() {
 
   const handleLanguageChange = (targetLocale: string) => {
     setOpen(false);
-    // 使用 router.push 直接切换语言 - 正确语法
-    router.push({ pathname: pathname || '/' }, { locale: targetLocale });
+    const dynamicParams =
+      pathname === '/attractions/[slug]'
+        ? { params: { slug: params.slug as string } }
+        : {};
+    router.push(
+      { pathname: (pathname || '/') as any, ...dynamicParams } as any,
+      { locale: targetLocale }
+    );
   };
 
   return (

@@ -4,7 +4,7 @@ import { useTranslations } from 'next-intl';
 
 export default function BasicInfo() {
   const t = useTranslations('basicInfo');
-  const tHero = useTranslations('hero');
+  const facts = t.raw('facts') as Array<{ icon: string; label: string; value: string }>;
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -18,15 +18,9 @@ export default function BasicInfo() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          <InfoCard title={t('officialName')} value={t('officialNameValue')} icon="🏛️" />
-          <InfoCard title={t('type')} value={t('typeValue')} icon="📍" />
-          <InfoCard title={t('petFriendly')} value={t('petFriendlyValue')} icon="🐕" />
-          <InfoCard title={t('tickets')} value={t('ticketsValue')} icon="🎫" />
-          <InfoCard title={t('country')} value={t('countryValue')} icon="🇨🇴" />
-          <InfoCard title={t('city')} value={t('cityValue')} icon="🏙️" />
-          <InfoCard title={t('plusCode')} value={t('plusCodeValue')} icon="🗺️" />
-          <InfoCard title={t('googleRating')} value={`${tHero('rating')}/5 (${tHero('reviewCount')})`} icon="⭐" />
-          <InfoCard title={t('facilities')} value={t('facilitiesValue')} icon="♿" />
+          {facts.map((fact, i) => (
+            <InfoCard key={i} title={fact.label} value={fact.value} icon={fact.icon} />
+          ))}
           <div className="md:col-span-3">
             <InfoCard title={t('address')} value={t('addressValue')} icon="📌" />
           </div>

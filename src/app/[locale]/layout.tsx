@@ -79,11 +79,85 @@ export default async function LocaleLayout({
 
   const baseUrl = getBaseUrl();
 
+  const selfUrl =
+    locale === 'en' ? `${baseUrl}/en` : locale === 'es' ? `${baseUrl}/es` : `${baseUrl}/zh`;
+
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'TouristAttraction',
+        '@id': `${selfUrl}#attraction`,
+        name: 'Playa Arboletes',
+        description:
+          'A rare Caribbean geographic wonder in Colombia where a natural mud volcano (mud diapirism) meets the blue sea. A non-profit, in-depth guide to its geology, indigenous heritage and transport.',
+        url: selfUrl,
+        touristType: ['Geology Enthusiasts', 'Ecotourism', 'Educational Travel'],
+        isPartOf: {
+          '@type': 'Place',
+          name: 'Arboletes, Antioquia, Colombia',
+          address: {
+            '@type': 'PostalAddress',
+            addressLocality: 'Arboletes',
+            addressRegion: 'Antioquia',
+            addressCountry: 'CO',
+          },
+        },
+        geo: {
+          '@type': 'GeoCoordinates',
+          latitude: 8.865,
+          longitude: -76.426,
+        },
+        address: {
+          '@type': 'PostalAddress',
+          streetAddress: 'Cl. 31 #3246',
+          addressLocality: 'Arboletes',
+          addressRegion: 'Antioquia',
+          addressCountry: 'CO',
+        },
+      },
+      {
+        '@type': 'FAQPage',
+        '@id': `${selfUrl}#faq`,
+        mainEntity: [
+          {
+            '@type': 'Question',
+            name: 'What is the mud volcano at Playa Arboletes?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'It is a natural mud volcano formed by mud diapirism — deep gases and pressure push mineral-rich mud to the surface. The warm, sulfur- and mineral-rich mud is used for natural baths.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'How do I get from Montería airport (MTR) to Playa Arboletes?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'Los Garzones Airport (MTR) in Montería is about 80 km away. Take an authorized taxi cooperative (≈ COP 120,000–160,000 / USD 30–40, 1.5–2h) or a Colectivo minibus (≈ COP 15,000–25,000 / USD 4–6) then a mototaxi to the beach. Roads are mostly flat and in good condition.',
+            },
+          },
+          {
+            '@type': 'Question',
+            name: 'Is Playa Arboletes free to visit?',
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: 'The public beach is free. The mud-volcano rinse and water-park/resort services are priced on-site.',
+            },
+          },
+        ],
+      },
+    ],
+  };
+
   return (
     <html lang={langMap[locale] || 'zh-CN'} suppressHydrationWarning>
       <head>
         <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${getAdsenseClientId()}`} crossOrigin="anonymous" />
         <meta name="google-adsense-account" content={getAdsenseClientId()} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{

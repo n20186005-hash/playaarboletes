@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
+import { Link } from '@/i18n/routing';
 import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
@@ -44,6 +45,13 @@ export default function Header() {
               {t(section)}
             </a>
           ))}
+          <Link
+            href="/attractions"
+            className="text-sm font-medium transition-colors"
+            style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
+          >
+            {t('attractions')}
+          </Link>
         </nav>
 
         <div className="flex items-center gap-2">

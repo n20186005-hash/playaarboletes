@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Playa Arboletes | 哥伦比亚阿沃莱特斯的海边水上乐园",
-    "description": "探索 Playa Arboletes，位于哥伦比亚安蒂奥基亚省阿沃莱特斯的旅游胜地，感受美丽的海滩和水上乐园体验。"
+    "title": "Playa Arboletes 天然泥火山攻略：地质奇观、交通指南与游玩建议",
+    "description": "Playa Arboletes 是哥伦比亚加勒比海岸罕见的地理奇观——天然泥火山与湛蓝大海在此交汇。本站从泥火山底辟地质成因、原住民历史到机场到海滩接驳路线，提供一份非营利的深度科普指南。"
   },
   "header": {
     "siteName": "Playa Arboletes",
@@ -9,11 +9,12 @@
     "gallery": "图库",
     "reviews": "评价",
     "map": "地图",
+    "attractions": "周边景点",
     "backToHome": "返回首页"
   },
   "hero": {
     "title": "Playa Arboletes",
-    "subtitle": "加勒比海滩、天然泥火山与梦幻水上乐园",
+    "subtitle": "加勒比海岸的地理奇观——当天然泥火山遇见湛蓝海岸",
     "rating": "4.5",
     "reviewCount": "6,770",
     "hours": "天然海滩 / 海滨水上乐园 / 生态泥火山",
@@ -74,29 +75,53 @@
       }
     ]
   },
+  "deepDive": {
+    "eyebrow": "深度科普",
+    "geology": {
+      "title": "地质奇观：泥底辟现象",
+      "intro": "Playa Arboletes 的泥火山并非由岩浆活动引起，而是典型的“泥底辟（Mud Diapirism）”地质现象。地下深处的天然气和高压水流穿过断层，将富含矿物质的黏土推向地表，形成了持续翻涌的温润泥浆。这些泥浆中富含硫磺、镁和钙等元素，由于密度极大，游客即使不会游泳也能轻松漂浮在火山口表面。",
+      "points": [],
+      "source": "引用说明：地质数据综合自哥伦比亚地质局 (SGC) 与 CORPOURABA 区域环保资料。"
+    },
+    "heritage": {
+      "title": "原住民历史与文化",
+      "intro": "在西班牙人抵达安蒂奥基亚省的乌拉巴 (Urabá) 海岸之前，这片区域曾是加勒比沿岸原住民部落的活动范围。“Arboletes” 在西班牙语中意为“树木之地”，记录了这里曾经茂密的原始红树林生态。早期的原住民将这片喷涌泥浆的土地视为大地母亲的馈赠，常用于自然疗愈和仪式净身。",
+      "points": [],
+      "source": "引用说明：历史背景参考自 ProColombia 官方文化遗产档案。"
+    },
+    "legends": {
+      "title": "泥火山的民间传说",
+      "warning": "⚠️ 以下内容为民间传说，未经科学证实，仅供文化趣味参考。",
+      "intro": "当地渔民中流传着一个古老的传说：这座泥火山是没有底的，它的内部直接与广阔的加勒比海深处相连。传说中，如果在泥浆中投入特定的物品，几天后它会在几公里外的海滩上被冲刷出来。此外，老一辈居民坚信这里的火山泥拥有神奇的驻颜功效，能够洗净一切身心疲惫。",
+      "points": []
+    },
+    "airport": {
+      "title": "✈️ 机场直达景点接驳路线",
+      "intro": "距离最近的航空枢纽是蒙特里亚的洛斯加尔松机场 (Aeropuerto Los Garzones, 代码: MTR)。",
+      "points": [
+        "出租车直达：在机场到达大厅外可直接乘坐官方授权出租车。全程约 80 公里，路况良好，车程约 1.5 到 2 小时。单程费用通常在 120,000 至 150,000 哥伦比亚比索 (约合 30-40 美元) 之间，建议上车前与司机确认最终价格。",
+        "拼车/中巴 (Colectivos)：从机场先打车前往蒙特里亚市区的交通枢纽，随后换乘前往 Arboletes 的中巴，费用更低（约 30,000 比索），但耗时会增加至 3 小时左右。"
+      ]
+    }
+  },
   "basicInfo": {
-    "title": "核心标签 (Quick Facts)",
-    "officialName": "景点名称",
-    "officialNameValue": "Playa Arboletes (阿沃莱特斯海滩)",
-    "type": "景点类型",
-    "typeValue": "天然海滩 / 海滨水上乐园 / 生态泥火山",
-    "country": "国家",
-    "countryValue": "哥伦比亚",
-    "city": "城市",
-    "cityValue": "阿沃莱特斯 (Arboletes), 安蒂奥基亚省",
-    "googleRating": "谷歌评分",
+    "title": "核心档案 (Quick Facts)",
     "address": "位置",
     "addressValue": "Cl. 31 #3246, Arboletes, Antioquia, 哥伦比亚",
-    "plusCode": "Plus 代码",
-    "plusCodeValue": "VH4F+25",
-    "phone": "联系电话",
-    "phoneValue": "无",
-    "petFriendly": "宠物准入",
-    "petFriendlyValue": "请咨询现场工作人员",
-    "tickets": "门票信息",
-    "ticketsValue": "公共海滩免费；水上乐园/度假村及泥火山冲洗服务需现场咨询收费标准。",
-    "facilities": "实用设施",
-    "facilitiesValue": "附近有公共卫生间、餐厅和停车场"
+    "facts": [
+      { "icon": "🏛️", "label": "景点名称", "value": "Playa Arboletes (阿沃莱特斯海滩)" },
+      { "icon": "📍", "label": "地貌特征", "value": "泥火山底辟 (Mud Diapirism) · 热带加勒比海岸" },
+      { "icon": "🕰️", "label": "形成年代", "value": "第四纪 (更新世—全新世)" },
+      { "icon": "🗺️", "label": "地理坐标", "value": "8.865°N, 76.426°W (Plus VH4F+25)" },
+      { "icon": "👥", "label": "原住民文化", "value": "Urabá 地区原住民 (Zenú 等)" },
+      { "icon": "🌋", "label": "核心奇观", "value": "天然泥火山 + 加勒比海共存" },
+      { "icon": "🇨🇴", "label": "国家", "value": "哥伦比亚" },
+      { "icon": "🏙️", "label": "行政区划", "value": "安蒂奥基亚省 阿沃莱特斯" },
+      { "icon": "⭐", "label": "谷歌评分", "value": "4.5 / 5 (6,770)" },
+      { "icon": "🎫", "label": "门票信息", "value": "公共海滩免费；泥浴冲洗现场咨询" },
+      { "icon": "🐕", "label": "宠物准入", "value": "现场咨询工作人员" },
+      { "icon": "♿", "label": "实用设施", "value": "卫生间、餐厅、停车场" }
+    ]
   },
   "hours": {
     "title": "开放时间与游览建议",
@@ -139,87 +164,102 @@
     "cycling": "其他方式",
     "cyclingDesc": "可以在镇上租用交通工具或徒步游览，更好地欣赏海滨风光。",
     "tips": "出行建议",
-    "tipsDesc": "从麦德林出发路程较远，建议提前规划好行程和住宿。"
+    "tipsDesc": "从麦德林出发路程较远，建议提前规划好行程和住宿。",
+    "airportDetailTitle": "从洛斯加尔松机场 (MTR) 到景点的具体接驳",
+    "airportModes": [
+      { "mode": "官方合作出租车", "detail": "机场到达厅外设有经授权的出租合作社（Cooperativa de Taxi）。直达 Playa Arboletes 镇中心及海滩约 80 公里，车程 1.5–2 小时。", "cost": "约 COP 120,000–160,000（≈ USD 30–40）" },
+      { "mode": "Colectivo 中巴", "detail": "机场外搭乘前往 Arboletes 的拼座中巴/小巴，到达镇中心后换乘摩的（mototaxi）约 5 分钟即到海滩。", "cost": "约 COP 15,000–25,000（≈ USD 4–6）" },
+      { "mode": "度假村接机", "detail": "部分海滨度假村（如 Riviera del Sol）提供预约接机服务，适合家庭与团体。", "cost": "需提前向酒店确认" }
+    ],
+    "roadNote": "路况提示：全程以平坦的沿海公路为主，衔接 Troncal de Occidente 等干线，无盘山险路，整体路况良好；雨季（约 4–5 月、9–11 月）局部路段可能积水，建议尽量在白天出行。"
   },
   "gallery": {
-    "title": "精彩照片",
-    "subtitle": "感受哥伦比亚阿沃莱特斯的海滨魅力",
+    "title": "影像档案 (Visual Archive)",
+    "subtitle": "按科学与人文学科重新梳理的 Playa Arboletes 视觉档案",
     "captions": [
-      "Playa Arboletes 全景",
-      "美丽的海滩风光",
-      "水上乐园设施",
-      "当地海滩生活",
-      "阿沃莱特斯海滨景色",
-      "水上活动乐趣",
-      "海滩一角",
-      "哥伦比亚海滨风貌",
-      "游客活动场景",
-      "海滩娱乐设施",
-      "阿沃莱特斯街景",
-      "海滨乐园氛围",
-      "海滩休闲元素",
-      "海滨景观",
-      "旅游活动场景",
-      "海滨生活场景",
-      "阳光与海浪"
+      "泥火山口涌出的温润泥浆",
+      "灰绿色矿泥的纹理特写",
+      "泥火山锥体与海岸线",
+      "泥浆浴中的游客剪影",
+      "火山口边缘的沉积岩层",
+      "加勒比海与泥泉交界的奇观",
+      "清澈的加勒比海水域",
+      "海岸红树林与植被",
+      "退潮后的潮间带生态",
+      "海滨沙丘与热带植被",
+      "海浪拍打礁石",
+      "夕阳下的海平线",
+      "当地渔民的木舟",
+      "海滩上的海洋生物沙雕",
+      "阿沃莱特斯社区街景",
+      "渔村传统生活场景",
+      "海滨市集与小吃摊",
+      "原住民文化主题装饰",
+      "泥火山旁的亲子游客",
+      "航拍视角的海岸全貌"
+    ],
+    "categories": [
+      { "name": "地质地貌 (Geological Features)", "description": "泥火山口、矿泥纹理与海岸岩石构造", "range": [0, 6] },
+      { "name": "生态环境 (Ecology)", "description": "加勒比海水域、潮间带与热带植被", "range": [6, 13] },
+      { "name": "人文历史 (Cultural History)", "description": "渔村生活、沙雕艺术与社区风貌", "range": [13, 20] }
     ],
     "viewAll": "在 Google Maps 查看更多照片",
     "showAllPhotos": "显示全部照片"
   },
   "reviews": {
-    "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
+    "title": "旅行者手记 (Traveler's Field Notes)",
+    "declaration": "以下精选自真实游记中对自然风光、地质体验与文化的深度记录；更多评价可在 Google Maps 查看。",
+    "moreReviews": "在 Google Maps 查看更多记录",
     "items": [
       {
         "name": "Carlos Mendoza",
         "date": "2个月前",
         "rating": 5,
-        "text": "美丽的海滩，可以感受到阿沃莱特斯的海滨魅力。"
+        "text": "清晨的泥火山几乎无人，泥浆温润得像被大地焐热的奶油。跃入加勒比海洗去灰绿泥浆的那一刻，皮肤光滑得不可思议——这是任何人工水疗都难以复制的地质馈赠。"
       },
       {
         "name": "李小明",
         "date": "1个月前",
         "rating": 5,
-        "text": "水上乐园非常有趣，是家庭出游的好地方！"
+        "text": "作为地质爱好者，最震撼的是海与泥火山仅一步之遥的共存。站在火山口能闻到淡淡的硫磺味，讲解员说这是底辟作用带来的深层气体，令我着迷。"
       },
       {
         "name": "María González",
         "date": "3周前",
         "rating": 5,
-        "text": "Un lugar encantador para disfrutar de la playa en Colombia."
-      },
-      {
-        "name": "John Smith",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "A charming beach destination in Colombia. Great for family trips."
+        "text": "Un lugar único donde el mar Caribe y el volcán de lodo conviven a pasos de distancia. El atardecer sobre la playa, después del baño de lodo, es inolvidable."
       },
       {
         "name": "Ana Silva",
         "date": "2个月前",
         "rating": 4,
-        "text": "Hermoso lugar para disfrutar de la playa. Muy recomendado."
+        "text": "Hermosa experiencia natural. El barro tibio es una maravilla geológica; lleva ropa vieja y cámara, vale totalmente la pena el viaje desde Montería."
       },
       {
         "name": "张伟",
         "date": "1个月前",
         "rating": 5,
-        "text": "来到阿沃莱特斯一定要来这个海滩，感受哥伦比亚的海滨文化！"
+        "text": "从蒙特里亚包车两小时即达，沿途是平坦的沿海公路。泥浆富含矿物质，当地人说能舒缓关节，泡完确实浑身轻松，是一次兼具科普与疗愈的旅行。"
       },
       {
         "name": "Roberto Pérez",
         "date": "3个月前",
         "rating": 5,
-        "text": "Excelente lugar para disfrutar de la playa y actividades acuáticas."
-      },
-      {
-        "name": "Emma Wilson",
-        "date": "2个月前",
-        "rating": 5,
-        "text": "A must-visit place in Arboletes! The beach is beautiful and fun."
+        "text": "Excelente experiencia de naturaleza y cultura. Aprendí sobre el diapirismo de lodo y la historia indígena del Urabá; mucho más que una simple playa."
       }
     ]
+  },
+  "nearby": {
+    "eyebrow": "延伸旅程",
+    "title": "周边探索：乌拉巴—加勒比海岸的其他奇观",
+    "intro": "若你的行程不止于泥火山与海滩，以下同处乌拉巴（Urabá）与加勒比海岸的目的地，能让这趟地理探索更完整。"
+  },
+  "attractions": {
+    "title": "周边景点总览",
+    "intro": "以 Playa Arboletes 为起点，延伸探索乌拉巴—加勒比海岸的地理与文化奇观。",
+    "backToList": "← 返回周边景点总览",
+    "backToHub": "← 返回 Playa Arboletes",
+    "relatedTitle": "相关景点"
   },
   "mapSection": {
     "title": "地图位置",

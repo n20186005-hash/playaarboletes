@@ -26,18 +26,20 @@ const photoFiles = [
   'playa-arboletes (20).jpg',
 ];
 
+type Category = { name: string; description: string; range: [number, number] };
+
 export default function Gallery() {
   const t = useTranslations('gallery');
   const captions = t.raw('captions') as string[];
+  const categories = t.raw('categories') as Category[];
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
     alt: captions?.[i] || `Playa Arboletes ${i + 1}`,
+    index: i,
   }));
-
-  const visiblePhotos = photos;
 
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
@@ -66,41 +68,58 @@ export default function Gallery() {
           <p className="mb-8" style={{ color: 'var(--text-muted)' }}>{t('subtitle')}</p>
           <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-          <div className="relative">
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {visiblePhotos.map((photo, i) => (
-                <div
-                  key={i}
-                  className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
-                  onClick={() => openLightbox(i)}
-                >
-                  <img
-                    src={photo.src}
-                    alt={photo.alt}
-                    className="w-full h-full object-cover rounded-lg"
-                    style={{ minHeight: i === 0 ? '400px' : '180px' }}
-                    loading="lazy"
-                  />
-                  <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
-                    <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
-                    </p>
+          <div className="space-y-12">
+            {categories.map((cat, ci) => {
+              const [start, end] = cat.range;
+              const catPhotos = photos.filter((p) => p.index >= start && p.index < end);
+              return (
+                <div key={ci}>
+                  <div className="mb-4">
+                    <h3
+                      className="font-display text-xl sm:text-2xl font-semibold"
+                      style={{ color: 'var(--text-primary)' }}
+                    >
+                      {cat.name}
+                    </h3>
+                    <p className="text-sm mt-1" style={{ color: 'var(--text-muted)' }}>{cat.description}</p>
+                  </div>
+                  <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
+                    {catPhotos.map((photo, i) => (
+                      <div
+                        key={photo.index}
+                        className={`gallery-item relative group cursor-pointer ${ci === 0 && i === 0 ? 'col-span-2 row-span-2' : ''}`}
+                        onClick={() => openLightbox(photo.index)}
+                      >
+                        <img
+                          src={photo.src}
+                          alt={photo.alt}
+                          className="w-full h-full object-cover rounded-lg"
+                          style={{ minHeight: ci === 0 && i === 0 ? '400px' : '180px' }}
+                          loading="lazy"
+                        />
+                        <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
+                          <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
+                            {photo.alt}
+                          </p>
+                        </div>
+                      </div>
+                    ))}
                   </div>
                 </div>
-              ))}
-            </div>
+              );
+            })}
+          </div>
 
-            <div className="flex justify-center mt-8">
-              <a
-                href="https://maps.app.goo.gl/nnGnF5BeadJKB52q9"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm hover:underline"
-                style={{ color: 'var(--accent)' }}
-              >
-                {t('viewAll')}
-              </a>
-            </div>
+          <div className="flex justify-center mt-8">
+            <a
+              href="https://maps.app.goo.gl/nnGnF5BeadJKB52q9"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm hover:underline"
+              style={{ color: 'var(--accent)' }}
+            >
+              {t('viewAll')}
+            </a>
           </div>
         </div>
       </section>

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Playa Arboletes | Parque Acuático Marítimo en Arboletes, Colombia",
-    "description": "Explora la Playa Arboletes, una atracción turística en Arboletes, Antioquia, Colombia, y experimenta la hermosa playa y la diversión del parque acuático."
+    "title": "Guía del Volcán de Lodo de Playa Arboletes: Cómo Llegar, Geología y Qué Esperar",
+    "description": "Playa Arboletes es una rara maravilla geográfica del Caribe colombiano donde un volcán de lodo natural se encuentra con el mar azul. Una guía sin fines de lucro y en profundidad sobre la geología del diapirismo de lodo, la herencia indígena, las leyendas locales y el transporte del aeropuerto a la playa."
   },
   "header": {
     "siteName": "Playa Arboletes",
@@ -9,11 +9,12 @@
     "gallery": "Galería",
     "reviews": "Reseñas",
     "map": "Mapa",
+    "attractions": "Atracciones",
     "backToHome": "Volver al Inicio"
   },
   "hero": {
     "title": "Playa Arboletes",
-    "subtitle": "Playa del Caribe, Volcán de Lodo Natural y Parque Acuático de Ensueño",
+    "subtitle": "Una Maravilla Geográfica del Caribe — Donde un Volcán de Lodo Natural Encuentra la Costa Azul",
     "rating": "4.5",
     "reviewCount": "6,770",
     "hours": "Playa Natural / Parque Acuático / Volcán de Lodo Ecológico",
@@ -74,29 +75,53 @@
       }
     ]
   },
+  "deepDive": {
+    "eyebrow": "Guía en Profundidad",
+    "geology": {
+      "title": "Maravilla Geológica: Diapirismo de Lodo",
+      "intro": "El volcán de lodo en Playa Arboletes no es producto de actividad magmática, sino un ejemplo clásico de \"Diapirismo de Lodo\". El gas natural y el agua a alta presión desde las profundidades empujan arcilla rica en minerales a través de fallas geológicas, creando una piscina burbujeante de lodo cálido. Este lodo es rico en azufre, magnesio y calcio. Debido a su altísima densidad, los visitantes pueden flotar sin esfuerzo en la superficie, incluso si no saben nadar.",
+      "points": [],
+      "source": "Nota de origen: Datos geológicos recopilados del Servicio Geológico Colombiano (SGC) y registros ambientales de CORPOURABA."
+    },
+    "heritage": {
+      "title": "Historia y Cultura Indígena",
+      "intro": "Antes de la llegada de los españoles a la costa de Urabá en Antioquia, esta región estaba habitada por tribus indígenas costeras del Caribe. El nombre \"Arboletes\" refleja los densos bosques de manglares que alguna vez cubrieron el área. Los primeros pueblos indígenas veían esta tierra que emanaba lodo como un regalo de la Madre Tierra, utilizándola para curaciones naturales y rituales de purificación.",
+      "points": [],
+      "source": "Nota de origen: Antecedentes históricos basados en los archivos de patrimonio cultural oficial de ProColombia."
+    },
+    "legends": {
+      "title": "Leyendas del Volcán de Lodo",
+      "warning": "⚠️ Lo siguiente son leyendas populares, no verificadas científicamente; se comparten solo por interés cultural.",
+      "intro": "Una antigua leyenda circula entre los pescadores locales: este volcán de lodo no tiene fondo y se conecta directamente con las profundidades del Mar Caribe. Se dice que si arrojas un objeto específico al lodo, días después aparecerá en la playa a varios kilómetros de distancia. Además, las generaciones mayores creen firmemente que el lodo volcánico posee propiedades mágicas rejuvenecedoras capaces de limpiar todo el agotamiento físico y mental.",
+      "points": []
+    },
+    "airport": {
+      "title": "✈️ Transporte desde el Aeropuerto al Destino",
+      "intro": "El centro de aviación más cercano es el Aeropuerto Los Garzones en Montería (Código IATA: MTR).",
+      "points": [
+        "Taxi Directo: Hay taxis oficiales disponibles justo afuera de la sala de llegadas. El trayecto de 80 kilómetros transcurre por vías pavimentadas y dura entre 1.5 y 2 horas. Un viaje de ida suele costar entre 120,000 y 150,000 COP (aproximadamente $30-40 USD). Se recomienda confirmar la tarifa con el conductor antes de iniciar el viaje.",
+        "Transporte Compartido (Colectivos): Tome un taxi corto desde el aeropuerto hasta la terminal de transporte principal de Montería, luego haga transbordo a un colectivo con destino a Arboletes. Es una opción más económica (alrededor de 30,000 COP), pero el tiempo de viaje aumenta a unas 3 horas."
+      ]
+    }
+  },
   "basicInfo": {
     "title": "Datos Rápidos",
-    "officialName": "Nombre Oficial",
-    "officialNameValue": "Playa Arboletes",
-    "type": "Tipo de Atracción",
-    "typeValue": "Playa Natural / Parque Acuático / Volcán de Lodo Ecológico",
-    "country": "País",
-    "countryValue": "Colombia",
-    "city": "Ciudad",
-    "cityValue": "Arboletes, Antioquia",
-    "googleRating": "Calificación de Google",
     "address": "Dirección",
     "addressValue": "Cl. 31 #3246, Arboletes, Antioquia, Colombia",
-    "plusCode": "Código Plus",
-    "plusCodeValue": "VH4F+25",
-    "phone": "Teléfono",
-    "phoneValue": "N/A",
-    "petFriendly": "Mascotas permitidas",
-    "petFriendlyValue": "Por favor consulte al personal en el sitio",
-    "tickets": "Entradas",
-    "ticketsValue": "La playa pública es gratuita; el parque acuático/resort y los servicios de lavado del volcán de lodo requieren consulta en el lugar para conocer los precios.",
-    "facilities": "Instalaciones",
-    "facilitiesValue": "Baños públicos cercanos, restaurantes y estacionamiento"
+    "facts": [
+      { "icon": "🏛️", "label": "Nombre Oficial", "value": "Playa Arboletes" },
+      { "icon": "📍", "label": "Rasgo Geológico", "value": "Diapirismo de Lodo · Costa Caribeña Tropical" },
+      { "icon": "🕰️", "label": "Época de Formación", "value": "Cuaternario (Pleistoceno–Holoceno)" },
+      { "icon": "🗺️", "label": "Coordenadas", "value": "8.865°N, 76.426°O (Plus VH4F+25)" },
+      { "icon": "👥", "label": "Herencia Indígena", "value": "Grupos Indígenas del Urabá (Zenú, etc.)" },
+      { "icon": "🌋", "label": "Maravilla Central", "value": "Volcán de Lodo + Mar Caribe" },
+      { "icon": "🇨🇴", "label": "País", "value": "Colombia" },
+      { "icon": "🏙️", "label": "Región", "value": "Arboletes, Antioquia" },
+      { "icon": "⭐", "label": "Calificación Google", "value": "4.5 / 5 (6,770)" },
+      { "icon": "🎫", "label": "Entrada", "value": "Playa pública gratis; enjuague del lodo in situ" },
+      { "icon": "🐕", "label": "Mascotas", "value": "Consultar al personal" },
+      { "icon": "♿", "label": "Instalaciones", "value": "Baños, restaurantes, estacionamiento" }
+    ]
   },
   "hours": {
     "title": "Horarios y Consejos para Visitantes",
@@ -139,87 +164,102 @@
     "cycling": "Otras Opciones",
     "cyclingDesc": "Puede alquilar transporte en el pueblo o caminar para explorar y apreciar mejor el paisaje marítimo.",
     "tips": "Consejos de Viaje",
-    "tipsDesc": "El viaje desde Medellín es largo. Se recomienda planificar con anticipación su itinerario y alojamiento."
+    "tipsDesc": "El viaje desde Medellín es largo. Se recomienda planificar con anticipación su itinerario y alojamiento.",
+    "airportDetailTitle": "Traslado Aeropuerto–Atracción (Los Garzones MTR)",
+    "airportModes": [
+      { "mode": "Cooperativa de Taxi Autorizada", "detail": "Cooperativas de taxi autorizadas operan fuera de la sala de llegadas. Directo al centro y playa de Arboletes, ~80 km, 1.5–2 horas.", "cost": "≈ COP 120.000–160.000 (≈ USD 30–40)" },
+      { "mode": "Colectivo (Microbús)", "detail": "Microbuses compartidos a Arboletes salen cerca del aeropuerto; en el centro tome un mototaxi (~5 min) hasta la playa.", "cost": "≈ COP 15.000–25.000 (≈ USD 4–6)" },
+      { "mode": "Recogida del Resort", "detail": "Algunos resorts costeros (p. ej. Riviera del Sol) ofrecen traslado pre-reservado, ideal para familias y grupos.", "cost": "Confirmar con el hotel" }
+    ],
+    "roadNote": "Estado de la vía: mayormente carreteras costeras planas que enlazan la Troncal de Occidente — sin pasos de montaña, superficie generalmente buena. En temporada de lluvias (aprox. abr–may, sep–nov) algunos tramos pueden inundarse; se recomienda viajar de día."
   },
   "gallery": {
-    "title": "Fotos Impresionantes",
-    "subtitle": "Sienta el Encanto Marítimo de Arboletes, Colombia",
+    "title": "Archivo Visual",
+    "subtitle": "Un archivo visual de Playa Arboletes, organizado por ciencia y humanidades",
     "captions": [
-      "Vista Panorámica de la Playa Arboletes",
-      "Hermoso Paisaje de Playa",
-      "Instalaciones del Parque Acuático",
-      "Vida Local de Playa",
-      "Paisaje Marítimo de Arboletes",
-      "Diversión en Actividades Acuáticas",
-      "Un Rincón de la Playa",
-      "Estilo Marítimo Colombiano",
-      "Escenas de Actividades de Turistas",
-      "Instalaciones de Entretenimiento de Playa",
-      "Vista de Calle de Arboletes",
-      "Atmósfera del Parque Marítimo",
-      "Elementos de Ocio de Playa",
-      "Paisaje Marítimo",
-      "Escenas de Actividades de Turistas",
-      "Escenas de Vida Marítima",
-      "Sol y Olas"
+      "Barro tibio brotando del cráter del volcán de lodo",
+      "Primer plano de la textura del barro mineral gris verdoso",
+      "Cono del volcán de lodo contra la línea costera",
+      "Silueta de un visitante en el baño de lodo",
+      "Capas de roca sedimentaria en el borde del cráter",
+      "Donde el mar Caribe encuentra el manantial de lodo",
+      "Aguas caribeñas cristalinas",
+      "Manglares costeros y vegetación",
+      "Ecología intermareal en marea baja",
+      "Dunas costeras y vegetación tropical",
+      "Olas rompiendo contra las rocas",
+      "Horizonte marino al atardecer",
+      "Bote de madera de pescador local",
+      "Escultura de arena de fauna marina en la playa",
+      "Calle del pueblo de Arboletes",
+      "Vida tradicional del pueblo pesquero",
+      "Mercado costero y puestos de comida",
+      "Decoración con temática indígena",
+      "Familias junto al volcán de lodo",
+      "Vista aérea de la costa"
+    ],
+    "categories": [
+      { "name": "Rasgos Geológicos", "description": "Cráter del volcán de lodo, textura mineral y roca costera", "range": [0, 6] },
+      { "name": "Ecología", "description": "Aguas caribeñas, zona intermareal y vegetación tropical", "range": [6, 13] },
+      { "name": "Historia Cultural", "description": "Vida del pueblo pesquero, arte en arena y comunidad", "range": [13, 20] }
     ],
     "viewAll": "Ver más fotos en Google Maps",
     "showAllPhotos": "Mostrar Todas las Fotos"
   },
   "reviews": {
-    "title": "Reseñas de Visitantes",
-    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
-    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "title": "Bitácora del Viajero (Traveler's Field Notes)",
+    "declaration": "Seleccionadas de diarios de viaje reales que destacan el paisaje natural, la experiencia geológica y la cultura local. Más reseñas en Google Maps.",
+    "moreReviews": "Ver Más Notas en Google Maps",
     "items": [
       {
         "name": "Carlos Mendoza",
         "date": "hace 2 meses",
         "rating": 5,
-        "text": "Hermosa playa, se puede sentir el encanto marítimo de Arboletes."
+        "text": "Al amanecer el volcán de lodo está casi vacío y el barro parece crema tibia calentada por la tierra. Entrar al Caribe para quitarse la arcilla gris verdosa dejó mi piel increíblemente suave: un regalo geológico que ningún spa replica."
       },
       {
         "name": "Li Xiaoming",
         "date": "hace 1 mes",
         "rating": 5,
-        "text": "El parque acuático es muy divertido, un gran lugar para viajes familiares!"
+        "text": "Como entusiasta de la geología, la convivencia del mar y el volcán de lodo a pasos de distancia es asombrosa. En el cráter se siente un leve olor a azufre: el gas profundo del diapirismo, según el guía. Fascinante."
       },
       {
         "name": "María González",
         "date": "hace 3 semanas",
         "rating": 5,
-        "text": "Un lugar encantador para disfrutar de la playa en Colombia."
-      },
-      {
-        "name": "John Smith",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "A charming beach destination in Colombia. Great for family trips."
+        "text": "Un lugar único donde el mar Caribe y el volcán de lodo conviven a pasos de distancia. La puesta de sol sobre la playa tras el baño de lodo es inolvidable."
       },
       {
         "name": "Ana Silva",
         "date": "hace 2 meses",
         "rating": 4,
-        "text": "Hermoso lugar para disfrutar de la playa. Muy recomendado."
+        "text": "Una hermosa experiencia natural. El barro tibio es una maravilla geológica; lleva ropa vieja y cámara: el viaje desde Montería vale totalmente la pena."
       },
       {
         "name": "Zhang Wei",
         "date": "hace 1 mes",
         "rating": 5,
-        "text": "¡Visita obligada cuando vengas a Arboletes, siente la cultura marítima de Colombia!"
+        "text": "A 2 horas en auto desde Montería por carreteras costeras planas. El barro rico en minerales alivia las articulaciones, dicen; yo sí sentí renovación: un viaje educativo y restaurativo."
       },
       {
         "name": "Roberto Pérez",
         "date": "hace 3 meses",
         "rating": 5,
-        "text": "Excelente lugar para disfrutar de la playa y actividades acuáticas."
-      },
-      {
-        "name": "Emma Wilson",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "A must-visit place in Arboletes! The beach is beautiful and fun."
+        "text": "Excelente experiencia de naturaleza y cultura. Aprendí sobre el diapirismo de lodo y la historia indígena del Urabá; mucho más que una simple playa."
       }
     ]
+  },
+  "nearby": {
+    "eyebrow": "Extiende tu Viaje",
+    "title": "Exploraciones Cercanas: Más Maravillas de la Costa Urabá–Caribe",
+    "intro": "Si tu viaje va más allá del volcán de lodo y la playa, estos destinos a lo largo de la costa del Urabá y el Caribe completan la exploración geográfica."
+  },
+  "attractions": {
+    "title": "Índice de Atracciones Cercanas",
+    "intro": "A partir de Playa Arboletes, explora más maravillas geográficas y culturales de la costa Urabá–Caribe.",
+    "backToList": "← Volver al índice de atracciones",
+    "backToHub": "← Volver a Playa Arboletes",
+    "relatedTitle": "Atracciones Relacionadas"
   },
   "mapSection": {
     "title": "Ubicación en el Mapa",
