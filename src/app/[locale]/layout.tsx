@@ -22,14 +22,14 @@ export async function generateMetadata({
   const enUrl = `${baseUrl}/en`;
   const esUrl = `${baseUrl}/es`;
 
-  let selfUrl = zhUrl;
+  let selfUrl = esUrl;
   if (locale === 'en') selfUrl = enUrl;
-  else if (locale === 'es') selfUrl = esUrl;
+  else if (locale === 'zh') selfUrl = zhUrl;
 
   const localeMap: Record<string, string> = {
     'zh': 'zh_CN',
     'en': 'en_US',
-    'es': 'es_ES',
+    'es': 'es_CO',
   };
 
   return {
@@ -38,10 +38,10 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
+        'es-CO': esUrl,
         'en': enUrl,
-        'es': esUrl,
-        'x-default': enUrl,
+        'zh': zhUrl,
+        'x-default': esUrl,
       } as Record<string, string>,
     },
     openGraph: {
@@ -49,7 +49,7 @@ export async function generateMetadata({
       description: messages.meta.description,
       url: selfUrl,
       siteName: messages.header.siteName,
-      locale: localeMap[locale] || 'en_US',
+      locale: localeMap[locale] || 'es_CO',
       type: 'website',
     },
   };
@@ -90,9 +90,10 @@ export default async function LocaleLayout({
         '@id': `${selfUrl}#attraction`,
         name: 'Playa Arboletes',
         description:
-          'A rare Caribbean geographic wonder in Colombia where a natural mud volcano (mud diapirism) meets the blue sea. A non-profit, in-depth guide to its geology, indigenous heritage and transport.',
+          'Playa Arboletes is a public Caribbean beach in Arboletes, Antioquia, Colombia, known for warm waters, fine sand and calm swimming. A nearby natural mud volcano (mud diapirism) sits a short walk from the shore. An independent, non-profit travel-information guide to the beach, how to get there, photos and what to do.',
         url: selfUrl,
-        touristType: ['Geology Enthusiasts', 'Ecotourism', 'Educational Travel'],
+        isAccessibleForFree: true,
+        touristType: ['Beach Lovers', 'Ecotourism', 'Family Travel'],
         isPartOf: {
           '@type': 'Place',
           name: 'Arboletes, Antioquia, Colombia',
@@ -115,6 +116,13 @@ export default async function LocaleLayout({
           addressRegion: 'Antioquia',
           addressCountry: 'CO',
         },
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: 4.5,
+          reviewCount: 6825,
+          bestRating: 5,
+          worstRating: 1,
+        },
       },
       {
         '@type': 'FAQPage',
@@ -122,10 +130,10 @@ export default async function LocaleLayout({
         mainEntity: [
           {
             '@type': 'Question',
-            name: 'What is the mud volcano at Playa Arboletes?',
+            name: 'Is Playa Arboletes free to visit?',
             acceptedAnswer: {
               '@type': 'Answer',
-              text: 'It is a natural mud volcano formed by mud diapirism — deep gases and pressure push mineral-rich mud to the surface. The warm, sulfur- and mineral-rich mud is used for natural baths.',
+              text: 'Yes. Playa Arboletes is a public beach and free to access. Nearby private businesses — such as the castle-themed water park (Riviera del Sol) — set their own prices for pools, slides and stays. The natural mud-volcano rinse and any local washing services are priced on-site.',
             },
           },
           {
@@ -138,10 +146,10 @@ export default async function LocaleLayout({
           },
           {
             '@type': 'Question',
-            name: 'Is Playa Arboletes free to visit?',
+            name: 'What is the natural mud volcano near Playa Arboletes?',
             acceptedAnswer: {
               '@type': 'Answer',
-              text: 'The public beach is free. The mud-volcano rinse and water-park/resort services are priced on-site.',
+              text: 'A short walk from the shore is a natural mud volcano formed by mud diapirism — deep gases and pressure push mineral-rich mud to the surface. Access, safety rules and open areas can change; always check current conditions and local guidance before visiting.',
             },
           },
         ],
@@ -181,7 +189,7 @@ export default async function LocaleLayout({
                   "@type": "ListItem",
                   "position": 3,
                   "name": "Arboletes",
-                  "item": `${baseUrl}/`
+                  "item": selfUrl
                 }
               ]
             })

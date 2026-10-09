@@ -3,7 +3,9 @@ import { createNavigation } from 'next-intl/navigation';
 
 export const routing = defineRouting({
   locales: ['zh', 'en', 'es'],
-  defaultLocale: 'zh',
+  // Spanish (es-CO) is the primary SEO market for this Colombian beach.
+  defaultLocale: 'es',
+  localeDetection: false,
   localePrefix: 'always',
   pathnames: {
     '/': '/',
@@ -12,6 +14,12 @@ export const routing = defineRouting({
     '/cookie-settings': '/cookie-settings',
     '/attractions': '/attractions',
     '/attractions/[slug]': '/attractions/[slug]',
+    '/playas-de-arboletes': '/playas-de-arboletes',
+    '/fotos': '/fotos',
+    '/castillo-de-arboletes': '/castillo-de-arboletes',
+    '/como-llegar': '/como-llegar',
+    '/volcan-de-lodo': '/volcan-de-lodo',
+    '/playas-cerca-de-medellin': '/playas-cerca-de-medellin',
   },
 });
 

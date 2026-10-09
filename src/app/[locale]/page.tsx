@@ -13,6 +13,7 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import NearbyExplorations from '@/components/NearbyExplorations';
 import MapEmbed from '@/components/MapEmbed';
+import TopicLinks from '@/components/TopicLinks';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -40,6 +41,7 @@ export default async function HomePage({
         <Reviews />
         <NearbyExplorations />
         <MapEmbed />
+        <TopicLinks />
       </main>
       <Footer />
     </>

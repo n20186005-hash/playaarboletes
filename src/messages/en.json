@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Playa Arboletes Mud Volcano Guide: Geology, How to Get There & What to Expect",
-    "description": "Playa Arboletes is a rare Caribbean geographic wonder in Colombia where a natural mud volcano meets the blue sea. A non-profit, in-depth guide covering mud diapirism geology, indigenous heritage, local legends, and airport-to-beach transport."
+    "title": "Playa Arboletes Beach, Antioquia: Photos, How to Get There & What to Do",
+    "description": "Visit Playa Arboletes in Antioquia, Colombia: where it is, how to get there from Montería and Medellín, photos, what to do, services and travel tips for your visit."
   },
   "header": {
     "siteName": "Playa Arboletes",
@@ -14,15 +14,15 @@
   },
   "hero": {
     "title": "Playa Arboletes",
-    "subtitle": "A Caribbean Geographic Wonder — Where a Natural Mud Volcano Meets the Blue Coast",
+    "subtitle": "The Caribbean beach of Arboletes, Colombia — warm waters, fine sand and a natural mud volcano a few steps away: a guide to visiting the beach in Antioquia",
     "rating": "4.5",
-    "reviewCount": "6,770",
-    "hours": "Natural Beach / Seaside Water Park / Ecological Mud Volcano",
+    "reviewCount": "6,825",
+    "hours": "Public beach · Natural mud volcano · Nearby towns",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Explore Playa Arboletes",
-    "description": "Discover the coastal gem of Antioquia, Colombia — a top-tier vacation destination that perfectly blends natural wonders with family water fun.\n\nLocated on the Caribbean coast in the Antioquia department, Playa Arboletes is a rare tourist destination that perfectly combines 'pristine natural wonders' with 'large-scale artificial entertainment facilities.'\n\nNot only does it boast expansive beaches with crystal-clear water and fine sand, but right at the edge of the beach sits a stunning castle-themed water resort (often called 'Colombia's Disney' by locals). Moreover, within walking distance lies the world-famous natural coastal mud volcano. Whether you're a thrill-seeker looking for water activities or a wellness traveler craving a natural mineral mud bath, you'll find your perfect vacation here.",
+    "description": "Discover the coastal gem of Antioquia, Colombia: Playa Arboletes, a public Caribbean beach with warm waters and fine sand, ideal for family swimming and sunsets.\n\nA few steps from the shore sits a natural mud volcano (mud diapirism), a geological curiosity you can visit separately. Nearby is also Riviera del Sol, a castle-themed hotel and water park run by a private operator, with its own pricing and facilities.\n\nHere we gather practical, neutral information: where it is, how to get there from Montería and Medellín, real photos, what to do and tips for your visit.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -34,8 +34,8 @@
     "alsoKnownAs": {
       "title": "Core Highlights",
       "items": [
-        "🏰 Landmark Castle Water Park (Riviera del Sol): A massive castle-themed water resort built right next to the beach. It features multiple gigantic azure pools, thrilling water slides, an interactive pirate ship area, and unique mythical sculptures, making it a perfect landmark for family trips and photography.",
-        "🌋 World-Class Natural Mud Volcano (Volcán de Lodo): The mud volcano near the beach is the region's most unique natural gift. Visitors can jump into the crater to experience a high-buoyancy, warm mud bath and enjoy a natural spa rich in minerals.",
+        "🏰 Castle Water Park (Riviera del Sol): A private castle-themed hotel and water resort next to the beach. It has pools, slides and a pirate-ship area; its rates, stays and hours are set by the operator. It is not part of the public beach.",
+        "🌋 Natural Mud Volcano: A few steps from the shore is a mud volcano formed by diapirism. You can visit the crater; access and open areas can change, so check the current status before going.",
         "🌊 Caribbean Beach & Sand Sculpture Art: The broad, gently sloping beach is perfect for strolling and enjoying magnificent sea sunsets. You can often find exquisite sand sculptures of marine life (like dolphins and turtles) created by local artists, full of rich Colombian coastal charm."
       ]
     }
@@ -44,13 +44,13 @@
     "title": "💡 Pro Tips & Itinerary",
     "overview": "Perfect One-Day Itinerary:",
     "steps": [
-      "Morning (Mud Bath & Beach): Head to the mud volcano early for a natural mud bath, then walk directly into the Caribbean Sea to wash off in the warm water, leaving your skin incredibly smooth.",
+      "Morning (Mud volcano & beach): If the mud volcano is open, go early for a natural mud bath, then walk into the Caribbean Sea to wash off. Check access status before you go.",
       "Afternoon (Water Park Fun): Enter the castle water park by the beach, swim in the giant pools, and experience the water slides and various entertainment facilities.",
       "Evening (Sunset & Food): Return to the beach to find the best spot near the sand sculptures to photograph the Caribbean sunset. Afterwards, enjoy an authentic Colombian seafood feast at a nearby restaurant."
     ],
     "supplementsTitle": "Practical Tips",
     "supplements": [
-      "Clothing: When experiencing the mud volcano, be sure to wear an old swimsuit you don't mind getting dirty. The mud has extreme buoyancy, so you can float easily and safely even if you can't swim.",
+      "Clothing: If you visit the mud volcano, wear an old swimsuit. The mud is very buoyant, but that does not replace supervision — non-swimmers should stay in shallow areas and never enter alone. Always confirm access status before going.",
       "Sun Protection & Hydration: The local climate is hot with strong sunlight. Please carry high-SPF eco-friendly sunscreen, sunglasses, and plenty of drinking water.",
       "Washing Services: After the mud bath, in addition to washing in the sea, local residents offer freshwater washing services on the beach. It's very convenient to have some small Colombian Peso (COP) bills ready for tips."
     ]
@@ -79,7 +79,7 @@
     "eyebrow": "In-Depth Guide",
     "geology": {
       "title": "Geological Wonder: Mud Diapirism",
-      "intro": "The mud volcano at Playa Arboletes is not driven by magmatic activity but is a classic example of \"Mud Diapirism.\" Natural gas and high-pressure water from deep underground push mineral-rich clay up through fault lines, creating a constantly bubbling pool of warm mud. The mud is rich in sulfur, magnesium, and calcium. Due to its extremely high density, visitors can effortlessly float on the surface, regardless of their swimming abilities.",
+      "intro": "The mud volcano at Playa Arboletes is not driven by magmatic activity but is a classic example of \"Mud Diapirism.\" Natural gas and high-pressure water from deep underground push mineral-rich clay up through fault lines, creating a constantly bubbling pool of warm mud. The mud is rich in sulfur, magnesium, and calcium. Because of its high density the mud is very buoyant; that does not replace supervision — non-swimmers should stay in shallow areas, and access can change, so verify conditions before visiting.",
       "points": [],
       "source": "Source Note: Geological data compiled from the Colombian Geological Service (SGC) and CORPOURABA environmental records."
     },
@@ -117,7 +117,7 @@
       { "icon": "🌋", "label": "Core Wonder", "value": "Natural Mud Volcano + Caribbean Sea" },
       { "icon": "🇨🇴", "label": "Country", "value": "Colombia" },
       { "icon": "🏙️", "label": "Region", "value": "Arboletes, Antioquia" },
-      { "icon": "⭐", "label": "Google Rating", "value": "4.5 / 5 (6,770)" },
+      { "icon": "⭐", "label": "Google Rating", "value": "4.5 / 5 (6,825)" },
       { "icon": "🎫", "label": "Admission", "value": "Public beach free; mud-bath rinse on-site" },
       { "icon": "🐕", "label": "Pet Friendly", "value": "Consult on-site staff" },
       { "icon": "♿", "label": "Facilities", "value": "Restrooms, restaurants, parking" }
@@ -142,7 +142,7 @@
     "outdoorPrice": "Please consult on-site",
     "lighthouse": "Transportation Info",
     "adults": "From Medellín",
-    "adultsPrice": "Take a bus approx. 5-6 hours",
+    "adultsPrice": "Intercity bus ~8-10 hours",
     "students": "Recommended Visit Duration",
     "studentsPrice": "Half day to one day",
     "card": "Nearby Attractions",
@@ -156,9 +156,9 @@
     "airport": "✈️ Airport to Landmark (Core Recommendation)",
     "airportDesc": "The closest airport to Playa Arboletes is Los Garzones Airport (MTR) in Montería. Upon arrival, you can take a taxi or local minibus (Colectivos) heading northwest by road. The journey is about 80 km on good roads and takes only 1.5 to 2 hours directly to the town center and beach area. This is the most efficient way to arrive.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "From Medellín, follow the road for about 5-6 hours to reach Arboletes. Playa Arboletes is located in the town.",
+    "selfDriveDesc": "From Medellín by road the trip is long — roughly 8-10 hours through mountainous terrain. To save time, fly to Montería (MTR) and continue by taxi or colectivo (~2 h) to the beach.",
     "bus": "🚌 Intercity Bus / Driving (From Medellín)",
-    "busDesc": "If departing from Medellín, you'll need to cross mountainous terrain, making the journey longer (about 8-10 hours). It's recommended to make this route part of a deep road trip or choose a luxury night bus. For those looking to save time, the 'fly to Montería' option is highly recommended.",
+    "busDesc": "If departing from Medellín, you'll cross mountainous terrain, so the bus ride takes about 8-10 hours. Make this part of a road trip or choose a luxury night bus. To save time, the 'fly to Montería' option is most recommended.",
     "intercity": "Within the Town",
     "intercityDesc": "Playa Arboletes is located in Arboletes town, easily accessible from the town center.",
     "cycling": "Other Options",
@@ -253,6 +253,18 @@
     "eyebrow": "Extend Your Trip",
     "title": "Nearby Explorations: More Wonders of the Urabá–Caribbean Coast",
     "intro": "If your journey goes beyond the mud volcano and beach, these destinations along the Urabá and Caribbean coast make the geographic exploration complete."
+  },
+  "topicLinks": {
+    "title": "Playa Arboletes Guides",
+    "intro": "Focused pages for what travelers search most: the beach, photos, how to get there and the mud volcano.",
+    "items": [
+      { "slug": "playas-de-arboletes", "label": "Beaches of Arboletes", "desc": "The different beaches and coves of Arboletes." },
+      { "slug": "como-llegar", "label": "How to Get There", "desc": "Flight, bus and car from Montería and Medellín." },
+      { "slug": "fotos", "label": "Photos", "desc": "Real photos of the beach, the sea and the surroundings." },
+      { "slug": "volcan-de-lodo", "label": "Mud Volcano", "desc": "The diapirism geological curiosity by the shore." },
+      { "slug": "castillo-de-arboletes", "label": "Arboletes Castle (Riviera del Sol)", "desc": "The private hotel and water park." },
+      { "slug": "playas-cerca-de-medellin", "label": "Beaches near Medellín", "desc": "Other Colombian Caribbean beaches for your trip." }
+    ]
   },
   "attractions": {
     "title": "Nearby Attractions Index",
