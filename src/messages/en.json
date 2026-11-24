@@ -22,7 +22,7 @@
   },
   "intro": {
     "title": "Explore Playa Arboletes",
-    "description": "Discover the coastal gem of Antioquia, Colombia: Playa Arboletes, a public Caribbean beach with warm waters and fine sand, ideal for family swimming and sunsets.\n\nA few steps from the shore sits a natural mud volcano (mud diapirism), a geological curiosity you can visit separately. Nearby is also Riviera del Sol, a castle-themed hotel and water park run by a private operator, with its own pricing and facilities.\n\nHere we gather practical, neutral information: where it is, how to get there from Montería and Medellín, real photos, what to do and tips for your visit.",
+    "description": "Playa Arboletes is a public beach on the Caribbean coast of Antioquia, Colombia, with fine sand and views at sunset.\n\nThe nearby natural mud volcano is a separate site. Check whether volcano access and swimming at your chosen stretch of beach are permitted separately.\n\nHere we gather practical, neutral information: where it is, how to get there from Montería and Medellín, real photos, what to do and tips for your visit.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -44,15 +44,15 @@
     "title": "💡 Pro Tips & Itinerary",
     "overview": "Perfect One-Day Itinerary:",
     "steps": [
-      "Morning (Mud volcano & beach): If the mud volcano is open, go early for a natural mud bath, then walk into the Caribbean Sea to wash off. Check access status before you go.",
+      "Morning (mud volcano and beach): check mud-volcano access and sea-bathing conditions separately. Follow signs and local authorities’ directions. If you cannot confirm entry or swimming is permitted at that spot, stay out.",
       "Afternoon (Water Park Fun): Enter the castle water park by the beach, swim in the giant pools, and experience the water slides and various entertainment facilities.",
       "Evening (Sunset & Food): Return to the beach to find the best spot near the sand sculptures to photograph the Caribbean sunset. Afterwards, enjoy an authentic Colombian seafood feast at a nearby restaurant."
     ],
     "supplementsTitle": "Practical Tips",
     "supplements": [
-      "Clothing: If you visit the mud volcano, wear an old swimsuit. The mud is very buoyant, but that does not replace supervision — non-swimmers should stay in shallow areas and never enter alone. Always confirm access status before going.",
+      "Visiting the volcano: if access is permitted, stay in designated areas and follow staff instructions. Do not assume you can enter the mud.",
       "Sun Protection & Hydration: The local climate is hot with strong sunlight. Please carry high-SPF eco-friendly sunscreen, sunglasses, and plenty of drinking water.",
-      "Washing Services: After the mud bath, in addition to washing in the sea, local residents offer freshwater washing services on the beach. It's very convenient to have some small Colombian Peso (COP) bills ready for tips."
+      "Rinsing: if the activity is available, ask in advance whether showers or a designated washing point are available. Do not enter the sea to wash off mud."
     ]
   },
   "knowledge": {
@@ -79,7 +79,7 @@
     "eyebrow": "In-Depth Guide",
     "geology": {
       "title": "Geological Wonder: Mud Diapirism",
-      "intro": "The mud volcano at Playa Arboletes is not driven by magmatic activity but is a classic example of \"Mud Diapirism.\" Natural gas and high-pressure water from deep underground push mineral-rich clay up through fault lines, creating a constantly bubbling pool of warm mud. The mud is rich in sulfur, magnesium, and calcium. Because of its high density the mud is very buoyant; that does not replace supervision — non-swimmers should stay in shallow areas, and access can change, so verify conditions before visiting.",
+      "intro": "The mud volcano at Playa Arboletes is not driven by magmatic activity but is a classic example of \"Mud Diapirism.\" Natural gas and high-pressure water from deep underground push mineral-rich clay up through fault lines, creating a constantly bubbling pool of warm mud. The mud is rich in sulfur, magnesium, and calcium. Buoyancy does not mean bathing in the mud is safe. Do not enter without authorization and without confirming local conditions.",
       "points": [],
       "source": "Source Note: Geological data compiled from the Colombian Geological Service (SGC) and CORPOURABA environmental records."
     },
@@ -118,7 +118,7 @@
       { "icon": "🇨🇴", "label": "Country", "value": "Colombia" },
       { "icon": "🏙️", "label": "Region", "value": "Arboletes, Antioquia" },
       { "icon": "⭐", "label": "Google Rating", "value": "4.5 / 5 (6,825)" },
-      { "icon": "🎫", "label": "Admission", "value": "Public beach free; mud-bath rinse on-site" },
+      { "icon": "🎫", "label": "Admission", "value": "Public beach; check volcano access and services separately." },
       { "icon": "🐕", "label": "Pet Friendly", "value": "Consult on-site staff" },
       { "icon": "♿", "label": "Facilities", "value": "Restrooms, restaurants, parking" }
     ]

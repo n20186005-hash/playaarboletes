@@ -37,6 +37,12 @@ export default async function NearbyExplorations({ excludeHub = true }: Props) {
         </p>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+          {(['volcan-de-lodo','castillo-de-arboletes'] as const).map(slug => (
+            <Link key={slug} href={('/'+slug) as '/volcan-de-lodo' | '/castillo-de-arboletes'} className="block rounded-2xl p-6" style={{background:'var(--bg-tertiary)',border:'1px solid var(--border-color)'}}>
+              <h3 className="font-medium">{slug === 'volcan-de-lodo' ? {es:'Volcán de lodo de Arboletes',en:'Arboletes Mud Volcano',zh:'阿沃莱特斯泥火山'}[locale] : {es:'Castillo Riviera del Sol',en:'Riviera del Sol Castle Resort',zh:'太阳里维埃拉城堡度假区'}[locale]}</h3>
+              <p className="text-sm mt-2">Arboletes · Antioquia</p>
+            </Link>
+          ))}
           {items.map((a) => {
             const c = a.content[locale];
             const href = a.hub

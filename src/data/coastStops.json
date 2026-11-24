@@ -1,0 +1,2234 @@
+[
+  {
+    "slug": "callejon-las-palmas",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/CALLEJ%C3%93N%20DE%20LAS%20PALMAS.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Callejón de las Palmas, Necoclí, Antioquia, Colombia",
+    "operator": "Alcaldía de Necoclí / establecimientos del callejón",
+    "copy": {
+      "es": {
+        "name": "Callejón de las Palmas",
+        "body": "Las palmas altas dan sombra a una galería de calle. Los muros cuentan oficios y costumbres de Necoclí; incluso con comercios cerrados se puede leer el relato desde el paso público. Mira un mural de cerca y luego retrocede hasta ver qué parte del paisaje ocupa la copa de una palma.",
+        "route": "Desde el parque principal busca el callejón en dirección a playa El Turista. Recorre las fachadas de ida y vuelve por el extremo que da al parque.",
+        "question": "¿Hay que entrar a un local?",
+        "answer": "No para los murales de calle. Las mesas y patios pertenecen a sus negocios.",
+        "access": "El paso público une el parque con las calles de playa; cada patio comercial tiene su propio horario.",
+        "look": "Mira primero las escenas pintadas a la sombra y luego el perfil de las palmas desde la entrada de la calle.",
+        "lookQuestion": "¿Qué pinturas se ven bajo las palmas?",
+        "accessQuestion": "¿Cierran el callejón cuando cierran las tiendas?",
+        "legs": [
+          "parque principal",
+          "fachadas pintadas",
+          "salida del parque"
+        ],
+        "photo": "Desde la boca del callejón, encuadra el follaje sobre las fachadas; junto al muro, acércate a un detalle de oficio.",
+        "kind": "Paseo urbano",
+        "hours": "Haz el tramo a pie con luz de día. Comercios y actividades tienen horarios propios.",
+        "fees": "El paseo por la calle pública no requiere entrada. Comidas y compras se pagan al establecimiento."
+      },
+      "en": {
+        "name": "Palm Alley, Necoclí",
+        "body": "Tall palms shade an outdoor gallery of local trades and customs. Read the walls from the public passage even when shops are shut. Examine one painted detail, then step back to see how a palm canopy frames the scene.",
+        "route": "From the main park head towards El Turista beach and find the palm-lined lane. Follow the painted frontages and return at the park end.",
+        "question": "Must I enter a shop?",
+        "answer": "Street paintings are visible from the lane. Tables and patios belong to individual businesses.",
+        "access": "The public passage connects park and beach streets; each business courtyard has its own hours.",
+        "look": "Start with paintings in the shade, then compare the palm silhouettes from the street entrance.",
+        "lookQuestion": "Which paintings can I see beneath the palms?",
+        "accessQuestion": "Does the lane close when the shops close?",
+        "legs": [
+          "main park",
+          "painted shopfronts",
+          "park-side exit"
+        ],
+        "photo": "Frame the palms above the shopfronts from the lane entrance. Beside the wall, isolate one painted trade.",
+        "kind": "Town walk",
+        "hours": "Plan this walk in daylight. Shops and events keep their own hours.",
+        "fees": "The public street walk needs no admission ticket. Pay individual businesses for food and purchases."
+      },
+      "zh": {
+        "name": "内科克利棕榈小巷",
+        "body": "高大的棕榈把树荫投在街头画廊上。沿墙的画记录内科克利的生计与习俗，商店打烊也能从公共过道欣赏。先近看一幅画里的工具或服饰，再退到对面看树冠如何框住画面。",
+        "route": "从主公园朝游客海滩方向找到棕榈夹道的小巷，沿彩绘外墙走到另一头，再沿公共通道折回公园。",
+        "question": "看墙画要进商店吗？",
+        "answer": "从巷道就能欣赏。桌椅和庭院由各商家经营。",
+        "access": "公共巷道连通公园和海滩街区，各商铺庭院按自己的时间开放。",
+        "look": "先看树荫下的墙画，再从巷口比较棕榈树的轮廓。",
+        "lookQuestion": "棕榈树荫下可以看到哪些画？",
+        "accessQuestion": "商铺打烊后，小巷还能走吗？",
+        "legs": [
+          "主公园",
+          "彩绘外墙",
+          "公园方向的巷口"
+        ],
+        "photo": "在巷口让树冠落在立面上方；走近墙边，单拍一处描绘手艺的细节。",
+        "kind": "城区步行",
+        "hours": "建议白天走这一段。商铺、活动各有自己的时间。",
+        "fees": "走公共街道无需门票；用餐、购物向对应店家付费。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "15–25"
+  },
+  {
+    "slug": "arbol-del-amor",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/ARBOL%20MAGICO%20DEL%20AMOR%20Y%20LA%20VIDA.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Árbol del Amor y la Vida, El Hoyito, Necoclí, Antioquia, Colombia",
+    "operator": "Finca de El Hoyito",
+    "copy": {
+      "es": {
+        "name": "Árbol Mágico del Amor y la Vida",
+        "body": "El caracolí crece entre potreros de El Hoyito. Su tronco hueco deja pasar luz desde arriba y explica parte de la fascinación local por este árbol antiguo. El inventario municipal recoge relatos de deseos cumplidos; forman parte de la tradición oral que acompaña a la visita.",
+        "route": "Ve a la vereda El Hoyito y pregunta por el acceso de la finca. Desde la entrada autorizada camina hasta el borde de la copa y regresa por la misma senda.",
+        "question": "¿Puedo entrar al hueco?",
+        "answer": "Observa desde fuera. La autorización para cruzar la finca no implica acceso al interior del árbol.",
+        "access": "El árbol está en terreno ganadero de El Hoyito. El acceso se acuerda con el predio antes de salir del pueblo.",
+        "look": "Busca el contraste entre el tronco exterior y la luz visible por las aberturas naturales.",
+        "lookQuestion": "¿Desde dónde se aprecia el hueco del caracolí?",
+        "accessQuestion": "¿Quién autoriza el paso por el potrero de El Hoyito?",
+        "legs": [
+          "entrada de El Hoyito",
+          "borde de la copa",
+          "portón autorizado"
+        ],
+        "photo": "Desde fuera de la copa encuadra todo el caracolí. Al lado del tronco, usa el hueco para enmarcar la luz.",
+        "kind": "Acceso por propiedad rural",
+        "hours": "Acuerda una hora con la propiedad antes de salir. La luz de día no implica que el portón esté abierto.",
+        "fees": "Pregunta si el permiso de paso y el acompañamiento tienen cargos distintos; confirma el total antes de entrar."
+      },
+      "en": {
+        "name": "Tree of Love and Life at El Hoyito",
+        "body": "An old caracolí stands in the pasture at El Hoyito. Light enters its hollow trunk from above. The municipal inventory records local stories of wishes granted here; the stories give the tree a place in community memory as well as in the landscape.",
+        "route": "Travel to El Hoyito and ask for the farm entrance. From the authorised gate walk to the edge of the canopy and retrace your steps.",
+        "question": "Can I go inside the hollow?",
+        "answer": "View it from outside. Permission to cross the farm does not include entering the tree.",
+        "access": "The tree stands on grazing land at El Hoyito. Arrange access with the landholder before leaving town.",
+        "look": "Look for the contrast between the outside of the trunk and daylight through its natural openings.",
+        "lookQuestion": "Where can I see the hollow in the caracolí?",
+        "accessQuestion": "Who grants access to the pasture at El Hoyito?",
+        "legs": [
+          "El Hoyito entrance",
+          "canopy edge",
+          "farm gate"
+        ],
+        "photo": "From outside the canopy frame the whole caracolí. Beside the trunk, frame the daylight through the hollow.",
+        "kind": "Rural property visit",
+        "hours": "Agree a time with the landholder before setting out. Daylight does not guarantee an open gate.",
+        "fees": "Ask whether access and accompaniment have separate charges and agree the total before entering."
+      },
+      "zh": {
+        "name": "埃尔奥伊托爱情与生命之树",
+        "body": "这株古老的腰果科大树生长在埃尔奥伊托的牧地上。光线可以从上方透进中空的树干。市政名录还记录了村民在这里许愿的故事，老树因而也是一处口述记忆地标。",
+        "route": "到埃尔奥伊托村后先确认牧场入口，从获准进入的大门沿指定小径走到树冠边缘，按原路离开。",
+        "question": "可以钻入树洞吗？",
+        "answer": "从外部观察即可。获准穿过牧场并不包含进入树洞。",
+        "access": "大树位于埃尔奥伊托的牧场上。离镇前先与地主约好入场。",
+        "look": "比较外侧树皮与从天然孔洞透入的亮光。",
+        "lookQuestion": "从哪里能看见树干的空洞？",
+        "accessQuestion": "进入埃尔奥伊托牧场要向谁申请？",
+        "legs": [
+          "埃尔奥伊托入口",
+          "树冠外缘",
+          "获准通行的牧场大门"
+        ],
+        "photo": "从树冠外拍全树；到树旁从外侧拍进空洞，让透光处成为画面中心。",
+        "kind": "乡村私人土地参观",
+        "hours": "出发前与土地管理方约好时间，不能仅凭天色判断大门是否开放。",
+        "fees": "先问土地通行和陪同是否分别收费，进场前确认总价。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "20–35"
+  },
+  {
+    "slug": "casa-nuestras-culturas",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/CASA%20DE%20NUESTRAS%20CULTURAS.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Casa de Nuestras Culturas Eloísa Garcés Ladeus, Necoclí, Antioquia, Colombia",
+    "operator": "Casa de Nuestras Culturas Eloísa Garcés Ladeus",
+    "copy": {
+      "es": {
+        "name": "Casa de Nuestras Culturas Eloísa Garcés Ladeus",
+        "body": "La biblioteca mira al mar, mientras que las salas de ensayo tienen otra función: aquí los jóvenes preparan danza y música. La combinación permite leer un edificio costero como lugar de trabajo cultural. El valor de una parada breve está en distinguir el espacio de lectura de los salones en uso.",
+        "route": "Busca la casa por su nombre completo en el casco urbano. Entra por recepción, pregunta por la biblioteca y vuelve al vestíbulo antes de acercarte a un ensayo.",
+        "question": "¿Se puede asistir a un ensayo?",
+        "answer": "La programación y el acceso dependen del personal de la Casa; pide permiso antes de entrar o grabar.",
+        "access": "Recepción indica qué salas de lectura están abiertas y cuáles se reservan a clases o ensayos.",
+        "look": "Prioriza la relación entre biblioteca y mar antes de consultar las actividades del día.",
+        "lookQuestion": "¿Qué parte de la casa da al mar?",
+        "accessQuestion": "¿Dónde pregunto qué salas están abiertas?",
+        "legs": [
+          "recepción",
+          "biblioteca frente al mar",
+          "vestíbulo"
+        ],
+        "photo": "Desde la biblioteca busca la relación con el mar; en la entrada fotografía el edificio sin interrumpir clases.",
+        "kind": "Centro cultural",
+        "hours": "Confirma en recepción la apertura de la sala de visita y, por separado, la disponibilidad de actividades.",
+        "fees": "Consulta en recepción si la visita a la sala o una actividad acompañada requiere pago o reserva."
+      },
+      "en": {
+        "name": "Eloísa Garcés Ladeus Cultural House",
+        "body": "The library looks out to sea; the rehearsal rooms serve an entirely different purpose. Young musicians and dancers practise here. A short visit shows how a coastal public building accommodates quiet reading alongside the work behind local performances.",
+        "route": "Find the house by its full name in town. At reception ask for the library, then return to the lobby before approaching rehearsal spaces.",
+        "question": "Can I sit in on a rehearsal?",
+        "answer": "The centre's staff coordinate access and programming. Ask before entering or recording.",
+        "access": "Reception identifies open reading areas and rooms reserved for classes or rehearsals.",
+        "look": "Start with the relationship between library and sea before asking about the day's activities.",
+        "lookQuestion": "Which part of the cultural centre faces the sea?",
+        "accessQuestion": "Where can I ask which rooms are open?",
+        "legs": [
+          "reception",
+          "seafront library",
+          "lobby"
+        ],
+        "photo": "Frame the sea from the library, then the building from its entrance without interrupting classes.",
+        "kind": "Cultural centre",
+        "hours": "Ask reception when the visitor room opens and whether activities are running that day.",
+        "fees": "Ask reception whether the room visit or a hosted activity needs payment or a reservation."
+      },
+      "zh": {
+        "name": "埃洛伊萨·加尔塞斯文化之家",
+        "body": "图书馆的阅览区朝向海面，排练厅则供当地青年练习音乐和舞蹈。短暂停留时，可以从开放区域看这栋海滨建筑如何同时容纳安静的阅读与演出前的排练。",
+        "route": "在城区按全名定位文化之家，从接待入口问清阅览区的位置；参观完回到前厅，另行询问排练室是否开放。",
+        "question": "可以旁听排练吗？",
+        "answer": "开放和活动由文化之家的工作人员安排，进场或录像前先询问。",
+        "access": "接待处会告知开放的阅览区，以及由课程或排练专用的房间。",
+        "look": "先看阅览区与海景如何相连，再询问当天活动。",
+        "lookQuestion": "文化馆里哪个空间朝海？",
+        "accessQuestion": "到哪里查询当天开放的房间？",
+        "legs": [
+          "接待处",
+          "临海阅览室",
+          "前厅"
+        ],
+        "photo": "在阅览区将海面纳入画面；退到入口拍建筑外观，避开正在上课的人。",
+        "kind": "文化场馆",
+        "hours": "向接待处查当日展室开放时间；活动是否举行另行询问。",
+        "fees": "阅览或参观展室、参与讲解活动是否收费或需预约，请分别询问接待处。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "25–45"
+  },
+  {
+    "slug": "cementerio-necocli",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/Cementerio%20Necocli.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Cementerio Municipal de Necoclí, Necoclí, Antioquia, Colombia",
+    "operator": "Cementerio Municipal de Necoclí",
+    "copy": {
+      "es": {
+        "name": "Cementerio Municipal de Necoclí",
+        "body": "El camino a San Sebastián pasa junto a un cementerio orientado al golfo. Los bloques llevan nombres devocionales, entre ellos San Juan Pablo y la Virgen del Cobre, y esas denominaciones ayudan a entender su organización interna. La vista de la costa se comparte con familias que vienen a recordar a sus muertos.",
+        "route": "Sigue desde el casco urbano la vía a San Sebastián hasta la entrada municipal. Lee los nombres de los bloques desde el pasillo y vuelve por la puerta principal.",
+        "question": "¿Es un mirador de libre uso?",
+        "answer": "Es un cementerio municipal en uso; respeta la apertura del recinto y cede el paso a los cortejos.",
+        "access": "La administración del cementerio determina la apertura y las áreas destinadas a servicios funerarios.",
+        "look": "Busca las denominaciones de los bloques desde el pasillo sin fotografiar lápidas personales.",
+        "lookQuestion": "¿Cómo distingo las secciones del cementerio?",
+        "accessQuestion": "¿Quién determina el acceso durante un funeral?",
+        "legs": [
+          "portón municipal",
+          "pasillo de las secciones",
+          "salida principal"
+        ],
+        "photo": "Desde la entrada muestra el camino y el horizonte. En el pasillo enfoca la señal de sección evitando lápidas personales.",
+        "kind": "Cementerio municipal",
+        "hours": "Consulta el horario en la entrada. Un funeral puede modificar el recorrido por las secciones.",
+        "fees": "No hay una tarifa de visita confirmada en la fuente municipal. Pregunta en la portería antes de entrar."
+      },
+      "en": {
+        "name": "Necoclí's Seafront Cemetery",
+        "body": "On the road to San Sebastián the cemetery faces the gulf. Its sections bear devotional names, including Virgen del Cobre, a useful clue to how the grounds are organised. The coastal view is also a place where families come to remember relatives.",
+        "route": "Follow the San Sebastián road out of town to the municipal entrance. Read the section names from the path and return by the main gate.",
+        "question": "Is this an unrestricted lookout?",
+        "answer": "It is a working municipal cemetery. Observe gate hours and yield to funeral parties.",
+        "access": "Cemetery management sets gate hours and reserves areas for funeral services.",
+        "look": "Read the section names from the aisle without photographing personal headstones.",
+        "lookQuestion": "How can I identify the cemetery sections?",
+        "accessQuestion": "Who controls access during a funeral?",
+        "legs": [
+          "municipal gate",
+          "section aisle",
+          "main exit"
+        ],
+        "photo": "From the entrance frame the path against the horizon. In the aisle photograph a section sign without identifiable graves.",
+        "kind": "Municipal cemetery",
+        "hours": "Check gate hours at the entrance. A funeral may affect access to individual sections.",
+        "fees": "The municipal source gives no confirmed visitor tariff. Ask at the gate before entering."
+      },
+      "zh": {
+        "name": "内科克利海滨市立墓园",
+        "body": "前往圣塞巴斯蒂安村的路经过这座面朝海湾的墓园。不同分区以宗教人物命名，例如科布雷圣母，留意这些名称就能理解墓园的布局。来这里的还有祭扫亲友的家庭。",
+        "route": "从城区沿圣塞巴斯蒂安方向的道路到市立墓园正门。沿公共通道辨认分区铭牌，再从正门出园。",
+        "question": "这里是否全天可当作观景台？",
+        "answer": "这是仍在使用的市立墓园。遵守开门时间并为送葬队伍让路。",
+        "access": "墓园管理方安排开放时间，并划定葬礼使用的区域。",
+        "look": "沿通道读分区名称，避免拍摄私人墓碑。",
+        "lookQuestion": "怎么辨认墓园各区？",
+        "accessQuestion": "举行葬礼时由谁安排通行？",
+        "legs": [
+          "市立墓园门口",
+          "分区通道",
+          "正门出口"
+        ],
+        "photo": "从入口拍通道与地平线；在走道边拍分区铭牌，避开私人墓碑。",
+        "kind": "市立墓园",
+        "hours": "在门口查开闭时间，有葬礼时部分分区会临时调整通行。",
+        "fees": "市政资料未列出核实的参观收费，请在园门确认。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "15–25"
+  },
+  {
+    "slug": "centro-el-carlos",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/CENTRO%20ECOTURISTICO%20ARQUEOLOGICO%20EL%20CARLOS.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Centro Ecoturístico El Carlos Adentro, Necoclí, Antioquia, Colombia",
+    "operator": "Centro Ecoturístico y Arqueológico El Carlos",
+    "copy": {
+      "es": {
+        "name": "Centro Ecoturístico y Arqueológico El Carlos",
+        "body": "Una construcción de madera y palma alberga piezas zenúes halladas en la zona. Urnas y herramientas permiten comparar el cuidado de los muertos con el trabajo diario. El municipio registra la catalogación ante el ICANH; la atención de visitantes corresponde al centro de El Carlos Adentro.",
+        "route": "Llega a El Carlos Adentro y localiza la recepción del centro. Ve primero a la maloca de la colección; consulta allí qué recorrido exterior se ofrece antes de salir.",
+        "question": "¿Es el cráter de lodo?",
+        "answer": "El centro expone objetos arqueológicos. El volcán de El Carlos tiene su propio acceso.",
+        "access": "El centro de la vereda recibe visitantes. El registro arqueológico del ICANH no constituye un horario de visita.",
+        "look": "Compara un útil cotidiano con una vasija ceremonial y lee la identificación antes de interpretar su función.",
+        "lookQuestion": "¿Qué piezas muestran la vida cotidiana zenú?",
+        "accessQuestion": "¿El registro ante el ICANH fija los horarios?",
+        "legs": [
+          "recepción de El Carlos Adentro",
+          "sala de la colección",
+          "punto de información"
+        ],
+        "photo": "Desde la entrada encuadra el techo de palma. En la sala consulta antes de fotografiar una vasija junto a su ficha.",
+        "kind": "Centro cultural",
+        "hours": "Confirma en recepción la apertura de la sala de visita y, por separado, la disponibilidad de actividades.",
+        "fees": "Consulta en recepción si la visita a la sala o una actividad acompañada requiere pago o reserva."
+      },
+      "en": {
+        "name": "El Carlos Archaeology and Ecotourism Centre",
+        "body": "Wood and palm shelter a collection of Zenú objects found in the area. Compare a burial vessel with a working tool to see how the collection spans ceremonial and everyday life. The municipality notes registration with ICANH; visitor arrangements are made at the centre in El Carlos Adentro.",
+        "route": "Reach El Carlos Adentro and find reception. Visit the palm-roofed collection first, then ask which outdoor walk is available that day.",
+        "question": "Is this the mud crater?",
+        "answer": "This stop is an archaeological collection. The El Carlos mud volcano has a separate approach.",
+        "access": "The village centre receives visitors. ICANH registration of the collection does not set visitor hours.",
+        "look": "Compare an everyday tool with a ceremonial vessel and read its label before inferring a use.",
+        "lookQuestion": "Which objects illustrate everyday Zenú life?",
+        "accessQuestion": "Does ICANH registration determine the opening hours?",
+        "legs": [
+          "El Carlos Adentro reception",
+          "collection room",
+          "visitor desk"
+        ],
+        "photo": "Frame the palm roof from the entrance. Ask before photographing a vessel with its label inside.",
+        "kind": "Cultural centre",
+        "hours": "Ask reception when the visitor room opens and whether activities are running that day.",
+        "fees": "Ask reception whether the room visit or a hosted activity needs payment or a reservation."
+      },
+      "zh": {
+        "name": "埃尔卡洛斯考古与生态中心",
+        "body": "木材和棕榈叶搭建的展屋收藏了当地出土的塞努器物。把礼仪用的瓮与劳作用具对照着看，可以同时了解丧葬传统和日常生活。市府记录藏品已向哥伦比亚人类学与历史研究所登记，到访由中心接待。",
+        "route": "先到埃尔卡洛斯阿登特罗村的中心接待处，步行至棕榈顶展屋看藏品，再问当天开放哪段户外步道。",
+        "question": "这里和泥火山是同一个入口吗？",
+        "answer": "这处是考古展馆。埃尔卡洛斯泥火山有单独的进路。",
+        "access": "由村内中心安排接待；藏品在国家研究所登记并不代表场馆全天开放。",
+        "look": "选一件生活工具和一件礼仪器皿对照，先看说明再判断用途。",
+        "lookQuestion": "哪些藏品能看出塞努人的日常生活？",
+        "accessQuestion": "ICANH 登记是否代表固定开放时间？",
+        "legs": [
+          "阿登特罗村接待处",
+          "藏品展室",
+          "咨询点"
+        ],
+        "photo": "从入口拍棕榈叶屋顶；入内先询问能否把陶器及说明牌一起拍下。",
+        "kind": "文化场馆",
+        "hours": "向接待处查当日展室开放时间；活动是否举行另行询问。",
+        "fees": "阅览或参观展室、参与讲解活动是否收费或需预约，请分别询问接待处。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "40–60"
+  },
+  {
+    "slug": "cerro-del-aguila",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/CERRO%20DEL%20AGUILA%20NECOCLI.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Cerro del Águila, Necoclí, Antioquia, Colombia",
+    "operator": "Acceso rural de Bobal / guías locales",
+    "copy": {
+      "es": {
+        "name": "Cerro del Águila",
+        "body": "La serranía de Abibe se acerca aquí al mar. Desde la elevación se distinguen la línea de playa Bobal, el golfo y los humedales de Rionegro; hacia el interior cambian el bosque y los potreros. Las bandadas migratorias que descansan en la zona forman parte de la explicación local de su nombre.",
+        "route": "Organiza el acceso desde el sector de Bobal con un guía de la zona. Sube sólo por el paso acordado, reconoce la ensenada desde el alto y baja por la misma huella.",
+        "question": "¿Puedo cruzar los potreros para acortar?",
+        "answer": "No presupongas paso público. Acuerda el acceso con quienes trabajan la tierra.",
+        "access": "Consulta el camino habilitado con el guía de Bobal y solicita permiso a los predios que se atraviesan.",
+        "look": "En un solo giro se pasa del golfo al mosaico de pastos y bosques que se extiende tierra adentro.",
+        "lookQuestion": "¿Qué se ve al mirar hacia el interior?",
+        "accessQuestion": "¿Con quién acuerdo la subida desde Bobal?",
+        "legs": [
+          "encuentro en Bobal",
+          "mirador de la ensenada",
+          "descenso a Bobal"
+        ],
+        "photo": "Desde el mirador coloca Bobal en primer plano y el golfo detrás; gira hacia el interior para mostrar el mosaico de potreros.",
+        "kind": "Sendero de colina",
+        "hours": "Fija con el guía hora de salida y regreso antes del anochecer; confirma si el sendero se puede usar tras la lluvia.",
+        "fees": "Aclara si el precio del guía cubre transporte y permisos para cruzar predios."
+      },
+      "en": {
+        "name": "Eagle Hill above Bobal",
+        "body": "Here the Abibe foothills approach the sea. Bobal beach, the gulf and the Rionegro wetlands occupy different planes of the view; inland lie woods and pastures. Migratory flocks stopping here feature in the local explanation of the hill's name.",
+        "route": "Arrange an approach from the Bobal sector with a local guide. Take the agreed trail, identify the inlet from above and descend by the same track.",
+        "question": "May I shortcut through pasture?",
+        "answer": "Ask the people managing the land before crossing. The view does not imply public access across fields.",
+        "access": "Check the available track with a Bobal guide and obtain permission for any land crossed.",
+        "look": "Turn from the gulf to see the patchwork of inland woodland and pasture.",
+        "lookQuestion": "What can I see looking inland from the hill?",
+        "accessQuestion": "Who can help arrange the ascent from Bobal?",
+        "legs": [
+          "Bobal meeting point",
+          "inlet viewpoint",
+          "descent to Bobal"
+        ],
+        "photo": "Frame Bobal against the gulf from the viewpoint, then turn inland towards the patchwork of pasture.",
+        "kind": "Hill trail",
+        "hours": "Set a start and return time with the guide before dark. Check whether rain has affected the approach.",
+        "fees": "Check whether a guiding quote covers transport and permission to cross private land."
+      },
+      "zh": {
+        "name": "博瓦尔海岸鹰山",
+        "body": "阿比韦山地在这里逼近海岸。从高处可把博瓦尔海滩、乌拉巴湾和里奥内格罗湿地区分开，转向内陆则是林地和牧场。迁徙鸟群曾在此停歇，也是当地解释山名的一条线索。",
+        "route": "在博瓦尔一带向当地向导确认进山路线，沿约定的小道上行，从高处辨认海湾，再依原路下山。",
+        "question": "能穿越牧场抄近路吗？",
+        "answer": "穿越前须经土地管理人同意，从山上看得见牧场并不表示可以穿行。",
+        "access": "与博瓦尔向导确认可走路线，经私人地块时须另获通行许可。",
+        "look": "从海湾方向转身，可同时比较内陆林地与牧草地的拼接。",
+        "lookQuestion": "从山上往内陆能看到什么？",
+        "accessQuestion": "从博瓦尔上山找谁商量路线？",
+        "legs": [
+          "博瓦尔会合点",
+          "海湾观景处",
+          "下山原路"
+        ],
+        "photo": "从观景处让博瓦尔海岸在前、海湾在后；转向内陆另拍拼接般的牧场。",
+        "kind": "山地小径",
+        "hours": "与向导约好出发与天黑前的返程时间，下雨后先查小径能否通行。",
+        "fees": "询问向导报价是否包含接驳及穿过私人土地的许可。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "60–120"
+  },
+  {
+    "slug": "cienaga-marimonda",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/CIENEGA%20DE%20LA%20MARIMONDA%20NECOCL%C3%8D.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Ciénaga de la Marimonda, Necoclí, Antioquia, Colombia",
+    "operator": "CORPOURABA · distrito regional de manejo integrado",
+    "copy": {
+      "es": {
+        "name": "Ciénaga de la Marimonda",
+        "body": "Dentro de la cuenca del Mulatos se abre una lámina de agua dulce de unas mil hectáreas según el inventario municipal. El nombre recuerda a un mono que la memoria local asocia al humedal. Fíjate en el cambio entre orilla vegetada y agua abierta; allí se aprecia mejor su escala.",
+        "route": "Acuerda un punto de encuentro en La Marimonda. Desde allí sigue con el guía el acceso habilitado al borde; observa desde suelo firme y regresa al punto de encuentro.",
+        "question": "¿Se rodea toda la laguna a pie?",
+        "answer": "La visita al borde no implica un circuito continuo. El distrito regional de manejo exige respetar las zonas autorizadas.",
+        "access": "La autoridad ambiental regional regula los usos del distrito; el guía organiza el recorrido autorizado.",
+        "look": "Desde la orilla distingue la franja de plantas emergentes antes de buscar aves sobre el agua abierta.",
+        "lookQuestion": "¿Dónde empiezo a observar aves en la laguna?",
+        "accessQuestion": "¿Cómo elijo un acceso permitido a La Marimonda?",
+        "legs": [
+          "encuentro en La Marimonda",
+          "orilla firme",
+          "salida acordada"
+        ],
+        "photo": "Desde suelo firme usa la vegetación de orilla como primer plano. Desde el mismo acceso abre el encuadre sobre el agua.",
+        "kind": "Observación de ribera",
+        "hours": "Consulta el estado de las orillas antes de salir; una crecida puede cambiar el acceso incluso de día.",
+        "fees": "Acuerda guía y traslado por separado. La referencia municipal no publica una tarifa única de visita."
+      },
+      "en": {
+        "name": "La Marimonda Freshwater Lagoon",
+        "body": "In the Mulatos basin the municipal inventory describes roughly a thousand hectares of fresh water. The name recalls a monkey associated with the wetland in local memory. Look from a vegetated bank towards open water to appreciate the scale of the lagoon.",
+        "route": "Arrange a meeting point at La Marimonda. Follow the authorised approach to the bank with the guide, watch from firm ground and return to the meeting point.",
+        "question": "Is there a complete walking loop?",
+        "answer": "A bank visit is not a continuous trail. Observe the permitted areas of the regional management district.",
+        "access": "The regional environmental authority regulates district uses; a guide arranges the permitted itinerary.",
+        "look": "From the bank distinguish the fringe of emergent plants before scanning open water for birds.",
+        "lookQuestion": "Where should I start looking for birds on the lagoon?",
+        "accessQuestion": "How do I choose a permitted approach to La Marimonda?",
+        "legs": [
+          "La Marimonda meeting point",
+          "firm bank",
+          "agreed exit"
+        ],
+        "photo": "From the firm bank use emergent vegetation in the foreground. At the same access widen the frame over open water.",
+        "kind": "Wetland bank observation",
+        "hours": "Check the banks before departure. Rising water can change access during daylight.",
+        "fees": "Agree guiding and transport separately. The municipal listing gives no single admission price."
+      },
+      "zh": {
+        "name": "马里蒙达淡水潟湖",
+        "body": "市政名录把这片位于穆拉托斯河流域的淡水湖记为约一千公顷。湖名来自当地记忆中的一种猴子。站在植被覆盖的岸边向开阔水面望去，更能体会湿地的尺度。",
+        "route": "先在拉马里蒙达约定会合地点，由向导带路沿开放通道抵达岸边，在坚实地面观察后原路返回。",
+        "question": "能步行环湖吗？",
+        "answer": "岸边参观没有连续环线。区域综合管理区内须按获准范围活动。",
+        "access": "区域环境机构管理综合管理区的土地使用，获准游览线路由当地向导安排。",
+        "look": "先辨认岸边挺水植物带，再观察开阔水面上的鸟。",
+        "lookQuestion": "到潟湖后从哪里开始观鸟？",
+        "accessQuestion": "如何确定马里蒙达潟湖允许进入的岸段？",
+        "legs": [
+          "拉马里蒙达会合点",
+          "坚实湖岸",
+          "约定的出口"
+        ],
+        "photo": "站在坚实的岸边，以挺水植物作前景；在同一入口拉宽画幅拍开阔湖面。",
+        "kind": "湿地岸边观察",
+        "hours": "出发前确认岸线状况；即使在白天，涨水也可能改变可以到达的位置。",
+        "fees": "向导及接驳分别议价；市政资料没有列出统一游览票价。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "40–60"
+  },
+  {
+    "slug": "cienaga-el-salado",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/CI%C3%89NAGA%20EL%20SALADO.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Ciénaga El Salado, Necoclí, Antioquia, Colombia",
+    "operator": "CORPOURABA · distrito regional de manejo integrado",
+    "copy": {
+      "es": {
+        "name": "Ciénaga El Salado",
+        "body": "El Salado pertenece al sistema de humedales del noroeste de Necoclí. Su relación con La Marimonda se entiende mirando los márgenes inundables y los pasos del agua. Entre peces y aves, una garza inmóvil en el borde permite observar la cadena alimenticia sin tener que acercarse a un nido.",
+        "route": "Confirma con el guía el acceso de El Salado, distinto del de La Marimonda. Camina hasta la parada de observación indicada y vuelve antes de que la senda entre en terreno encharcado.",
+        "question": "¿Sirve un solo punto de mapa para ambas ciénagas?",
+        "answer": "Usa El Salado para esta visita. Consulta con el operador las restricciones del humedal y el estado del camino.",
+        "access": "La protección regional del humedal y el estado del acceso rural condicionan dónde se puede llegar.",
+        "look": "Quédate quieto unos minutos para distinguir peces que rompen la superficie y aves que buscan alimento.",
+        "lookQuestion": "¿Qué actividad se aprecia en la superficie del agua?",
+        "accessQuestion": "¿Es siempre accesible la misma orilla de El Salado?",
+        "legs": [
+          "acceso a El Salado",
+          "punto de observación",
+          "inicio del sendero"
+        ],
+        "photo": "Desde el punto indicado encuadra los canales entre las plantas; desde el borde firme espera los reflejos de aves sobre el agua.",
+        "kind": "Observación de ribera",
+        "hours": "Consulta el estado de las orillas antes de salir; una crecida puede cambiar el acceso incluso de día.",
+        "fees": "Acuerda guía y traslado por separado. La referencia municipal no publica una tarifa única de visita."
+      },
+      "en": {
+        "name": "El Salado Wetland",
+        "body": "El Salado is part of the wetlands northwest of Necoclí. Floodable margins and channels help explain its connection with La Marimonda. A heron watching for fish from the bank offers a way to observe the food web without approaching nesting sites.",
+        "route": "Confirm the El Salado access with a guide; it differs from the La Marimonda approach. Walk to the indicated observation stop and turn back before the path becomes waterlogged.",
+        "question": "Can I use one map pin for both lagoons?",
+        "answer": "Use El Salado for this visit. Check wetland restrictions and trail conditions with the operator.",
+        "access": "Regional wetland protection and the condition of rural approaches determine which banks can be reached.",
+        "look": "Stay still long enough to spot fish breaking the surface and birds looking for food.",
+        "lookQuestion": "What activity can I watch at the water surface?",
+        "accessQuestion": "Can I always reach the same bank at El Salado?",
+        "legs": [
+          "El Salado approach",
+          "observation point",
+          "trail entrance"
+        ],
+        "photo": "From the designated stop frame channels between plants. From the firm bank wait for bird reflections on the water.",
+        "kind": "Wetland bank observation",
+        "hours": "Check the banks before departure. Rising water can change access during daylight.",
+        "fees": "Agree guiding and transport separately. The municipal listing gives no single admission price."
+      },
+      "zh": {
+        "name": "埃尔萨拉多湿地",
+        "body": "埃尔萨拉多属于内科克利西北部的湿地系统。观察可季节性淹没的边缘和水道，就能理解它与马里蒙达湖的联系。岸边等候小鱼的鹭鸟，是不接近巢穴也能观察食物网的好机会。",
+        "route": "向导确认埃尔萨拉多的进路后再出发，这里与马里蒙达的入口不同。走至指定观察点，在小径没入积水地带之前折返。",
+        "question": "这两个湖可以用同一定位吗？",
+        "answer": "此行应定位埃尔萨拉多，向带队人员问清湿地限制及当天路况。",
+        "access": "区域湿地保护规定和乡村道路状况共同决定哪些岸段可抵达。",
+        "look": "静候片刻，观察鱼群划破水面或水鸟觅食。",
+        "lookQuestion": "在水面上可以观察哪些动静？",
+        "accessQuestion": "萨拉多潟湖同一段岸线每天都能到吗？",
+        "legs": [
+          "萨拉多进路",
+          "湿地观察点",
+          "小径入口"
+        ],
+        "photo": "在指定停靠点拍植物间的水道；在坚实岸边等水鸟与倒影同框。",
+        "kind": "湿地岸边观察",
+        "hours": "出发前确认岸线状况；即使在白天，涨水也可能改变可以到达的位置。",
+        "fees": "向导及接驳分别议价；市政资料没有列出统一游览票价。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "40–60"
+  },
+  {
+    "slug": "ensenada-rionegro",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/ENSENADA%20DE%20RIONEGRO%20NECOCLI.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Ensenada de Rionegro, Necoclí, Antioquia, Colombia",
+    "operator": "CORPOURABA / operadores de navegación",
+    "copy": {
+      "es": {
+        "name": "Ensenada de Rionegro",
+        "body": "El Caribe y las aguas de los ríos Negro y Marimonda se encuentran en la ensenada. Bajo las raíces del manglar se refugian peces jóvenes; el agua abierta da espacio a aves pescadoras. Conviene observar ambos ambientes desde un mismo punto para entender por qué se habla de una guardería de peces.",
+        "route": "Desde el centro de Necoclí camina al embarque convenido con el operador. La aproximación a la ensenada es en lancha; observa desde la embarcación y desembarca sólo en lugares autorizados.",
+        "question": "¿Hay un sendero urbano hasta los mangles?",
+        "answer": "No. La visita desde el pueblo incluye navegación y está sujeta a las reglas de la reserva y a las condiciones del mar.",
+        "access": "Las reglas ambientales de la ensenada y la autorización del operador determinan el recorrido y las paradas.",
+        "look": "Observa la transición entre la raíz sumergida y el agua libre sin tocar el manglar.",
+        "lookQuestion": "¿Qué parte del manglar se ve desde la lancha?",
+        "accessQuestion": "¿Dónde se permite desembarcar en la ensenada?",
+        "legs": [
+          "embarcadero de Necoclí",
+          "manglares de la ensenada",
+          "regreso en lancha"
+        ],
+        "photo": "Desde la lancha encuadra las raíces al nivel del agua. Al salir del manglar abre el plano hacia la ensenada.",
+        "kind": "Ensenada y manglar",
+        "hours": "Confirma con el patrón salida y regreso antes de acercarte al embarcadero; el itinerario depende de la navegación.",
+        "fees": "Pide precio de ida y vuelta y confirma si hay guía y desembarque incluidos."
+      },
+      "en": {
+        "name": "Rionegro Mangrove Inlet",
+        "body": "Caribbean water meets the Negro and Marimonda rivers in this inlet. Young fish shelter beneath mangrove roots while fishing birds use open water. Watching both habitats from the same position explains the inlet's reputation as a fish nursery.",
+        "route": "From central Necoclí walk to the landing agreed with the operator. Continue to the inlet by boat; watch from the boat and land only where authorised.",
+        "question": "Can I walk there from town?",
+        "answer": "The town approach includes a boat trip subject to reserve rules and sea conditions.",
+        "access": "Environmental rules and the boat operator's authorisation determine the route and stopping points.",
+        "look": "Watch the transition from submerged roots to open water without touching the mangrove.",
+        "lookQuestion": "Which part of the mangrove can I see from the boat?",
+        "accessQuestion": "Where may boats put visitors ashore in the inlet?",
+        "legs": [
+          "Necoclí landing",
+          "inlet mangroves",
+          "return boat"
+        ],
+        "photo": "From the boat frame roots at water level. As the boat leaves the mangrove widen the frame towards the inlet.",
+        "kind": "Inlet and mangroves",
+        "hours": "Confirm sailing and return times with the skipper before going to the landing. The route depends on navigation conditions.",
+        "fees": "Ask for a return quote and check whether guiding and a landing are included."
+      },
+      "zh": {
+        "name": "里奥内格罗红树林海湾",
+        "body": "加勒比海水在这片海湾与内格罗河和马里蒙达河汇合。幼鱼藏在红树林根系下，食鱼鸟则利用开阔水面。把这两处生境放在一起看，就能理解当地为何称它为鱼类的育幼场。",
+        "route": "从内科克利市中心步行至与船方约定的码头，再乘船前往海湾。可从船上观察，只在获准地点登陆。",
+        "question": "从镇上可以一路步行吗？",
+        "answer": "从镇上前往包含一段船程，航行取决于保护区规定及当天海况。",
+        "access": "海湾环境规定和船方授权共同决定航线及停靠点。",
+        "look": "注意浸在水下的根系怎样过渡到开阔水面，不要触碰红树。",
+        "lookQuestion": "从船上能观察红树林的什么部位？",
+        "accessQuestion": "小海湾哪些位置允许登陆？",
+        "legs": [
+          "内科克利登船点",
+          "湾内红树林",
+          "返航船"
+        ],
+        "photo": "从船上向水线拍根系；驶出红树林时转拍开阔的海湾。",
+        "kind": "海湾与红树林",
+        "hours": "先向船方确认出航与回程时间再去码头，实际航线取决于当日航行条件。",
+        "fees": "询往返船价，并确认是否含讲解与登陆。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "60–120"
+  },
+  {
+    "slug": "iglesia-del-carmen",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/IGLESIA%20NUESTRA%20SE%C3%91ORA%20DEL%20CARMEN%20NECOCLI.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Iglesia de Nuestra Señora del Carmen, Necoclí, Antioquia, Colombia",
+    "operator": "Parroquia Nuestra Señora del Carmen, Necoclí",
+    "copy": {
+      "es": {
+        "name": "Iglesia de Nuestra Señora del Carmen",
+        "body": "El blanco de los muros y las molduras doradas enmarcan imágenes devocionales. En Semana Santa cambia el uso del espacio: la liturgia y la participación de los fieles marcan el ritmo del edificio. Mira desde la nave cómo la luz separa las figuras claras del fondo antes de acercarte al altar.",
+        "route": "Localiza el templo del Carmen en el casco urbano de Necoclí. Detente frente a la fachada; si está abierto entra por la puerta indicada y regresa por el pasillo lateral libre.",
+        "question": "¿Puedo recorrer el altar durante misa?",
+        "answer": "La parroquia organiza el culto. Durante una celebración quédate en el sector de los fieles y consulta antes de tomar fotos.",
+        "access": "El equipo parroquial atiende el templo. La apertura para culto y la visita cultural pueden diferir.",
+        "look": "Desde la entrada fija la vista en el contraste entre bordes dorados y paredes blancas.",
+        "lookQuestion": "¿Qué distingue el interior de la iglesia del Carmen?",
+        "accessQuestion": "¿A quién consulto antes de entrar durante el culto?",
+        "legs": [
+          "fachada de la iglesia",
+          "vista de la nave",
+          "puerta de salida"
+        ],
+        "photo": "Ante la entrada encuadra la fachada completa. Si se permite en el interior, recoge el contraste entre oro y blanco desde el umbral.",
+        "kind": "Iglesia católica",
+        "hours": "Pregunta por las misas y el acceso para visitas. La plaza exterior puede recorrerse aun cuando el templo esté cerrado.",
+        "fees": "Para ver la fachada desde el espacio público no hace falta entrada. Pregunta a la parroquia por cualquier actividad en el interior."
+      },
+      "en": {
+        "name": "Our Lady of Carmen Church",
+        "body": "White walls and gold trim frame the devotional figures. During Holy Week the liturgy and congregation set the pace inside. Look along the nave at how the light separates pale statues from the background before approaching the altar area.",
+        "route": "Find the Carmen church in central Necoclí. Stop at the frontage; if the church is open, enter through the indicated door and return along an unobstructed aisle.",
+        "question": "May I walk round the altar during Mass?",
+        "answer": "The parish organises worship. Stay in the congregation's area during a service and ask before taking photographs.",
+        "access": "Parish staff look after the church. Worship and sightseeing access may differ.",
+        "look": "From the entrance compare the gold trim with the white walls.",
+        "lookQuestion": "What distinguishes the interior of Carmen church?",
+        "accessQuestion": "Who should I ask about entering during worship?",
+        "legs": [
+          "church façade",
+          "view down the nave",
+          "exit door"
+        ],
+        "photo": "Frame the façade from the entrance. Where indoor pictures are permitted, capture the gold and white contrast from the threshold.",
+        "kind": "Catholic church",
+        "hours": "Ask about Mass and visitor access. The outside square can be visited while the church is closed.",
+        "fees": "Viewing the façade from public space needs no ticket. Ask parish staff about activities inside."
+      },
+      "zh": {
+        "name": "卡门圣母教堂",
+        "body": "白色墙面和金色饰边衬托出宗教塑像。圣周期间，礼仪和聚集的信众决定堂内空间的使用方式。先从中殿看光线如何勾勒塑像，再决定是否可以走近祭坛区域。",
+        "route": "在内科克利城区按卡门圣母教堂定位。先看正立面，开门时从指示的入口入内，再从畅通的侧廊返回。",
+        "question": "弥撒时可以绕祭坛参观吗？",
+        "answer": "礼拜由堂区安排。仪式期间应留在信众区，拍照先征得同意。",
+        "access": "堂区人员负责教堂，礼拜开放与游客参观时间可能不同。",
+        "look": "从入口观察金色饰边与白墙的对比。",
+        "lookQuestion": "卡门教堂内部有什么辨识特征？",
+        "accessQuestion": "礼拜期间入内应询问谁？",
+        "legs": [
+          "教堂正立面",
+          "中殿视角",
+          "出口"
+        ],
+        "photo": "在入口前拍正立面；室内获准拍摄时，从门槛边取景，突出金色装饰与白墙。",
+        "kind": "天主教堂",
+        "hours": "先问弥撒与参观时间；即使教堂关门，仍可留在外部广场欣赏立面。",
+        "fees": "从公共空间看立面无需门票；堂内活动请询问堂区工作人员。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "15–30"
+  },
+  {
+    "slug": "malecon-las-americas",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/MALECON%20DE%20LAS%20AMNERICAS.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Malecón de las Américas, Necoclí, Antioquia, Colombia",
+    "operator": "Alcaldía de Necoclí",
+    "copy": {
+      "es": {
+        "name": "Malecón de las Américas",
+        "body": "El municipio construyó este paseo para conmemorar los quinientos años que celebra Necoclí. Los bancos, comercios y pasos hacia el agua forman un parque lineal paralelo a la playa. Mira hacia el interior desde el borde para ver cómo las calles del pueblo desembocan en un frente común.",
+        "route": "Empieza donde carrera 44 y calle 46 se acercan al muelle. Sigue la acera paralela al mar hasta un banco frente a la playa y vuelve por el lado del comercio.",
+        "question": "¿El paseo da acceso a la zona operativa del muelle?",
+        "answer": "El malecón es espacio público municipal. Para entrar a embarque se siguen las instrucciones de la base náutica.",
+        "access": "El paseo es infraestructura pública del municipio. Los comercios, las instalaciones y las embarcaciones prestan servicios por separado.",
+        "look": "Sigue con la vista las calles que terminan en el paseo; muestran su función como frente común del pueblo.",
+        "lookQuestion": "¿Cómo se conecta el malecón con los barrios?",
+        "accessQuestion": "¿El municipio gestiona los servicios de las lanchas?",
+        "legs": [
+          "Carrera 44 y Calle 46",
+          "banco frente al mar",
+          "lado comercial"
+        ],
+        "photo": "Desde un banco mira hacia el mar; desde una calle transversal encuadra el encuentro entre la ciudad y el paseo.",
+        "kind": "Paseo urbano",
+        "hours": "Haz el tramo a pie con luz de día. Comercios y actividades tienen horarios propios.",
+        "fees": "El paseo por la calle pública no requiere entrada. Comidas y compras se pagan al establecimiento."
+      },
+      "en": {
+        "name": "Las Américas Seafront Promenade",
+        "body": "Built for Necoclí's five-hundredth anniversary commemoration, this linear park follows the beach. Seats, shops and openings towards the water punctuate the walk. Looking inland from the promenade shows how separate town streets converge on one continuous waterfront.",
+        "route": "Start by the pier near Carrera 44 and Calle 46. Follow the seafront pavement to a beach-facing seat and return on the shop side.",
+        "question": "Does the promenade grant entry to the working pier?",
+        "answer": "The promenade is municipal public space. Boarding areas follow the nautical base's instructions.",
+        "access": "The municipality's public promenade is separate from shops, facilities and boats that provide their own services.",
+        "look": "Trace the streets that end at the promenade to see how it links different parts of town to the coast.",
+        "lookQuestion": "How does the promenade connect to town streets?",
+        "accessQuestion": "Does the municipality run the boat services on the promenade?",
+        "legs": [
+          "Carrera 44 at Calle 46",
+          "seaward bench",
+          "shop side"
+        ],
+        "photo": "Face the sea from a bench. From a cross street frame the point where town meets promenade.",
+        "kind": "Town walk",
+        "hours": "Plan this walk in daylight. Shops and events keep their own hours.",
+        "fees": "The public street walk needs no admission ticket. Pay individual businesses for food and purchases."
+      },
+      "zh": {
+        "name": "美洲滨海步道",
+        "body": "这条线性公园步道为纪念内科克利五百周年而修建。座椅、店铺和通往水边的开口沿着海岸排列。从步道回望城区，能看出镇上的一条条街巷如何汇聚到同一段滨水空间。",
+        "route": "从44号纵街与46号横街靠近码头处起步，沿平行海岸的人行道走到面向海滩的座椅，再沿商铺一侧返回。",
+        "question": "散步时可以进入码头作业区吗？",
+        "answer": "步道属于市政公共空间，登船区域须遵守航运基地的管理规定。",
+        "access": "公共步道属于市政设施，沿岸商铺、服务设施和船只分别经营。",
+        "look": "沿着街口回望城区，观察这条步道如何把不同街区连到海岸。",
+        "lookQuestion": "从步道怎么看海岸与市区街道的联系？",
+        "accessQuestion": "市政滨海步道也负责游船服务吗？",
+        "legs": [
+          "44号纵街与46号横街",
+          "望海座椅",
+          "靠商铺一侧"
+        ],
+        "photo": "在座椅旁朝海拍；换到横街，拍城镇街道接入滨海步道的位置。",
+        "kind": "城区步行",
+        "hours": "建议白天走这一段。商铺、活动各有自己的时间。",
+        "fees": "走公共街道无需门票；用餐、购物向对应店家付费。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "25–45"
+  },
+  {
+    "slug": "muelle-base-nautica",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/MUELLE%20TURISTICO-BASE%20NAUTICA%20NECOCLI.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Base Náutica de Necoclí, Necoclí, Antioquia, Colombia",
+    "operator": "Base Náutica de Necoclí / compañías de transporte",
+    "copy": {
+      "es": {
+        "name": "Muelle de la Base Náutica",
+        "body": "Los pilotes sostienen una plataforma separada del paseo. Aquí comienza una conexión marítima del golfo hacia el Chocó, entre otros destinos Capurganá y Acandí. Observa desde el lado de tierra cómo se ordenan equipajes y embarques; es una buena forma de entender la función portuaria de Necoclí.",
+        "route": "Camina por el malecón hacia carrera 44 con calle 46. Busca el acceso a la base, distingue la zona de espera del paso público y regresa al paseo sin cruzar el control.",
+        "question": "¿Se compra aquí un billete para cualquier salida?",
+        "answer": "Pregunta a la compañía que opera tu ruta por taquilla, horario y embarque. La base y la empresa cumplen funciones distintas.",
+        "access": "La zona de embarque sigue los controles de la base. Cada transportista gestiona sus billetes y horarios.",
+        "look": "Observa desde tierra la separación entre la plataforma de pilotes y la acera del malecón.",
+        "lookQuestion": "¿Cómo reconozco la plataforma de embarque?",
+        "accessQuestion": "¿Dónde confirmo el horario de mi lancha?",
+        "legs": [
+          "acceso del malecón",
+          "vista de los pilotes",
+          "paseo público"
+        ],
+        "photo": "Desde el paseo fotografía la plataforma sobre pilotes. Desde el lado terrestre muestra su unión con el muelle sin bloquear embarques.",
+        "kind": "Frente portuario",
+        "hours": "Para observar desde tierra, elige luz de día. Si vas a embarcar, confirma con el transportista la salida y el último regreso.",
+        "fees": "Observar desde el acceso público y viajar son actividades distintas. Confirma tarifa, destino y regreso con el transportista."
+      },
+      "en": {
+        "name": "Necoclí Passenger Pier",
+        "body": "The piled platform is distinct from the promenade behind it. Boats connect this side of the gulf with Chocó destinations including Capurganá and Acandí. Watching luggage and passengers assemble from the landward side explains the town's role as a maritime departure point.",
+        "route": "Follow the promenade to Carrera 44 at Calle 46. Locate the base entrance, identify the waiting area and return to the public walk without crossing the checkpoint.",
+        "question": "Can I buy any boat ticket here?",
+        "answer": "Ask your particular carrier about ticketing, departure and boarding. The base and the company have different roles.",
+        "access": "The base controls boarding areas. Carriers manage their own tickets and schedules.",
+        "look": "From land look at the separation between the piled boarding platform and promenade pavement.",
+        "lookQuestion": "How can I recognise the boarding platform?",
+        "accessQuestion": "Who confirms my boat’s departure time?",
+        "legs": [
+          "promenade access",
+          "view of the piles",
+          "public walkway"
+        ],
+        "photo": "From the promenade frame the piled platform. From land frame its connection to the pier while keeping the boarding lane clear.",
+        "kind": "Waterfront and landing",
+        "hours": "Use daylight for a land visit. For a crossing confirm departure and last return with the carrier.",
+        "fees": "Viewing from the public approach and taking a boat are separate activities. Check fare, destination and return with the carrier."
+      },
+      "zh": {
+        "name": "内科克利客运码头",
+        "body": "桩柱支撑的客运平台与身后的滨海步道清楚分开。船只从这里往返乔科一侧的卡普尔加纳、阿坎迪等地。从陆侧看行李集中与乘客候船的过程，就能理解内科克利作为出海口的职能。",
+        "route": "沿步道走至44号纵街与46号横街附近，找基地入口，辨认候船区后沿公共步道返回，不穿越检票处。",
+        "question": "所有航线都在同一处买票吗？",
+        "answer": "请向具体承运方确认售票点、出发时间与登船口。基地和船公司的职责不同。",
+        "access": "基地管理登船区，承运方分别安排售票和船期。",
+        "look": "从陆侧看桩柱平台与公共步道之间的分界。",
+        "lookQuestion": "如何辨认登船平台？",
+        "accessQuestion": "我的船班时间应向谁确认？",
+        "legs": [
+          "滨海步道入口",
+          "栈桥桩柱观景处",
+          "公共步道"
+        ],
+        "photo": "从步道拍架在桩柱上的平台；再从陆地一侧拍栈桥衔接处，让出登船通道。",
+        "kind": "滨水码头",
+        "hours": "从陆上观看建议选白天；要乘船则向承运人核实发船与末班回程时间。",
+        "fees": "从公共岸段观景与乘船分别安排；请向船方核实票价、目的地及返程。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "15–25"
+  },
+  {
+    "slug": "murales-necocli",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/MURALES%20NECOCLI.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Escuela Gerardo Ocampo, Necoclí, Antioquia, Colombia",
+    "operator": "Escuela Gerardo Ocampo / municipio de Necoclí",
+    "copy": {
+      "es": {
+        "name": "Murales de la Escuela Gerardo Ocampo",
+        "body": "La pared de la escuela forma parte de un relato pintado sobre Necoclí. Las escenas urbanas y los rostros recuerdan tradiciones y habitantes; más cerca de la playa El Turista aparecen animales y vegetación. Cambiar de pared permite comparar dos maneras de representar el territorio.",
+        "route": "Comienza en el exterior de la Escuela Gerardo Ocampo. Continúa por la calle principal hacia los murales del colegio Antonio Roldán Betancur y termina en las bocacalles que conducen a El Turista.",
+        "question": "¿Hay que entrar a los colegios?",
+        "answer": "Las pinturas del recorrido se contemplan desde la vía pública. El personal escolar controla el ingreso a las aulas.",
+        "access": "El muro escolar se ve desde la calle. El itinerario público no da permiso para entrar al colegio.",
+        "look": "Compara un retrato del casco urbano con los motivos de fauna pintados en las salidas a la playa.",
+        "lookQuestion": "¿Cambian los motivos pintados al acercarme al mar?",
+        "accessQuestion": "¿Desde dónde se ve el mural escolar?",
+        "legs": [
+          "escuela Gerardo Ocampo",
+          "escuela Antonio Roldán Betancur",
+          "calle de playa"
+        ],
+        "photo": "Desde la acera frente a Gerardo Ocampo encuadra los retratos; desde la calle de la playa busca animales pintados.",
+        "kind": "Paseo urbano",
+        "hours": "Haz el tramo a pie con luz de día. Comercios y actividades tienen horarios propios.",
+        "fees": "El paseo por la calle pública no requiere entrada. Comidas y compras se pagan al establecimiento."
+      },
+      "en": {
+        "name": "Gerardo Ocampo School Street Murals",
+        "body": "The school wall forms part of a painted account of Necoclí. Faces and scenes of town life recall local people and traditions, while works nearer El Turista beach turn to animals and vegetation. Walk between the walls to compare these two views of the same coast.",
+        "route": "Begin outside Gerardo Ocampo school. Follow the main street to the Antonio Roldán Betancur school murals and finish at the streets opening onto El Turista beach.",
+        "question": "Do I need to enter the schools?",
+        "answer": "The route uses the public street. Access to classrooms is controlled by school staff.",
+        "access": "The school wall is visible from the street. The public route does not grant entry to the school.",
+        "look": "Compare a portrait in town with the animals painted on streets leading to the beach.",
+        "lookQuestion": "How do the murals change closer to the beach?",
+        "accessQuestion": "Where can I see the school mural from?",
+        "legs": [
+          "Gerardo Ocampo school",
+          "Antonio Roldán Betancur school",
+          "beach street"
+        ],
+        "photo": "Frame portraits from the pavement outside Gerardo Ocampo. Look for painted animals from a beach access street.",
+        "kind": "Town walk",
+        "hours": "Plan this walk in daylight. Shops and events keep their own hours.",
+        "fees": "The public street walk needs no admission ticket. Pay individual businesses for food and purchases."
+      },
+      "zh": {
+        "name": "赫拉尔多·奥坎波学校街头壁画",
+        "body": "学校外墙是内科克利街头图像叙事的一部分。城区场景与人物肖像描绘居民和传统，靠近游客海滩的作品转而描绘动物与植物。步行于两处之间，可以比较同一段海岸在画家笔下的两种面貌。",
+        "route": "从赫拉尔多·奥坎波学校外墙起步，沿主街前往安东尼奥·罗尔丹·贝坦库尔学校壁画，再走向通往游客海滩的街口。",
+        "question": "需要进入校园吗？",
+        "answer": "沿公共街道即可观看沿线壁画。教室和校园的进出由校方管理。",
+        "access": "学校外墙可在街上欣赏，公共参观路线不包含进入校园的许可。",
+        "look": "比较城区的一幅肖像与通往海滩巷口的动物图案。",
+        "lookQuestion": "走近海岸时壁画题材如何变化？",
+        "accessQuestion": "从哪里可以看学校外墙壁画？",
+        "legs": [
+          "赫拉尔多·奥坎波学校",
+          "安东尼奥·罗尔丹·贝坦库尔学校",
+          "通海街口"
+        ],
+        "photo": "在赫拉尔多·奥坎波校外人行道拍肖像；到通海街道再拍动物壁画。",
+        "kind": "城区步行",
+        "hours": "建议白天走这一段。商铺、活动各有自己的时间。",
+        "fees": "走公共街道无需门票；用餐、购物向对应店家付费。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "30–45"
+  },
+  {
+    "slug": "playa-el-pescador",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/PLAYA%20EL%20PESCADOR.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Playa El Pescador, Necoclí, Antioquia, Colombia",
+    "operator": "Municipio de Necoclí / pescadores y comercios",
+    "copy": {
+      "es": {
+        "name": "Playa El Pescador",
+        "body": "El nombre recuerda el antiguo punto de salida de pescadores artesanales. Hoy este corto frente urbano también acoge encuentros de bullerengue y vallenato. Las construcciones paralelas a la arena ayudan a entender cómo una playa de trabajo pasó a ser también escenario de fiestas.",
+        "route": "Entra desde la calle de restaurantes por el acceso a El Pescador. Camina por la parte alta de la arena, detente a distancia de los aparejos y vuelve a las calles del centro.",
+        "question": "¿Hay festival todos los días?",
+        "answer": "Los festivales tienen programación municipal propia. Restaurantes y bares manejan aparte sus horarios y tarifas.",
+        "access": "La playa urbana es de uso público. Las faenas de pesca y los eventos pueden limitar el espacio disponible para pasear.",
+        "look": "Busca desde el borde urbano los espacios de trabajo que explican el nombre de la playa.",
+        "lookQuestion": "¿Cómo reconozco la actividad pesquera desde tierra?",
+        "accessQuestion": "¿Puedo caminar entre redes durante un desembarque?",
+        "legs": [
+          "frente de restaurantes",
+          "vista de faena",
+          "regreso al casco urbano"
+        ],
+        "photo": "Desde la parte alta encuadra el espacio de desembarque. Desde el acceso muestra cómo las casas enmarcan la playa de trabajo.",
+        "kind": "Playa urbana",
+        "hours": "Elige horas de luz para caminar. Sigue los avisos locales de ese sector para conocer las condiciones de uso de la orilla.",
+        "fees": "El acceso a la playa pública no incluye alquiler de equipo, comidas ni traslados. Confirma cada precio con quien presta el servicio."
+      },
+      "en": {
+        "name": "El Pescador Beach",
+        "body": "The name recalls the landing used by artisanal fishers. This short urban frontage also hosts bullerengue and vallenato gatherings. Buildings running alongside the sand help explain how a working beach became a stage for community celebrations.",
+        "route": "Enter El Pescador from the restaurant frontage. Walk on the upper sand, stop clear of fishing gear and return to the central streets.",
+        "question": "Is there a festival every day?",
+        "answer": "Festivals follow the municipal programme. Bars and restaurants have their own hours and prices.",
+        "access": "This town beach is public; fishing operations and events may limit space available for walking.",
+        "look": "Look from the town side for working areas that explain the beach's name.",
+        "lookQuestion": "Where on land can I see signs of fishing activity?",
+        "accessQuestion": "May I walk among the nets while fishers unload?",
+        "legs": [
+          "restaurant frontage",
+          "view of the working beach",
+          "return to town"
+        ],
+        "photo": "Frame the landing area from the upper beach. From the entrance show how houses enclose the working shore.",
+        "kind": "Town beach",
+        "hours": "Choose daylight for the walk and check notices for the stretch of shore you intend to use.",
+        "fees": "Public beach access does not include gear rental, food or transfers. Confirm each price with the provider."
+      },
+      "zh": {
+        "name": "渔人海滩",
+        "body": "海滩因手艺渔民过去在此停船而得名。今天，这一小段城镇海岸也举办布耶伦格歌舞和巴耶纳托音乐活动。沙地后的一线建筑见证了渔业作业场所逐渐兼作社区节庆舞台的过程。",
+        "route": "从餐馆所在街面经公共入口进入，在靠陆一侧的沙地行走，远离网具驻足观察，再回到城区街道。",
+        "question": "每天都有歌舞节吗？",
+        "answer": "节庆按市政活动日程举行，沿岸餐馆和酒吧另有各自的营业时间与收费。",
+        "access": "城区海滩供公共使用，捕鱼作业或节庆活动有时会减少可通行空间。",
+        "look": "从靠城的一侧看与渔业有关的作业空间，理解海滩名称的由来。",
+        "lookQuestion": "在岸上怎样观察渔业活动？",
+        "accessQuestion": "渔船卸货时可以走进网具区吗？",
+        "legs": [
+          "餐馆街面",
+          "海滩作业区外",
+          "返回城区"
+        ],
+        "photo": "从高处沙地拍上岸作业区；从入口拍房屋与作业海滩的相对位置。",
+        "kind": "城区海滩",
+        "hours": "建议在日照时段行走，按计划前往的岸段核对现场公告。",
+        "fees": "公共沙滩通行不包括装备租赁、餐饮或接驳，各项收费向服务方查询。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "30–45"
+  },
+  {
+    "slug": "playa-el-turista",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/PLAYA%20EL%20TU%E2%80%8BRISTA.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Playa El Turista, Necoclí, Antioquia, Colombia",
+    "operator": "Alcaldía de Necoclí / prestadores de playa",
+    "copy": {
+      "es": {
+        "name": "Playa El Turista",
+        "body": "La franja de arena enlaza el tejido urbano con el golfo. A diferencia de tramos rurales, sus accesos tienen alojamiento, comidas y calles que se abren al mar. Observa los murales en esos pasos: el recorrido por el pueblo comienza antes de dejar la arena.",
+        "route": "Desde el parque principal sigue los accesos pintados hacia El Turista. Recorre un tramo entre dos bocacalles y sal por la segunda para regresar al parque.",
+        "question": "¿Alquilar una mesa incluye servicios en toda la playa?",
+        "answer": "Cada establecimiento presta sus propios servicios. Consulta allí el precio y con el municipio las condiciones del sector público.",
+        "access": "Sigue los avisos municipales de playa; cada prestador acuerda alquileres y comidas por separado.",
+        "look": "Observa el cambio entre las calles con murales y el horizonte abierto al salir a la arena.",
+        "lookQuestion": "¿Qué cambia en el trayecto entre el pueblo y la arena?",
+        "accessQuestion": "¿Dónde compruebo las condiciones de baño y de alquiler?",
+        "legs": [
+          "parque principal",
+          "primer acceso de arena",
+          "segunda salida a la calle"
+        ],
+        "photo": "Desde el acceso pintado encuadra la salida al mar; desde la arena gira hacia la calle para mostrar los dos ambientes.",
+        "kind": "Playa urbana",
+        "hours": "Elige horas de luz para caminar. Sigue los avisos locales de ese sector para conocer las condiciones de uso de la orilla.",
+        "fees": "El acceso a la playa pública no incluye alquiler de equipo, comidas ni traslados. Confirma cada precio con quien presta el servicio."
+      },
+      "en": {
+        "name": "El Turista Beach",
+        "body": "This beach links the town grid with the gulf. Unlike rural shorelines, its access streets have lodging, food and direct openings to the sea. Look at the murals in those passages: a walk through town starts before you have even left the sand.",
+        "route": "From the main park follow the painted access streets towards El Turista. Walk between two street mouths on the upper beach and leave by the second to return to the park.",
+        "question": "Does renting a table cover services along the shore?",
+        "answer": "Each business runs its own facilities. Ask it about charges and the municipality about public beach conditions.",
+        "access": "Follow municipal beach notices. Individual providers set rental and meal terms separately.",
+        "look": "Watch the view change from mural-lined streets to the open horizon as you step onto the sand.",
+        "lookQuestion": "What changes on the walk from town to the sand?",
+        "accessQuestion": "Where can I check beach notices and rental terms?",
+        "legs": [
+          "main park",
+          "first beach entrance",
+          "second street exit"
+        ],
+        "photo": "Frame the opening towards the sea from a painted access lane. From the sand turn towards town to show both settings.",
+        "kind": "Town beach",
+        "hours": "Choose daylight for the walk and check notices for the stretch of shore you intend to use.",
+        "fees": "Public beach access does not include gear rental, food or transfers. Confirm each price with the provider."
+      },
+      "zh": {
+        "name": "内科克利游客海滩",
+        "body": "海滩连接了城镇街网和海湾。与偏远的乡村海岸不同，这里的入口街道有民宿、餐馆，以及直通海面的巷口。在入口处留意壁画，还没有离开沙地就已开始阅读小镇。",
+        "route": "从主公园沿有壁画的进路朝游客海滩走，在岸上段连接两个街口，从第二个街口出海滩，绕回公园。",
+        "question": "租一张桌子能使用全海滩的设施吗？",
+        "answer": "沿岸商家分别经营设施，收费向商家询问，公共海滩的开放情况向市政部门核对。",
+        "access": "遵循市政海滩公告，租赁和餐饮条件由各商家另行安排。",
+        "look": "从壁画街巷走上沙地时，注意视野如何突然向海平线敞开。",
+        "lookQuestion": "从镇里走到沙滩沿途景观怎么变？",
+        "accessQuestion": "海滩公告和租赁条款分别在哪里查？",
+        "legs": [
+          "主公园",
+          "第一处沙滩入口",
+          "第二个临街出口"
+        ],
+        "photo": "在彩绘巷道朝海拍出口；走上沙滩后回头，把街面与沙地放进同一张照片。",
+        "kind": "城区海滩",
+        "hours": "建议在日照时段行走，按计划前往的岸段核对现场公告。",
+        "fees": "公共沙滩通行不包括装备租赁、餐饮或接驳，各项收费向服务方查询。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "30–60"
+  },
+  {
+    "slug": "playa-la-primavera",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/PLAYA%20LA%20PRIMAVERA.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Playa La Primavera, Necoclí, Antioquia, Colombia",
+    "operator": "Alcaldía de Necoclí",
+    "copy": {
+      "es": {
+        "name": "Playa La Primavera",
+        "body": "Aunque está dentro del casco urbano, el inventario describe una playa menos concurrida. La mezcla de arenas grises y beige tiene relación con los sedimentos que llegan al golfo desde sus ríos. Compara la arena húmeda junto al agua con el material seco más arriba sin extraer muestras.",
+        "route": "Busca el acceso urbano señalizado a La Primavera; no sigas la ruta rural de El Totumo. Baja al borde alto de la arena y vuelve por la misma calle antes de perder de vista la salida.",
+        "question": "¿Poca gente significa que se permite nadar?",
+        "answer": "La ocupación no indica el estado del agua. Consulta señalización o avisos municipales del día.",
+        "access": "Consulta las condiciones del tramo urbano con el municipio y deja libres las salidas a la calle.",
+        "look": "Compara dos franjas de arena de distinto color sin recoger material.",
+        "lookQuestion": "¿Cómo comparo los colores de la arena en La Primavera?",
+        "accessQuestion": "¿Dónde consulto las condiciones de esta playa urbana?",
+        "legs": [
+          "entrada urbana",
+          "arena seca",
+          "regreso a la calle"
+        ],
+        "photo": "Desde la arena seca encuadra las bandas grises y beige. Desde el acceso muestra la transición entre casas y orilla.",
+        "kind": "Playa urbana",
+        "hours": "Elige horas de luz para caminar. Sigue los avisos locales de ese sector para conocer las condiciones de uso de la orilla.",
+        "fees": "El acceso a la playa pública no incluye alquiler de equipo, comidas ni traslados. Confirma cada precio con quien presta el servicio."
+      },
+      "en": {
+        "name": "La Primavera Beach",
+        "body": "Although inside the urban area, this is a quieter beach in the municipal inventory. Grey and beige grains reflect sediment carried into the gulf by its rivers. Compare wet sand below with dry material farther up without removing samples.",
+        "route": "Locate the town access to La Primavera rather than the rural El Totumo road. Walk along the upper sand and return along your entry street while the exit is still in view.",
+        "question": "Does an empty beach indicate swimming is permitted?",
+        "answer": "Visitor numbers say nothing about water conditions. Check the signs or current municipal notice.",
+        "access": "Check town beach conditions with the municipality and keep the street exits clear.",
+        "look": "Compare two differently coloured bands of sand without collecting material.",
+        "lookQuestion": "How can I compare the sand colours at La Primavera?",
+        "accessQuestion": "Where can I check conditions at this town beach?",
+        "legs": [
+          "town entrance",
+          "dry sand",
+          "street exit"
+        ],
+        "photo": "From the dry sand frame grey and beige bands. From the entrance show the change from houses to shore.",
+        "kind": "Town beach",
+        "hours": "Choose daylight for the walk and check notices for the stretch of shore you intend to use.",
+        "fees": "Public beach access does not include gear rental, food or transfers. Confirm each price with the provider."
+      },
+      "zh": {
+        "name": "拉普里马韦拉海滩",
+        "body": "虽然位于城区，市政名录却把这里描述为游客较少的海滩。灰色与米色的沙粒与河流带入海湾的沉积物有关。可对照水边湿沙和高处干沙的色泽，不必采集样本。",
+        "route": "找到城区通往拉普里马韦拉的入口，勿误走埃尔托图莫的乡村道路。沿高处沙地散步，在仍能看见入口时折返原街。",
+        "question": "游客少就代表允许下水吗？",
+        "answer": "人流不反映当天海况，应看现场标志或当日市政公告。",
+        "access": "向市政部门核实城区岸段状况，保持街道出口畅通。",
+        "look": "比较两条颜色不同的沙带，可就地观察而不带走沙粒。",
+        "lookQuestion": "在普里马韦拉如何比较沙粒的颜色？",
+        "accessQuestion": "这片市区海滩的使用情况可以向谁查询？",
+        "legs": [
+          "城区入口",
+          "干沙带",
+          "原街出口"
+        ],
+        "photo": "从干沙处拍灰色和米色的条带；退到入口再拍房屋与岸线的过渡。",
+        "kind": "城区海滩",
+        "hours": "建议在日照时段行走，按计划前往的岸段核对现场公告。",
+        "fees": "公共沙滩通行不包括装备租赁、餐饮或接驳，各项收费向服务方查询。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "25–40"
+  },
+  {
+    "slug": "playa-el-totumo",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/PLAYA%20RURAL%20%E2%80%8B%E2%80%8BEL%20T%E2%80%8B%E2%80%8BO%E2%80%8BTUMO.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Playa rural El Totumo, Necoclí, Antioquia, Colombia",
+    "operator": "Corregimiento El Totumo / municipio de Necoclí",
+    "copy": {
+      "es": {
+        "name": "Playa rural El Totumo",
+        "body": "Al sur de Necoclí, el poblado y sus cultivos dan paso a la arena. Hacia el norte aparece la desembocadura del Caimán Nuevo y el paisaje cambia a manglar. Observa desde la playa el contraste entre parcelas abiertas y vegetación de orilla; no es el volcán turístico del mismo nombre cerca de Cartagena.",
+        "route": "Desde la vía costera entra al corregimiento El Totumo y localiza el paso público a la playa. Camina hacia la vista del río al norte y vuelve sin atravesar la desembocadura.",
+        "question": "¿Los caminos de cultivo son entradas a la playa?",
+        "answer": "Son parcelas de uso rural. Utiliza el paso público del poblado y pregunta a los residentes por su estado.",
+        "access": "Las autoridades locales orientan sobre los pasos públicos. Parcelas y servicios del poblado son independientes.",
+        "look": "Hacia el norte busca el cambio de paisaje donde el Caimán Nuevo desemboca junto al manglar.",
+        "lookQuestion": "¿Qué cambia al norte de El Totumo?",
+        "accessQuestion": "¿A quién pregunto por una entrada pública a El Totumo?",
+        "legs": [
+          "pueblo de El Totumo",
+          "vista de la boca del Caimán Nuevo",
+          "acceso público"
+        ],
+        "photo": "Desde la playa apunta al norte hacia el manglar. Desde el acceso del pueblo muestra la transición del terreno cultivado a la arena.",
+        "kind": "Playa de vereda",
+        "hours": "Confirma el acceso en el pueblo y organiza la vuelta antes de perder la luz; en la playa no hay un horario único de servicios.",
+        "fees": "El acceso a la playa pública no incluye alquiler de equipo, comidas ni traslados. Confirma cada precio con quien presta el servicio."
+      },
+      "en": {
+        "name": "El Totumo Village Beach",
+        "body": "South of Necoclí, houses and cultivated ground give way to sand. Northwards, the Caimán Nuevo mouth changes the shoreline into mangrove. Compare open fields with bank vegetation from the beach; this is a village coast, distinct from the mud volcano near Cartagena.",
+        "route": "Leave the coastal road for El Totumo village and locate a public beach access. Walk towards the river view to the north and return without crossing its mouth.",
+        "question": "Are field tracks beach entrances?",
+        "answer": "Fields are in agricultural use. Take the village public access and ask locally about its condition.",
+        "access": "Local authorities advise on public access points. Fields and village businesses operate separately.",
+        "look": "Look north for the change of landscape where the Caimán Nuevo reaches the mangroves.",
+        "lookQuestion": "How does the shoreline change north of El Totumo?",
+        "accessQuestion": "Who can identify a public beach entrance at El Totumo?",
+        "legs": [
+          "El Totumo village",
+          "Caimán Nuevo mouth view",
+          "public access"
+        ],
+        "photo": "From the beach point north towards the mangrove. From the village access frame the transition from cultivated ground to sand.",
+        "kind": "Village beach",
+        "hours": "Check the access in the village and arrange a return before dark. Beach services have no common schedule.",
+        "fees": "Public beach access does not include gear rental, food or transfers. Confirm each price with the provider."
+      },
+      "zh": {
+        "name": "埃尔托图莫乡村海滩",
+        "body": "内科克利以南的村屋和耕地在这里过渡为沙滩。北边是凯曼努埃沃河口，岸线转为红树林。在沙滩上可以比较开阔农田与河口植被；这里是村庄海岸，与卡塔赫纳附近同名泥火山不同。",
+        "route": "从滨海道路转入埃尔托图莫村，找到公共海滩入口。向北走到可望见河口处折返，不穿越河口。",
+        "question": "能从农田小路进入吗？",
+        "answer": "田块仍在耕作，应走村中公共入口，并向当地人核对路况。",
+        "access": "当地政府可指引公共入口，农田和村内商户分别管理。",
+        "look": "向北辨认凯曼努埃沃河流入红树林时的景观变化。",
+        "lookQuestion": "埃尔托图莫北侧的岸线有什么变化？",
+        "accessQuestion": "到托图莫村后向谁查公共海滩入口？",
+        "legs": [
+          "埃尔托图莫村",
+          "凯曼努埃沃河口视点",
+          "公共入口"
+        ],
+        "photo": "从海滩朝北拍红树林；从村口拍耕地到沙地的过渡。",
+        "kind": "村落海滩",
+        "hours": "先在村里问进路，约好天黑前返程；海滩各项服务并无统一时间。",
+        "fees": "公共沙滩通行不包括装备租赁、餐饮或接驳，各项收费向服务方查询。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "40–60"
+  },
+  {
+    "slug": "playa-mulatos",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/PublishingImages/Paginas/Sitios-de-Interes/PLAYA%20MULATOS.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Playa de Mulatos, Necoclí, Antioquia, Colombia",
+    "operator": "Corregimiento Mulatos / municipio de Necoclí",
+    "copy": {
+      "es": {
+        "name": "Playa de Mulatos",
+        "body": "Esta larga costa rural da frente a caladeros donde se pescan róbalo y corvina. La fiesta local del huevo lucio coincide tradicionalmente con la subida del pez, una relación entre el calendario de pesca y la vida del poblado. Mira dónde se separan las faenas de las áreas de paseo.",
+        "route": "Entra por el núcleo de Mulatos y pregunta por la salida peatonal a la playa. Recorre sólo un tramo junto al poblado y vuelve antes de entrar en una zona de redes.",
+        "question": "¿Puedo acercarme a las embarcaciones?",
+        "answer": "Las embarcaciones son herramientas de trabajo; acuerda cualquier visita con sus pescadores.",
+        "access": "Consulta en el poblado los avisos de playa. El acceso público no incluye uso de lanchas ni artes de pesca.",
+        "look": "Sitúa el poblado respecto al caladero sin interrumpir la preparación de las embarcaciones.",
+        "lookQuestion": "¿Dónde se observa el vínculo de Mulatos con la pesca?",
+        "accessQuestion": "¿El acceso público incluye usar aparejos de pesca?",
+        "legs": [
+          "caserío de Mulatos",
+          "zona de observación de la pesca",
+          "pueblo"
+        ],
+        "photo": "Desde el borde del caserío encuadra el litoral pesquero. Desde la parte alta de la playa muestra las embarcaciones sin acercarte a las redes.",
+        "kind": "Playa de vereda",
+        "hours": "Confirma el acceso en el pueblo y organiza la vuelta antes de perder la luz; en la playa no hay un horario único de servicios.",
+        "fees": "El acceso a la playa pública no incluye alquiler de equipo, comidas ni traslados. Confirma cada precio con quien presta el servicio."
+      },
+      "en": {
+        "name": "Mulatos Fishing Beach",
+        "body": "This long rural shore faces fishing grounds for snook and croaker. The local huevo lucio festival traditionally follows the fish run, tying the village calendar to fishing seasons. Notice how working areas are kept separate from foot traffic.",
+        "route": "Enter through Mulatos village and ask for the foot access to the shore. Walk a short stretch by the settlement and turn back before reaching working nets.",
+        "question": "May I approach the boats?",
+        "answer": "Boats are working equipment. Arrange any close visit with their fishers.",
+        "access": "Ask in the village about beach notices. Public access does not include use of boats or fishing gear.",
+        "look": "Notice how the village faces the fishing grounds without interrupting boat preparations.",
+        "lookQuestion": "Where can I see Mulatos’s connection with fishing?",
+        "accessQuestion": "Does beach access include use of the fishing gear?",
+        "legs": [
+          "Mulatos settlement",
+          "fishing viewpoint",
+          "village"
+        ],
+        "photo": "Frame the fishing coast from the edge of the settlement, then the boats from the upper beach, clear of the nets.",
+        "kind": "Village beach",
+        "hours": "Check the access in the village and arrange a return before dark. Beach services have no common schedule.",
+        "fees": "Public beach access does not include gear rental, food or transfers. Confirm each price with the provider."
+      },
+      "zh": {
+        "name": "穆拉托斯渔村海滩",
+        "body": "这段漫长的乡村海岸面向锯盖鱼和石首鱼等鱼类的渔场。当地以 huevo lucio 鱼得名的节日传统上配合鱼汛举行，渔村的活动日程因此与捕捞季节相连。沿岸可辨别作业区和可通行地带。",
+        "route": "经穆拉托斯村询问通往海岸的步行出口。只走靠近村庄的一段，在到达作业网具前折返。",
+        "question": "可以靠近渔船参观吗？",
+        "answer": "船只仍是生产工具，近距离参观须先得到渔民同意。",
+        "access": "在村内核对海滩公告，公共通行权不包含使用渔船和网具。",
+        "look": "看渔村与海上渔场的位置关系，不妨碍渔民整备船只。",
+        "lookQuestion": "到穆拉托斯哪里看村庄与渔业的关系？",
+        "accessQuestion": "公共海滩通行是否包括使用渔具？",
+        "legs": [
+          "穆拉托斯村",
+          "渔业观察处",
+          "村口"
+        ],
+        "photo": "在聚落边缘拍渔村海岸；站在靠陆沙地拍渔船，不走近网具。",
+        "kind": "村落海滩",
+        "hours": "先在村里问进路，约好天黑前返程；海滩各项服务并无统一时间。",
+        "fees": "公共沙滩通行不包括装备租赁、餐饮或接驳，各项收费向服务方查询。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "40–60"
+  },
+  {
+    "slug": "playa-san-sebastian",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/InventarioTuristico/PLAYA%20SAN%20SEBASTIAN%20NECOCLI.png",
+    "town": "Necoclí, Antioquia",
+    "map": "Playa de San Sebastián, Necoclí, Antioquia, Colombia",
+    "operator": "Vereda San Sebastián / municipio de Necoclí",
+    "copy": {
+      "es": {
+        "name": "Playa de San Sebastián",
+        "body": "Entre la costa urbana y las playas rurales de Necoclí, la arena gris marca una transición. El inventario destaca un espolón natural, distinto de una pasarela construida. Obsérvalo desde tierra y compara la línea del agua a cada lado; no es necesario pisar la formación para entenderla.",
+        "route": "Toma la vía a la vereda San Sebastián, localiza el acceso de playa y camina por la parte alta hasta distinguir el espolón. Regresa al camino sin rodearlo por el agua.",
+        "question": "¿Las cabañas controlan todo el litoral?",
+        "answer": "Cada alojamiento controla sus instalaciones. Usa accesos públicos y consulta avisos municipales sobre la playa.",
+        "access": "Las restricciones en el litoral dependen de la autoridad local; las cabañas sólo administran sus instalaciones.",
+        "look": "Observa desde la franja seca la forma del espolón natural y dónde rompe la ola.",
+        "lookQuestion": "¿Desde dónde se distingue el espolón natural?",
+        "accessQuestion": "¿Quién informa de las restricciones en la orilla?",
+        "legs": [
+          "vía de San Sebastián",
+          "vista del espolón",
+          "salida a la vereda"
+        ],
+        "photo": "Desde arena firme encuadra el perfil del espolón. Retrocede hacia el acceso para incluir la playa gris delante de las olas.",
+        "kind": "Playa de vereda",
+        "hours": "Confirma el acceso en el pueblo y organiza la vuelta antes de perder la luz; en la playa no hay un horario único de servicios.",
+        "fees": "El acceso a la playa pública no incluye alquiler de equipo, comidas ni traslados. Confirma cada precio con quien presta el servicio."
+      },
+      "en": {
+        "name": "San Sebastián Beach",
+        "body": "Between town and the rural beaches this grey shore is a transition zone. The municipal inventory identifies a natural spur, unlike a built pier. From land compare the waterline on either side; there is no need to walk out onto the formation.",
+        "route": "Take the San Sebastián village road, find the beach access and walk on the upper shore until the spur is visible. Return instead of rounding it through the water.",
+        "question": "Do the cabins operate the whole coast?",
+        "answer": "Each lodging controls its own facilities. Use public approaches and check municipal beach notices.",
+        "access": "Local authorities determine shore restrictions. Cabins operate their own facilities only.",
+        "look": "From dry sand study the natural spur and the line of breaking waves.",
+        "lookQuestion": "Where can I see the natural spur from land?",
+        "accessQuestion": "Who sets restrictions on this stretch of shore?",
+        "legs": [
+          "San Sebastián road",
+          "spur viewpoint",
+          "village exit"
+        ],
+        "photo": "From firm sand frame the spur in profile. Step back towards the access to include grey sand in front of the breakers.",
+        "kind": "Village beach",
+        "hours": "Check the access in the village and arrange a return before dark. Beach services have no common schedule.",
+        "fees": "Public beach access does not include gear rental, food or transfers. Confirm each price with the provider."
+      },
+      "zh": {
+        "name": "圣塞巴斯蒂安海滩",
+        "body": "这片灰沙海岸位于内科克利城区与乡村海滩之间。市府名录提到一处天然突堤，与人工栈桥不同。从陆侧比较其两边的水线即可理解地形，无须走上突堤。",
+        "route": "沿通往圣塞巴斯蒂安村的路找到海滩入口，沿高处岸线走到能辨认天然突堤的位置。由原路返回，勿涉水绕过突堤。",
+        "question": "沿岸木屋是否管理整片海岸？",
+        "answer": "各住宿经营者管理自己的设施，步行应走公共通道，海滩情况看市政公告。",
+        "access": "当地部门决定岸段限制，海边木屋只管理各自的住宿设施。",
+        "look": "从干燥沙地看天然突堤的形状和海浪破碎的位置。",
+        "lookQuestion": "从哪里可以看天然岬脊？",
+        "accessQuestion": "海滩通行限制由谁确定？",
+        "legs": [
+          "圣塞巴斯蒂安村道",
+          "天然突堤视点",
+          "回村出口"
+        ],
+        "photo": "在坚实沙地拍突堤轮廓；退向入口，让灰沙成为浪线前的前景。",
+        "kind": "村落海滩",
+        "hours": "先在村里问进路，约好天黑前返程；海滩各项服务并无统一时间。",
+        "fees": "公共沙滩通行不包括装备租赁、餐饮或接驳，各项收费向服务方查询。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "30–50"
+  },
+  {
+    "slug": "rio-necocli",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/RIO%20NE%E2%80%8B%E2%80%8B%E2%80%8BCOCLI.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Río Necoclí, Necoclí, Antioquia, Colombia",
+    "operator": "Vereda Río Necoclí / CORPOURABA",
+    "copy": {
+      "es": {
+        "name": "Río Necoclí",
+        "body": "En la vereda del mismo nombre el río llega al golfo entre mangles, cocoteros y frutales. Al mirar desde tierra se aprecia el contraste entre la lámina oscura bajo la vegetación y la luz del mar abierto. Las aves utilizan tanto las ramas como las orillas despejadas.",
+        "route": "Ve a la vereda Río Necoclí, no al muelle urbano. Sigue el acceso de ribera que indiquen los residentes hasta un punto firme con vista a la boca y regresa sin vadear el río.",
+        "question": "¿Hay un circuito de kayak incluido?",
+        "answer": "No hay una excursión incluida por llegar a la ribera. Consulta disponibilidad, recorrido y condiciones con un prestador local.",
+        "access": "La gestión ambiental del río y los servicios de excursión son ámbitos diferentes. Pregunta por el paso local y la embarcación antes de desplazarte.",
+        "look": "Sitúa los mangles de la ribera en relación con la abertura del río hacia el golfo.",
+        "lookQuestion": "¿Qué contrastes puedo ver en la desembocadura?",
+        "accessQuestion": "¿Dónde confirmo el acceso a la ribera y los paseos?",
+        "legs": [
+          "vereda Río Necoclí",
+          "orilla de la desembocadura",
+          "retorno a la vereda"
+        ],
+        "photo": "Desde la ribera firme encuadra la sombra del manglar; desde el mismo tramo dirige la cámara a la abertura luminosa del golfo.",
+        "kind": "Observación de ribera",
+        "hours": "Consulta el estado de las orillas antes de salir; una crecida puede cambiar el acceso incluso de día.",
+        "fees": "Acuerda guía y traslado por separado. La referencia municipal no publica una tarifa única de visita."
+      },
+      "en": {
+        "name": "Necoclí River Mouth",
+        "body": "In the village bearing its name the river meets the gulf among mangroves, coconut palms and fruit trees. From land the dark water under the branches contrasts with the bright open sea. Watch for birds both in the canopy and along the bare banks.",
+        "route": "Go to Río Necoclí village rather than the town pier. Follow the bank access indicated locally to firm ground overlooking the mouth and return without wading across.",
+        "question": "Is a kayak trip included?",
+        "answer": "Reaching the bank does not book a trip. Ask a local provider about availability, route and conditions.",
+        "access": "River conservation and excursion services have different responsibilities. Check bank access and any boat arrangements before travelling.",
+        "look": "Compare the mangrove fringe with the opening where the river enters the gulf.",
+        "lookQuestion": "What contrasts can I see at the river mouth?",
+        "accessQuestion": "How do I verify bank access and boat arrangements?",
+        "legs": [
+          "Río Necoclí village",
+          "river-mouth bank",
+          "village return"
+        ],
+        "photo": "From the firm bank frame mangrove shade, then from the same stretch turn towards the bright opening to the gulf.",
+        "kind": "Wetland bank observation",
+        "hours": "Check the banks before departure. Rising water can change access during daylight.",
+        "fees": "Agree guiding and transport separately. The municipal listing gives no single admission price."
+      },
+      "zh": {
+        "name": "内科克利河口",
+        "body": "这条河在同名村落一带流入海湾，岸边有红树、椰子树和果树。从岸上能清楚对照树荫下颜色较深的水面与海上的亮光。观鸟时既看枝头，也看开阔的岸边。",
+        "route": "前往内科克利河村，勿走到城区码头。按居民指示的沿岸通道走至可望河口的坚实地面，原路返回，不涉水过河。",
+        "question": "到岸边是否包含划艇活动？",
+        "answer": "抵达河岸不等于预订了活动，船艇、路线与使用条件要另问当地经营者。",
+        "access": "河流生态管理与游览经营属于不同职责，动身前分别确认岸上通道及是否需要用船。",
+        "look": "对照河岸红树林与河道进入海湾处的开口。",
+        "lookQuestion": "河口处有哪些景观可以对照？",
+        "accessQuestion": "怎样分别确认河岸通行和船游安排？",
+        "legs": [
+          "内科克利河村",
+          "河口岸边",
+          "回村原路"
+        ],
+        "photo": "在坚实河岸向红树林树荫取景；换个方向拍河口外明亮的海湾。",
+        "kind": "湿地岸边观察",
+        "hours": "出发前确认岸线状况；即使在白天，涨水也可能改变可以到达的位置。",
+        "fees": "向导及接驳分别议价；市政资料没有列出统一游览票价。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "30–50"
+  },
+  {
+    "slug": "volcan-el-carlos",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/VOLC%E2%80%8B%E2%80%8B%C3%81N%E2%80%8B%E2%80%8B%20DE%20LO%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8BDO%E2%80%8B%E2%80%8B%20EL%20CARLOS.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Volcán de lodo El Carlos, Necoclí, Antioquia, Colombia",
+    "operator": "Vereda El Carlos, Necoclí",
+    "copy": {
+      "es": {
+        "name": "Volcán de lodo El Carlos",
+        "body": "El material que llega a la superficie es arcilla arrastrada por agua y gas. El inventario municipal sitúa el pequeño cráter de El Carlos a unos cinco kilómetros del casco urbano y describe un acceso relativamente llano. Desde terreno firme compara el relieve bajo con las colinas de alrededor.",
+        "route": "Solicita el acceso al volcán en El Carlos. Sigue el sendero habilitado hasta el punto de observación, sin acercarte al borde blando, y vuelve hacia la entrada señalada.",
+        "question": "¿El billete del centro arqueológico cubre este acceso?",
+        "answer": "Consulta al responsable del acceso al cráter. La colección arqueológica tiene su propia recepción.",
+        "access": "Solicita al encargado local el permiso de acceso y la ruta habilitada; no se presupone acceso al lodo.",
+        "look": "Observa la textura del material que aflora desde la zona permitida, lejos del borde inestable.",
+        "lookQuestion": "¿Qué se observa desde tierra firme en El Carlos?",
+        "accessQuestion": "¿Con quién confirmo si se permite entrar al lodo?",
+        "legs": [
+          "acceso de El Carlos",
+          "punto firme frente al cráter",
+          "inicio de la senda"
+        ],
+        "photo": "Desde el punto firme encuadra la loma baja contra las colinas. Usa el zoom para los detalles del barro.",
+        "kind": "Volcán de lodo",
+        "hours": "Confirma con el responsable del acceso si la zona de observación está habilitada ese día, antes de viajar.",
+        "fees": "Pregunta en la entrada por el coste del acceso y cualquier servicio de acompañamiento o aseo disponible."
+      },
+      "en": {
+        "name": "El Carlos Mud Volcano",
+        "body": "Water and gas bring clay up to the surface. The municipal inventory places this small crater about five kilometres from town and describes a comparatively level approach. From firm ground compare the low mound with the surrounding hills.",
+        "route": "Ask for the volcano access at El Carlos. Take the open path to the viewing point, keep back from soft edges and retrace the path to the entrance.",
+        "question": "Does the archaeology centre handle crater entry?",
+        "answer": "Ask the person responsible for crater access. The archaeological collection has its own reception.",
+        "access": "Ask the local attendant for permission and the current access route. Entry into the mud is not assumed.",
+        "look": "View the texture of material reaching the surface from the permitted area away from unstable edges.",
+        "lookQuestion": "What can I see from firm ground at El Carlos?",
+        "accessQuestion": "Who can confirm whether mud entry is permitted?",
+        "legs": [
+          "El Carlos entrance",
+          "firm crater viewpoint",
+          "path entrance"
+        ],
+        "photo": "From the firm viewpoint frame the low mound against the hills. Use the zoom for details of the mud.",
+        "kind": "Mud volcano",
+        "hours": "Before travelling, ask the access contact whether the viewing area is open that day.",
+        "fees": "Ask at the entrance about access charges and any guiding or washing facilities offered."
+      },
+      "zh": {
+        "name": "埃尔卡洛斯泥火山",
+        "body": "水和气体把黏土带到地表。市政名录将这个小泥口记在城区约五公里外，并将进路描述为较平缓的小径。站在坚实地面，可以比较低矮的泥丘与周围丘陵的起伏。",
+        "route": "抵达埃尔卡洛斯后确认泥火山入口，沿开放小径走到观察位置，与松软边缘保持距离，再循原路返回。",
+        "question": "考古中心的票能通用吗？",
+        "answer": "应向泥口进路管理人核对。考古展馆另有接待处。",
+        "access": "向当地接待人询问通行许可及当天开放线路，到达观察点不代表可以进入泥中。",
+        "look": "从获准区域看涌出物的质地，与不稳定的边缘保持距离。",
+        "lookQuestion": "在埃尔卡洛斯的稳固地面能观察什么？",
+        "accessQuestion": "下泥池前应向谁确认？",
+        "legs": [
+          "埃尔卡洛斯入口",
+          "泥口外坚实观察点",
+          "小径起点"
+        ],
+        "photo": "在坚实观察点拍低矮泥丘和远山；用变焦拍泥面细节。",
+        "kind": "泥火山",
+        "hours": "动身前询问入口管理方，当天是否开放观察区域。",
+        "fees": "到入口分别查询进场、陪同与冲洗设施的收费及供应情况。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "30–50"
+  },
+  {
+    "slug": "volcan-virgen-del-cobre",
+    "source": "https://necocli-antioquia.gov.co/MiMunicipio/Paginas/Sitios-de-Interes.aspx",
+    "imageSource": "https://necocli-antioquia.gov.co/MiMunicipio/SitiosInteres/VOLC%C3%81N%20DE%20LOD%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8BO%20VIRGEN%20DEL%20COBRE.jpg",
+    "town": "Necoclí, Antioquia",
+    "map": "Volcán de lodo Virgen del Cobre, Necoclí, Antioquia, Colombia",
+    "operator": "Hacienda Virgen del Cobre",
+    "copy": {
+      "es": {
+        "name": "Volcán de lodo Virgen del Cobre",
+        "body": "El rasgo que distingue este cráter es su entrada a través de una hacienda. El inventario describe una caminata de aproximadamente una hora por ese acceso, y una boca menor que la de El Carlos. El recorrido permite observar el paisaje rural antes de llegar al punto donde aflora el lodo.",
+        "route": "Acuerda la entrada en la hacienda Virgen del Cobre. Camina con quien conozca el paso habilitado, detente en el mirador indicado y sal por la misma finca.",
+        "question": "¿Se puede atravesar la finca sin reserva?",
+        "answer": "El paso depende del permiso de la hacienda y de las condiciones del terreno. Organízalo antes del desplazamiento.",
+        "access": "El acceso cruza terreno de la hacienda. Confirma permiso y acompañamiento con el predio.",
+        "look": "Desde el punto autorizado compara el cráter pequeño con el paisaje ganadero que acabas de atravesar.",
+        "lookQuestion": "¿Qué aparece alrededor del cráter de Virgen del Cobre?",
+        "accessQuestion": "¿Dónde acuerdo un acompañante para el sendero?",
+        "legs": [
+          "Hacienda Virgen del Cobre",
+          "vista del cráter",
+          "salida de la hacienda"
+        ],
+        "photo": "En el camino autorizado fotografía el paisaje ganadero. Desde la parada del guía encuadra el cráter sin acercarte al borde.",
+        "kind": "Acceso por propiedad rural",
+        "hours": "Acuerda una hora con la propiedad antes de salir. La luz de día no implica que el portón esté abierto.",
+        "fees": "Pregunta si el permiso de paso y el acompañamiento tienen cargos distintos; confirma el total antes de entrar."
+      },
+      "en": {
+        "name": "Virgen del Cobre Mud Volcano",
+        "body": "This crater is approached through a hacienda. The municipal inventory describes a walk of roughly an hour on that approach and an opening smaller than the one at El Carlos. The farmland on the way in gives context to the isolated patch of emerging mud.",
+        "route": "Arrange entry at Hacienda Virgen del Cobre. Walk with someone who knows the permitted track, stop at the designated viewing spot and leave through the same property.",
+        "question": "Can I cross the farm unannounced?",
+        "answer": "The hacienda controls passage and ground conditions matter. Arrange access before travelling.",
+        "access": "The approach crosses hacienda land. Confirm permission and accompaniment with the property.",
+        "look": "From the authorised point compare the small crater with the pasture landscape on the approach.",
+        "lookQuestion": "What surrounds the Virgen del Cobre crater?",
+        "accessQuestion": "Where should I arrange accompaniment for the approach?",
+        "legs": [
+          "Hacienda Virgen del Cobre",
+          "crater viewpoint",
+          "hacienda exit"
+        ],
+        "photo": "From the authorised approach photograph the pastoral landscape. At the guide’s stop frame the crater without approaching its rim.",
+        "kind": "Rural property visit",
+        "hours": "Agree a time with the landholder before setting out. Daylight does not guarantee an open gate.",
+        "fees": "Ask whether access and accompaniment have separate charges and agree the total before entering."
+      },
+      "zh": {
+        "name": "科布雷圣母泥火山",
+        "body": "这处泥口的进路穿过一座庄园。市政名录记载步行进路大约一小时，泥口比埃尔卡洛斯的小。途中先看农牧景观，再观察黏土集中涌出的位置，两者形成鲜明对照。",
+        "route": "先在科布雷圣母庄园约定进场，由熟悉获准通道的人带路，到指定观察点停留，再从同一庄园离开。",
+        "question": "可以临时穿过庄园吗？",
+        "answer": "进路取决于庄园许可与地面状况，出发前先约好。",
+        "access": "步行通道横跨庄园土地，须预先与庄园确认许可和带路安排。",
+        "look": "从指定位置比较小型泥口与刚刚经过的牧场景色。",
+        "lookQuestion": "科布雷圣母泥火山口周围是什么景观？",
+        "accessQuestion": "进场前在哪里联系陪同人员？",
+        "legs": [
+          "科布雷圣母庄园",
+          "泥口观察点",
+          "庄园出口"
+        ],
+        "photo": "从获准小径拍牧场；抵达向导指定的停靠点后拍泥口，不靠近边缘。",
+        "kind": "乡村私人土地参观",
+        "hours": "出发前与土地管理方约好时间，不能仅凭天色判断大门是否开放。",
+        "fees": "先问土地通行和陪同是否分别收费，进场前确认总价。"
+      }
+    },
+    "credit": "Alcaldía de Necoclí",
+    "duration": "90–150"
+  },
+  {
+    "slug": "ronda-del-sinu",
+    "source": "https://www.monteria.gov.co/publicaciones/87/oficina-de-cultura-y-turismo/",
+    "imageSource": "https://www.monteria.gov.co/info/monteria_bco/media/galeria347.jpg",
+    "town": "Montería, Córdoba",
+    "map": "Ronda del Sinú, Montería, Córdoba, Colombia",
+    "operator": "Alcaldía de Montería",
+    "copy": {
+      "es": {
+        "name": "Ronda del Sinú",
+        "body": "Montería se entiende mejor mirando el río desde esta avenida arbolada. El corredor reúne jardines, ciclovía y espacios para sentarse; por los árboles pueden pasar iguanas y monos. El monumento Damasco recuerda las embarcaciones que comunicaban la región con Cartagena, antes de que la carretera desplazara buena parte del tráfico fluvial.",
+        "route": "Empieza en la Avenida Primera junto al tramo central. Sigue la senda peatonal hacia plaza María Varilla, busca las figuras dedicadas al porro y vuelve por la acera de la ciudad.",
+        "question": "¿Puedo usar la ciclovía para detenerme a fotografiar?",
+        "answer": "El distrito mantiene un corredor público con usos diferenciados. Para parar elige la senda peatonal y deja libre el carril de bicicletas.",
+        "access": "La ciudad mantiene el paseo público. Comerciantes y operadores de planchones prestan servicios independientes.",
+        "look": "Busca las referencias al porro en plaza María Varilla tras observar la vegetación junto al río.",
+        "lookQuestion": "¿Qué recuerda la plaza María Varilla junto al río?",
+        "accessQuestion": "¿La administración de la ronda gestiona los cruces?",
+        "legs": [
+          "Avenida Primera",
+          "plaza María Varilla",
+          "acera hacia la ciudad"
+        ],
+        "photo": "Desde Avenida Primera enmarca el río con las ramas; en la plaza encuadra las figuras del porro con espacio alrededor.",
+        "kind": "Paseo urbano",
+        "hours": "Haz el tramo a pie con luz de día. Comercios y actividades tienen horarios propios.",
+        "fees": "El paseo por la calle pública no requiere entrada. Comidas y compras se pagan al establecimiento."
+      },
+      "en": {
+        "name": "Sinú Riverside Promenade",
+        "body": "Montería's tree-lined riverwalk combines gardens, cycle lanes and places to sit. Look up as well as out across the water: iguanas and monkeys use the trees. The Damasco monument recalls vessels that connected the region with Cartagena when river transport played a larger role.",
+        "route": "Start on Avenida Primera by the central stretch. Follow the walking path to Plaza María Varilla, find the porro figures and return along the city-side pavement.",
+        "question": "Where can I stop for photos?",
+        "answer": "This municipal corridor separates uses. Step onto the pedestrian section and keep the cycle lane clear.",
+        "access": "The city maintains the public promenade. Vendors and river ferries operate independently.",
+        "look": "Look for the porro references at Plaza María Varilla after observing the riverside trees.",
+        "lookQuestion": "What should I look for at Plaza María Varilla?",
+        "accessQuestion": "Does the promenade administration run river crossings?",
+        "legs": [
+          "Avenida Primera",
+          "Plaza María Varilla",
+          "city-side pavement"
+        ],
+        "photo": "From Avenida Primera frame the river with branches. In the square leave space around the porro figures.",
+        "kind": "Town walk",
+        "hours": "Plan this walk in daylight. Shops and events keep their own hours.",
+        "fees": "The public street walk needs no admission ticket. Pay individual businesses for food and purchases."
+      },
+      "zh": {
+        "name": "锡努河滨步道",
+        "body": "蒙特里亚的林荫河滨空间把花园、自行车道和座椅串联起来。除了看锡努河，也可抬头找树上的鬣蜥和猴子。大马士革号纪念物提醒人们，在公路运输兴起之前，船只曾经连接这里和卡塔赫纳。",
+        "route": "从第一大道中央段起步，沿步道走向玛丽亚·瓦里利亚广场，找与波罗音乐相关的人物造型，再从靠城的一侧回走。",
+        "question": "在哪里可以停下来拍照？",
+        "answer": "市政河岸空间划分了步行和骑行区域，停留时请走上人行道，让出自行车道。",
+        "access": "市政府维护公共步道，沿岸商贩与渡船各自经营。",
+        "look": "看过河岸树木后到玛丽亚·瓦里利亚广场寻找波罗音乐的造型。",
+        "lookQuestion": "沿河走到玛丽亚·瓦里利亚广场看什么？",
+        "accessQuestion": "步道管理方也经营渡船吗？",
+        "legs": [
+          "第一大道",
+          "玛丽亚·瓦里利亚广场",
+          "靠城人行道"
+        ],
+        "photo": "在第一大道用树枝框住河面；到广场为波罗音乐人物造型留出周围环境。",
+        "kind": "城区步行",
+        "hours": "建议白天走这一段。商铺、活动各有自己的时间。",
+        "fees": "走公共街道无需门票；用餐、购物向对应店家付费。"
+      }
+    },
+    "credit": "Alcaldía de Montería",
+    "duration": "40–60"
+  },
+  {
+    "slug": "planchones-del-sinu",
+    "source": "https://www.monteria.gov.co/publicaciones/87/oficina-de-cultura-y-turismo/",
+    "imageSource": "https://www.monteria.gov.co/info/monteria_bco/media/galeria340.jpg",
+    "town": "Montería, Córdoba",
+    "map": "Planchón del Sinú, Montería, Córdoba, Colombia",
+    "operator": "Operadores de planchón, Montería",
+    "copy": {
+      "es": {
+        "name": "Embarcaderos de planchones del Sinú",
+        "body": "Los planchones forman parte de los desplazamientos cotidianos de Montería. Ver uno desde la ribera ayuda a distinguir una travesía entre márgenes de una excursión longitudinal por el río. Observa la plataforma, la aproximación al embarcadero y el cambio de pasajeros desde la zona de espera.",
+        "route": "Desde la Ronda central baja únicamente por el paso señalado al embarcadero. Pregunta el destino en la caseta y espera fuera de la rampa; si cruzas, confirma antes dónde se toma el regreso.",
+        "question": "¿El paseo del malecón incluye cruzar el río?",
+        "answer": "La travesía se paga o acuerda aparte con el operador del planchón, que fija su servicio del día.",
+        "access": "Cada embarcadero confirma tarifas y operación. Usa la zona de espera señalada por la tripulación.",
+        "look": "Observa desde el lado de tierra cómo se alinean plataforma y rampa antes del embarque.",
+        "lookQuestion": "¿Qué conviene observar antes de embarcar en un planchón?",
+        "accessQuestion": "¿Dónde se consulta la tarifa del cruce?",
+        "legs": [
+          "paseo de la ribera",
+          "zona de espera del planchón",
+          "punto de regreso"
+        ],
+        "photo": "Desde el área de espera fotografía la cubierta al acercarse a la rampa; desde el paseo abre el plano a la orilla opuesta.",
+        "kind": "Frente portuario",
+        "hours": "Para observar desde tierra, elige luz de día. Si vas a embarcar, confirma con el transportista la salida y el último regreso.",
+        "fees": "Observar desde el acceso público y viajar son actividades distintas. Confirma tarifa, destino y regreso con el transportista."
+      },
+      "en": {
+        "name": "Sinú River Ferry Landings",
+        "body": "The flat-deck planchones are part of everyday movement around Montería. Watch from a landing to distinguish a bank-to-bank crossing from a sightseeing trip along the river. The deck, approach to the bank and exchange of passengers are best seen from the waiting area.",
+        "route": "From the central riverwalk use the marked access to a landing. Ask at the booth which bank it serves and wait off the ramp; if you cross, confirm the return point first.",
+        "question": "Is the crossing included in the promenade visit?",
+        "answer": "Arrange the crossing separately with the ferry operator, who sets the day's service.",
+        "access": "Check fares and operating conditions at each landing. Use the waiting area indicated by the crew.",
+        "look": "Watch from land as platform and ramp align before passengers board.",
+        "lookQuestion": "What should I watch before boarding a planchón?",
+        "accessQuestion": "Where do I ask the price of the river crossing?",
+        "legs": [
+          "riverwalk",
+          "ferry waiting area",
+          "return point"
+        ],
+        "photo": "From the waiting area frame the deck approaching the ramp. From the promenade widen the view to the opposite bank.",
+        "kind": "Waterfront and landing",
+        "hours": "Use daylight for a land visit. For a crossing confirm departure and last return with the carrier.",
+        "fees": "Viewing from the public approach and taking a boat are separate activities. Check fare, destination and return with the carrier."
+      },
+      "zh": {
+        "name": "锡努河平板渡船码头",
+        "body": "平板渡船是蒙特里亚日常交通的一部分。在其中一处码头，可以分清横渡两岸与沿河观光的不同。从候船处看甲板的形状、靠岸过程与乘客上下船，比站在登船坡道上更合适。",
+        "route": "从中央河滨步道经有标识的通道前往渡口，在候船亭问清目的岸，候船时让出坡道。如要过河，先确认回程登船地点。",
+        "question": "逛河滨步道是否包含过河？",
+        "answer": "渡船另由船方运营，当天是否开航及票价要在渡口确认。",
+        "access": "票价和运营以各渡口为准，在船员指示的区域候船。",
+        "look": "在陆侧观察登船前平板甲板与坡道如何对齐。",
+        "lookQuestion": "登木筏渡船前要观察什么？",
+        "accessQuestion": "渡河价格到哪里查询？",
+        "legs": [
+          "河滨步道",
+          "木筏渡船候船区",
+          "回程登船点"
+        ],
+        "photo": "在候船区拍渡船甲板与坡道逐渐对齐；从河滨步道拍向对岸。",
+        "kind": "滨水码头",
+        "hours": "从陆上观看建议选白天；要乘船则向承运人核实发船与末班回程时间。",
+        "fees": "从公共岸段观景与乘船分别安排；请向船方核实票价、目的地及返程。"
+      }
+    },
+    "credit": "Alcaldía de Montería",
+    "duration": "20–40"
+  },
+  {
+    "slug": "pasaje-del-sol",
+    "source": "https://www.monteria.gov.co/publicaciones/87/oficina-de-cultura-y-turismo/",
+    "imageSource": "https://www.monteria.gov.co/info/monteria_bco/media/galeria343.jpg",
+    "town": "Montería, Córdoba",
+    "map": "Pasaje del Sol, Montería, Córdoba, Colombia",
+    "operator": "Comercios del Pasaje del Sol / Montería",
+    "copy": {
+      "es": {
+        "name": "Pasaje del Sol",
+        "body": "En el norte de Montería, este sector reúne restaurantes y locales de música. El vallenato, la música electrónica y las propuestas mixtas no suenan en un único recinto: cada puerta tiene su ambiente. Caminar primero el tramo completo ayuda a escoger entre una cena tranquila y una noche de baile.",
+        "route": "Pide que te dejen en el sector Pasaje del Sol. Recorre las fachadas a pie, consulta la carta en la entrada elegida y acuerda el regreso en la calle pública donde llegaste.",
+        "question": "¿Una entrada sirve para varios locales?",
+        "answer": "Cada restaurante o bar administra su aforo, carta, cobro y horario. Pregunta antes de entrar.",
+        "access": "Los locales de ocio son de gestión privada; la circulación exterior pertenece al sistema de calles urbanas.",
+        "look": "Compara la oferta de música de dos locales antes de elegir dónde entrar.",
+        "lookQuestion": "¿Cómo elijo entre locales con distinta música?",
+        "accessQuestion": "¿Quién gestiona los locales del Pasaje del Sol?",
+        "legs": [
+          "calle de acceso",
+          "frentes de los locales",
+          "punto de recogida"
+        ],
+        "photo": "Desde la acera encuadra dos fachadas con programación distinta. Desde la entrada elegida fotografía el cartel sin invadir el local.",
+        "kind": "Zona de restauración y música",
+        "hours": "Comprueba el programa del local elegido y la hora de cierre; los negocios no comparten cartelera.",
+        "fees": "Consulta carta, consumo mínimo y entrada antes de pedir mesa en el local."
+      },
+      "en": {
+        "name": "Pasaje del Sol Dining Quarter",
+        "body": "In northern Montería this district gathers restaurants and music venues. Vallenato, electronic and mixed programmes belong to different establishments rather than a single concert hall. Walk past the frontages first to choose between a quiet meal and a late dance floor.",
+        "route": "Get dropped off in the Pasaje del Sol district. Walk past the frontages, check the menu at the door of your choice and arrange pickup back on the public street.",
+        "question": "Does one admission cover several venues?",
+        "answer": "Each restaurant or bar sets its own capacity, menu, charge and hours. Ask at the door.",
+        "access": "Entertainment venues are privately managed; the outer circulation follows public city streets.",
+        "look": "Compare the music programmes of two venues before choosing one.",
+        "lookQuestion": "How can I choose between the different music venues?",
+        "accessQuestion": "Who runs the individual venues in Pasaje del Sol?",
+        "legs": [
+          "access street",
+          "venue frontages",
+          "pickup point"
+        ],
+        "photo": "From the pavement frame two venues with different programmes. From your chosen doorway frame its programme board.",
+        "kind": "Dining and music district",
+        "hours": "Check the chosen venue’s programme and closing time. Each business has its own schedule.",
+        "fees": "Check menu prices, any minimum spend and admission before taking a table."
+      },
+      "zh": {
+        "name": "太阳巷餐饮街区",
+        "body": "蒙特里亚北部这一带汇集了餐馆和音乐场所。巴耶纳托、电子乐与混合曲风分属不同店铺，整条街并不是一个统一的演出场。先沿街观察各家门面，再决定是安静用餐，还是稍晚入场跳舞。",
+        "route": "在太阳巷街区下车，步行看各家店面，在选中的门口询问菜单，并约好回到下车的公共街道乘车。",
+        "question": "一张门票能进入多家店吗？",
+        "answer": "各餐馆和酒吧独立管理容量、菜单、收费与营业时间，进门前分别询问。",
+        "access": "娱乐场所分别由私人经营，外部通行沿城市公共街道。",
+        "look": "入场前可先对照两家店的现场音乐安排。",
+        "lookQuestion": "怎么按音乐风格选择场所？",
+        "accessQuestion": "太阳街区各家店面由谁管理？",
+        "legs": [
+          "街区入口",
+          "各家店面",
+          "返程乘车点"
+        ],
+        "photo": "在人行道上拍两家节目风格不同的店面；到选中的店门口拍节目牌。",
+        "kind": "餐饮音乐街区",
+        "hours": "按选定店家查询节目和打烊时间，各场地独立安排。",
+        "fees": "入座前查菜单、最低消费与可能的入场费。"
+      }
+    },
+    "credit": "Alcaldía de Montería",
+    "duration": "30–60"
+  },
+  {
+    "slug": "catedral-de-lorica",
+    "source": "https://colombia.travel/es/lorica",
+    "imageSource": "https://colombia.travel/sites/default/files/styles/imagen_350x350/public/actividades/3_catedral_de_santa_cruz_de_lorica.jpg.webp?itok=775W-xuv",
+    "town": "Santa Cruz de Lorica, Córdoba",
+    "map": "Catedral de Santa Cruz de Lorica, Santa Cruz de Lorica, Córdoba, Colombia",
+    "operator": "Parroquia de Santa Cruz de Lorica",
+    "copy": {
+      "es": {
+        "name": "Catedral de Santa Cruz de Lorica",
+        "body": "Las torres de la catedral orientan al visitante dentro del centro histórico. Desde la plaza se puede comparar la escala religiosa de la fachada con las casas comerciales que crecieron cerca del río. El recorrido vincula el templo en uso con la época en que el Sinú hacía de Lorica un puerto de intercambio.",
+        "route": "Empieza en la plaza frente a la catedral. Entra únicamente si el templo admite visitas, vuelve a la plaza y sigue las calles del centro hacia el mercado junto al Sinú.",
+        "question": "¿Puedo combinar templo y mercado con un solo horario?",
+        "answer": "El templo católico sigue su horario de culto; los puestos del mercado funcionan por separado. Visita primero el interior que esté abierto.",
+        "access": "La comunidad católica atiende la catedral. El acceso durante liturgias se rige por las indicaciones de la parroquia.",
+        "look": "Mira las torres desde la plaza y compara su altura con los edificios del centro histórico.",
+        "lookQuestion": "¿Dónde se ven las dos torres en el contexto del centro?",
+        "accessQuestion": "¿Cómo sé si se permiten visitas durante un oficio?",
+        "legs": [
+          "plaza de la catedral",
+          "vista de las torres",
+          "mercado del Sinú"
+        ],
+        "photo": "Desde la plaza encuadra las torres. Desde la calle que lleva al mercado mira atrás para incluir la escala de las casas comerciales.",
+        "kind": "Iglesia católica",
+        "hours": "Pregunta por las misas y el acceso para visitas. La plaza exterior puede recorrerse aun cuando el templo esté cerrado.",
+        "fees": "Para ver la fachada desde el espacio público no hace falta entrada. Pregunta a la parroquia por cualquier actividad en el interior."
+      },
+      "en": {
+        "name": "Santa Cruz Cathedral, Lorica",
+        "body": "The cathedral towers help orient visitors in the historic centre. From the square compare the scale of the religious façade with the trading houses closer to the river. The walk connects a living church with the era when river commerce made Lorica a regional port.",
+        "route": "Begin on the square facing the cathedral. Enter only when visits are permitted, return to the square and follow the historic streets to the market beside the Sinú.",
+        "question": "Do church and market share opening times?",
+        "answer": "The church follows its worship schedule and the stalls operate independently. Visit whichever interior is open first.",
+        "access": "The Catholic community looks after the cathedral. During services follow parish instructions on access.",
+        "look": "View the towers from the square and compare their height with historic-centre buildings.",
+        "lookQuestion": "Where can I see the towers against the historic centre?",
+        "accessQuestion": "How can I check access during a church service?",
+        "legs": [
+          "cathedral square",
+          "view of the towers",
+          "Sinú market"
+        ],
+        "photo": "From the square frame the towers. From the street towards the market look back to include the scale of trading houses.",
+        "kind": "Catholic church",
+        "hours": "Ask about Mass and visitor access. The outside square can be visited while the church is closed.",
+        "fees": "Viewing the façade from public space needs no ticket. Ask parish staff about activities inside."
+      },
+      "zh": {
+        "name": "洛里卡圣十字主教座堂",
+        "body": "主教座堂的塔楼可以作为洛里卡老城的方向标。在广场上可把教堂正立面的尺度与河边旧商宅对照。步行路线既经过仍有礼拜的宗教空间，也能回顾锡努河航运使洛里卡成为地区商埠的年代。",
+        "route": "从座堂正面的广场开始，允许参观时再入内。回到广场后沿历史街区走向锡努河边的市场。",
+        "question": "教堂和市场使用同一时间表吗？",
+        "answer": "教堂服从礼拜安排，市场摊位分别经营，先去当时开放的一处。",
+        "access": "天主教堂区负责座堂，礼拜期间按堂区指示进入。",
+        "look": "从广场看双塔，并比较塔身与老城其他建筑的高度。",
+        "lookQuestion": "从哪里能把塔楼和老城一起看？",
+        "accessQuestion": "举行仪式时怎样确认能否参观？",
+        "legs": [
+          "座堂广场",
+          "双塔视角",
+          "锡努河市场"
+        ],
+        "photo": "从广场拍双塔；走向市场的街上回望，将商宅与座堂的尺度放在一起。",
+        "kind": "天主教堂",
+        "hours": "先问弥撒与参观时间；即使教堂关门，仍可留在外部广场欣赏立面。",
+        "fees": "从公共空间看立面无需门票；堂内活动请询问堂区工作人员。"
+      }
+    },
+    "credit": "Colombia Travel",
+    "duration": "25–40"
+  },
+  {
+    "slug": "volcan-de-lodo",
+    "source": "https://activa.com.co/activa-avanza-en-la-transformacion-del-volcan-de-lodo-de-arboletes-como-destino-turistico-sostenible-del-uraba-antioqueno/",
+    "imageSource": "https://activa.com.co/wp-content/uploads/2026/05/DJI_20260521153214_0494_D-1024x576.jpg",
+    "credit": "ACTIVA, Antioquia",
+    "town": "Arboletes, Antioquia",
+    "map": "Volcán de lodo de Arboletes, Arboletes, Antioquia, Colombia",
+    "operator": "ACTIVA / municipio de Arboletes",
+    "copy": {
+      "es": {
+        "name": "Volcán de lodo de Arboletes",
+        "body": "En mayo de 2026 ACTIVA documentó la intervención del Parque Geológico, Natural, Ambiental, Cultural y Turístico. La fotografía aérea permite situar la pequeña elevación respecto a la costa. Lo que emerge aquí es lodo con gas, no lava; la forma del cono y la erosión del litoral son parte de una misma visita al paisaje.",
+        "route": "Desde el pueblo pide el acceso vigente al parque en el sector del volcán. Sigue las indicaciones hasta el área pública de observación y regresa por la entrada; no des por abierta una bajada a la playa o al cráter.",
+        "question": "¿Quién informa sobre la intervención?",
+        "answer": "ACTIVA publica información del proyecto. Para entrar consulta al personal del parque sobre el sector habilitado ese día.",
+        "access": "ACTIVA informa sobre las obras del parque y el municipio sobre el acceso local; un anuncio de obra no constituye horario de apertura.",
+        "look": "Compara el relieve del diapiro con la línea del litoral sin acercarte al borde de erosión.",
+        "lookQuestion": "¿Cómo se reconoce el relieve del volcán desde la costa?",
+        "accessQuestion": "¿Un boletín de obras confirma la apertura del parque?",
+        "legs": [
+          "acceso del parque",
+          "área señalizada de observación",
+          "regreso al acceso"
+        ],
+        "photo": "Desde el punto habilitado encuadra la loma y el litoral. Un encuadre cerrado muestra el relieve sin acercarte a bordes erosionados.",
+        "kind": "Volcán de lodo",
+        "hours": "Confirma con el responsable del acceso si la zona de observación está habilitada ese día, antes de viajar.",
+        "fees": "Pregunta en la entrada por el coste del acceso y cualquier servicio de acompañamiento o aseo disponible."
+      },
+      "en": {
+        "name": "Arboletes Mud Volcano",
+        "body": "In May 2026 ACTIVA documented work on the geological and cultural park. The aerial photograph locates the low rise relative to the coast. Gas-bearing mud, rather than lava, reaches the surface here; the cone and coastal erosion can be read together on this visit.",
+        "route": "From town ask for the current park entrance in the volcano sector. Follow signs to the public viewing area and return via the entrance; do not assume a descent to beach or crater is open.",
+        "question": "Who reports on the works?",
+        "answer": "ACTIVA publishes project information. Ask park staff which area is accessible on your visit date.",
+        "access": "ACTIVA reports on park works and the municipality advises on local access. A works bulletin is not an opening timetable.",
+        "look": "Compare the diapir relief with the coastline while keeping clear of eroding edges.",
+        "lookQuestion": "How can I recognise the volcano in the coastal landscape?",
+        "accessQuestion": "Does a construction update confirm the park is open?",
+        "legs": [
+          "park entrance",
+          "signed viewing area",
+          "return to the gate"
+        ],
+        "photo": "From the authorised viewpoint frame mound and coast. Use a tighter crop for the relief from clear of eroding edges.",
+        "kind": "Mud volcano",
+        "hours": "Before travelling, ask the access contact whether the viewing area is open that day.",
+        "fees": "Ask at the entrance about access charges and any guiding or washing facilities offered."
+      },
+      "zh": {
+        "name": "阿沃莱特斯泥火山",
+        "body": "2026年5月，安蒂奥基亚公园与活动企业 ACTIVA 记录了地质与文化公园工程。航拍图可辨认低矮泥丘与海岸的位置关系。这里涌出的是含气泥浆而非熔岩，可以把泥丘地形与海岸侵蚀放在一起观察。",
+        "route": "从镇上先询问泥火山区公园现行入口，依指示走到公共观察区，再经入口返回。岸边或泥口的下行通道须单独核实是否开放。",
+        "question": "哪里能查到建设工程资料？",
+        "answer": "ACTIVA 发布项目资料，当天实际开放区域则向公园现场人员核对。",
+        "access": "ACTIVA 说明园区工程，市政部门可提供本地进路信息；工程公告不等于开放时间表。",
+        "look": "从允许的位置比较泥丘和岸线，远离被侵蚀的边缘。",
+        "lookQuestion": "如何辨认海岸边的泥火山地形？",
+        "accessQuestion": "工程通告能确认公园已开放吗？",
+        "legs": [
+          "现行公园入口",
+          "标识观察区",
+          "返回入口"
+        ],
+        "photo": "在开放观察处将泥丘与海岸同框；留在稳定位置，用较紧画幅拍地形细节。",
+        "kind": "泥火山",
+        "hours": "动身前询问入口管理方，当天是否开放观察区域。",
+        "fees": "到入口分别查询进场、陪同与冲洗设施的收费及供应情况。"
+      }
+    },
+    "duration": "30–60"
+  },
+  {
+    "slug": "castillo-de-arboletes",
+    "source": "https://rivieradelsol.co/es/",
+    "imageSource": "https://rivieradelsol.co/wp-content/uploads/2025/12/DSC09666-1024x685.webp",
+    "credit": "Riviera del Sol",
+    "town": "Arboletes, Antioquia",
+    "map": "Castillo Riviera del Sol, Arboletes, Antioquia, Colombia",
+    "operator": "Riviera del Sol",
+    "copy": {
+      "es": {
+        "name": "Castillo Riviera del Sol",
+        "body": "La silueta de castillo corresponde a un complejo de ocio contemporáneo. Torres, piscinas y juegos de agua son parte del mismo establecimiento, con acceso organizado por el operador. Para una visita en familia conviene distinguir el circuito que se ve desde recepción del tramo que requiere entrada al parque acuático.",
+        "route": "Dirígete a la recepción de Riviera del Sol. Desde allí sigue el acceso autorizado al área elegida, localiza los puntos de encuentro antes de separarte del grupo y vuelve por recepción.",
+        "question": "¿La confirmación de una habitación incluye todos los juegos?",
+        "answer": "Consulta las condiciones del paquete directamente con Riviera del Sol, que administra alojamiento y actividades.",
+        "access": "El resort privado fija entradas, horarios y condiciones de los juegos y del alojamiento.",
+        "look": "Desde la zona de acceso distingue las torres decorativas de las entradas a piscinas y servicios.",
+        "lookQuestion": "¿Cómo distingo el castillo decorativo de los accesos acuáticos?",
+        "accessQuestion": "¿Quién establece los horarios del complejo?",
+        "legs": [
+          "recepción Riviera del Sol",
+          "zona contratada",
+          "punto de encuentro"
+        ],
+        "photo": "Desde la recepción encuadra las torres. Desde el área contratada muestra los elementos acuáticos respetando la privacidad de bañistas.",
+        "kind": "Complejo de ocio privado",
+        "hours": "Consulta en recepción los horarios específicos de piscina, atracciones y hotel para la fecha elegida.",
+        "fees": "Pide una cotización que indique alojamiento, entradas al parque y servicios incluidos para cada persona."
+      },
+      "en": {
+        "name": "Riviera del Sol Castle Resort",
+        "body": "The castle silhouette belongs to a contemporary leisure complex. Towers, pools and water attractions form one establishment with access organised by its operator. On a family visit distinguish what can be seen from reception from areas requiring waterpark admission.",
+        "route": "Go to the Riviera del Sol reception. Follow the authorised route to your chosen area, identify meeting points before splitting up and return through reception.",
+        "question": "Does a room booking include every attraction?",
+        "answer": "Check the package directly with Riviera del Sol, which operates lodging and activities.",
+        "access": "The private resort sets admission, hours and terms for rides and lodging.",
+        "look": "From the entrance distinguish decorative towers from pool and service entrances.",
+        "lookQuestion": "How can I distinguish decorative towers from waterpark entrances?",
+        "accessQuestion": "Who sets the resort’s hours?",
+        "legs": [
+          "Riviera del Sol reception",
+          "booked area",
+          "meeting point"
+        ],
+        "photo": "Frame the towers from reception. From your admitted area capture the water features while respecting bathers’ privacy.",
+        "kind": "Private leisure resort",
+        "hours": "Ask reception for the pool, rides and hotel hours on your chosen date.",
+        "fees": "Ask for an itemised quote covering lodging, park admission and included services per person."
+      },
+      "zh": {
+        "name": "太阳里维埃拉城堡度假区",
+        "body": "城堡轮廓属于现代休闲度假区。塔楼、泳池与水上游戏设施由同一经营方安排入场。家庭游览时，应先分清从接待处可以看到的区域与需要水上乐园门票的区域。",
+        "route": "先到太阳里维埃拉接待处，按准许的线路进入选定区域；与同行者分开前先约好会合点，离开时再经接待处。",
+        "question": "预订客房就能使用所有游乐设施吗？",
+        "answer": "住宿和活动由太阳里维埃拉经营，须直接向度假区核对套餐内容。",
+        "access": "私人度假区负责门票、营业时间及游乐设施与住宿条件。",
+        "look": "在入口处区分装饰性塔楼、泳池入口与服务设施入口。",
+        "lookQuestion": "如何区分装饰塔和水上设施入口？",
+        "accessQuestion": "度假区开放时间由谁决定？",
+        "legs": [
+          "太阳里维埃拉接待处",
+          "已预订区域",
+          "会合点"
+        ],
+        "photo": "在接待处向上拍塔楼；从获准进入的区域拍水上设施，避免拍到泳客。",
+        "kind": "私人度假设施",
+        "hours": "向接待处查所选日期的泳池、游乐设施及酒店各自的服务时段。",
+        "fees": "请索取逐项报价，列明每人的住宿、水上乐园门票与所含服务。"
+      }
+    },
+    "duration": "90–180"
+  },
+  {
+    "slug": "turbo",
+    "source": "https://lopeguuraba.wordpress.com/galeria/",
+    "imageSource": "https://i0.wp.com/lopeguuraba.wordpress.com/wp-content/uploads/2017/04/img_4512.jpg?w=409&h=272&ssl=1",
+    "credit": "Muelle El Waffe · Alicia Reyes",
+    "town": "Turbo, Antioquia",
+    "map": "Muelle El Waffe, Turbo, Antioquia, Colombia",
+    "operator": "Distrito de Turbo / operadores de transporte",
+    "copy": {
+      "es": {
+        "name": "Turbo y el muelle El Waffe",
+        "body": "El Waffe muestra la relación de Turbo con el transporte, el mercado y la pesca. Las imágenes del proyecto sobre familias pescadoras documentan el muelle como lugar de faenas y encuentros. La forma de observarlo cambia con las llegadas de pasajeros: el mejor sitio para detenerse es el borde público, dejando libres carga y rampas.",
+        "route": "Llega al centro de Turbo y busca El Waffe. Camina por el costado público hasta ver las embarcaciones, vuelve al área comercial y consulta el embarcadero exacto si continúas por agua.",
+        "question": "¿Todos los barcos salen de El Waffe?",
+        "answer": "La foto documenta el muelle histórico. Pregunta a tu compañía por la terminal y el embarque actuales.",
+        "access": "La administración distrital atiende el espacio urbano; cada operador confirma su punto de embarque.",
+        "look": "Reconoce desde la calle qué franja del muelle queda dedicada a carga y pasajeros.",
+        "lookQuestion": "¿Cómo distingo la zona de carga desde El Waffe?",
+        "accessQuestion": "¿A quién pregunto el punto de embarque en Turbo?",
+        "legs": [
+          "centro de Turbo",
+          "borde público de El Waffe",
+          "calles comerciales"
+        ],
+        "photo": "Desde la calle encuadra El Waffe y las embarcaciones. Desde el borde público vuelve la cámara hacia los comercios del puerto.",
+        "kind": "Frente portuario",
+        "hours": "Para observar desde tierra, elige luz de día. Si vas a embarcar, confirma con el transportista la salida y el último regreso.",
+        "fees": "Observar desde el acceso público y viajar son actividades distintas. Confirma tarifa, destino y regreso con el transportista."
+      },
+      "en": {
+        "name": "Turbo and El Waffe Waterfront",
+        "body": "El Waffe illustrates Turbo's links to transport, markets and fishing. Photographs from a project on fishing families document the waterfront as both workplace and meeting place. As passengers arrive, use the public edge for a view and keep cargo lanes and ramps free.",
+        "route": "Reach central Turbo and locate El Waffe. Follow the public frontage until the boats come into view, return to the commercial area and confirm the exact landing if travelling onward by water.",
+        "question": "Do all boats depart from El Waffe?",
+        "answer": "The photo documents the historic waterfront. Ask your carrier for its present terminal and boarding point.",
+        "access": "District authorities oversee urban public space. Carriers confirm their own boarding points.",
+        "look": "From the street identify the strips of waterfront reserved for freight and passengers.",
+        "lookQuestion": "How can I distinguish the freight area at El Waffe?",
+        "accessQuestion": "Who can confirm my boarding point in Turbo?",
+        "legs": [
+          "central Turbo",
+          "public edge of El Waffe",
+          "market streets"
+        ],
+        "photo": "From the street frame El Waffe and the boats. From the public edge turn the camera towards the port businesses.",
+        "kind": "Waterfront and landing",
+        "hours": "Use daylight for a land visit. For a crossing confirm departure and last return with the carrier.",
+        "fees": "Viewing from the public approach and taking a boat are separate activities. Check fare, destination and return with the carrier."
+      },
+      "zh": {
+        "name": "图尔博与埃尔瓦费码头",
+        "body": "埃尔瓦费滨水区呈现了图尔博与航运、市场和渔业的联系。记录渔民家庭的摄影项目把码头作为劳动与会面场所留下了影像。乘客抵达时，最好站在公共岸边观看，避免占用装卸通道和坡道。",
+        "route": "到图尔博市中心定位埃尔瓦费。沿公共岸段走到可以看见船只的位置，随后回到商业街区；若要乘船续行，另向承运方确认登船点。",
+        "question": "所有船都从埃尔瓦费出发吗？",
+        "answer": "配图记录的是历史码头。实际航站和登船点须向具体船公司核实。",
+        "access": "城区公共空间由区政府管理，登船点向具体承运方核实。",
+        "look": "从街上辨别货运和客运各使用岸边的哪一段。",
+        "lookQuestion": "在埃尔瓦费如何辨别货运区域？",
+        "accessQuestion": "在图尔博找谁确认登船位置？",
+        "legs": [
+          "图尔博中心",
+          "埃尔瓦费公共岸段",
+          "商业街区"
+        ],
+        "photo": "从街边拍埃尔瓦费与船只；在公共岸段转身拍码头商铺。",
+        "kind": "滨水码头",
+        "hours": "从陆上观看建议选白天；要乘船则向承运人核实发船与末班回程时间。",
+        "fees": "从公共岸段观景与乘船分别安排；请向船方核实票价、目的地及返程。"
+      }
+    },
+    "duration": "30–45"
+  },
+  {
+    "slug": "golfo-de-uraba",
+    "source": "https://lopeguuraba.wordpress.com/galeria/",
+    "imageSource": "https://i0.wp.com/lopeguuraba.wordpress.com/wp-content/uploads/2017/04/golfodeuraba.jpg?w=409&h=230&ssl=1",
+    "credit": "Bocas del Atrato · Jorge Luis Rocha",
+    "town": "Turbo, Antioquia",
+    "map": "Bocas del Atrato, Turbo, Antioquia, Colombia",
+    "operator": "DIMAR / autoridades ambientales regionales",
+    "copy": {
+      "es": {
+        "name": "Golfo de Urabá",
+        "body": "El golfo reúne aguas caribeñas y caudales fluviales. La fotografía muestra Bocas del Atrato, en la zona de desembocadura, donde el río y el manglar ayudan a leer la escala del estuario. Una parada en el litoral oriental permite apreciar la anchura del golfo aunque no se viaje al delta.",
+        "route": "Para una vista desde tierra recorre el malecón de Necoclí hasta la base náutica. Para Bocas del Atrato acuerda un traslado marítimo separado desde Turbo y los puntos de desembarque permitidos.",
+        "question": "¿La foto corresponde al muelle de Necoclí?",
+        "answer": "No. La imagen está identificada como Bocas del Atrato, otro sector del mismo golfo.",
+        "access": "La navegación se consulta con la autoridad marítima y operadores; cada municipio administra sus puntos de acceso terrestre.",
+        "look": "Mira cómo cambia el horizonte entre una costa urbana y la desembocadura del Atrato representada en la imagen.",
+        "lookQuestion": "¿Qué diferencia hay entre la vista urbana y Bocas del Atrato?",
+        "accessQuestion": "¿Quién orienta sobre navegación y accesos por tierra?",
+        "legs": [
+          "malecón de Necoclí",
+          "vista al golfo",
+          "regreso por el paseo"
+        ],
+        "photo": "Desde el paseo de Necoclí fotografía el horizonte abierto. En una salida autorizada al Atrato, encuadra el manglar desde la embarcación.",
+        "kind": "Golfo y estuario",
+        "hours": "Observa desde la costa con luz de día. Las salidas al delta tienen horas independientes que confirma el operador.",
+        "fees": "Ver el golfo desde el malecón es independiente de contratar una lancha. Solicita precio de ida y vuelta para el delta."
+      },
+      "en": {
+        "name": "Gulf of Urabá",
+        "body": "Caribbean water and major river flows meet in the gulf. The photograph shows Bocas del Atrato at the river mouths, where mangroves reveal the estuary's scale. A stop on the eastern shore offers a sense of its breadth even without a trip to the delta.",
+        "route": "For a land view follow Necoclí's promenade to the nautical base. For Bocas del Atrato arrange a separate boat trip from Turbo and confirm permitted landing points.",
+        "question": "Is this photo taken at Necoclí pier?",
+        "answer": "It is identified as Bocas del Atrato, a different part of the same gulf.",
+        "access": "The maritime authority and boat operators provide navigation information. Towns manage their respective land accesses.",
+        "look": "Compare the urban shoreline horizon with the river-mouth landscape in the photograph.",
+        "lookQuestion": "How does the town shore differ from Bocas del Atrato?",
+        "accessQuestion": "Who advises on navigation and shore access?",
+        "legs": [
+          "Necoclí promenade",
+          "gulf viewpoint",
+          "return along the promenade"
+        ],
+        "photo": "From Necoclí’s promenade photograph the open horizon. On an authorised Atrato excursion frame the mangroves from the boat.",
+        "kind": "Gulf and estuary",
+        "hours": "Visit the coast in daylight. The operator confirms separate departures for delta excursions.",
+        "fees": "Looking across the gulf from the promenade is separate from chartering a boat. Get a return quote for the delta."
+      },
+      "zh": {
+        "name": "乌拉巴湾",
+        "body": "加勒比海与多条河流在乌拉巴湾相汇。配图为阿特拉托河入海口，红树林勾勒出河口湾的尺度。即使不乘船前往三角洲，沿东岸短暂停留也能感受海湾的开阔。",
+        "route": "若只从陆地观景，可沿内科克利滨海步道走到航运基地；前往配图中的阿特拉托河口，须在图尔博另行安排船程和允许登陆的地点。",
+        "question": "配图是在内科克利码头拍的吗？",
+        "answer": "图中是阿特拉托河入海口，和内科克利码头同属乌拉巴湾的不同岸段。",
+        "access": "航行情况向海事部门及承运方查询，陆路入口由各地分别管理。",
+        "look": "比较城镇岸段的海平线与配图中的河口景观。",
+        "lookQuestion": "城镇海岸与阿特拉托河口有什么区别？",
+        "accessQuestion": "水上航行和陆上到岸分别咨询谁？",
+        "legs": [
+          "内科克利滨海步道",
+          "海湾视点",
+          "原步道折返"
+        ],
+        "photo": "从内科克利滨海步道拍开阔地平线；另行安排河口船游时，从船上拍红树林。",
+        "kind": "海湾与河口",
+        "hours": "白天从岸上观景；前往三角洲的船班由运营方另行确认。",
+        "fees": "步道观海与包船无关；如去三角洲，请提前查往返船费。"
+      }
+    },
+    "duration": "30–45"
+  },
+  {
+    "slug": "monteria",
+    "source": "https://www.monteria.gov.co/publicaciones/3969/vive-monteria-turistica/",
+    "imageSource": "https://www.monteria.gov.co/info/monteria_bco/media/galeria347.jpg",
+    "credit": "Alcaldía de Montería",
+    "town": "Montería, Córdoba",
+    "map": "Parque Simón Bolívar, Montería, Córdoba, Colombia",
+    "operator": "Alcaldía de Montería",
+    "copy": {
+      "es": {
+        "name": "Montería",
+        "body": "La capital de Córdoba funciona como puerta terrestre y aérea para la costa. En el centro el río explica la forma de la ciudad: el paseo de la Avenida Primera corre frente a barrios unidos históricamente por planchones. Dedica tiempo a disfrutar de ambas perspectivas si llegas desde Arboletes.",
+        "route": "Empieza en el parque Simón Bolívar, mira la catedral desde la plaza y baja hacia la Avenida Primera. Desde el paseo reconoce un punto de embarque y termina cerca de la plaza María Varilla.",
+        "question": "¿Puedo hacer esta caminata desde el aeropuerto?",
+        "answer": "Los Garzones está fuera del centro. Haz primero el traslado por carretera hasta el parque.",
+        "access": "El municipio orienta sobre parques y vías públicas; aerolíneas y transporte urbano operan aparte.",
+        "look": "Compara la plaza y la ribera para ver cómo el centro se organiza respecto al Sinú.",
+        "lookQuestion": "¿Cómo cambia la vista entre la plaza y el Sinú?",
+        "accessQuestion": "¿A quién consulto para los parques y el traslado aéreo?",
+        "legs": [
+          "parque Simón Bolívar",
+          "embarcadero de Avenida Primera",
+          "plaza María Varilla"
+        ],
+        "photo": "Desde el parque encuadra la catedral con la plaza. Desde Avenida Primera compara un planchón con el perfil de la orilla opuesta.",
+        "kind": "Paseo urbano",
+        "hours": "Haz el tramo a pie con luz de día. Comercios y actividades tienen horarios propios.",
+        "fees": "El paseo por la calle pública no requiere entrada. Comidas y compras se pagan al establecimiento."
+      },
+      "en": {
+        "name": "Montería on the Sinú",
+        "body": "Córdoba's capital serves as a road and air gateway for the coast. In the centre the river explains the city's shape: Avenida Primera faces neighbourhoods long connected by flat-deck ferries. Allow time for both perspectives on a visit from Arboletes.",
+        "route": "Start at Parque Simón Bolívar, view the cathedral from the square and continue to Avenida Primera. Find a river landing from the promenade and finish near Plaza María Varilla.",
+        "question": "Can I start this walk at the airport?",
+        "answer": "Los Garzones is outside the centre. Transfer by road to the park first.",
+        "access": "The municipality advises on parks and streets. Airlines and urban transport operate separately.",
+        "look": "Compare square and riverbank to see how the centre relates to the Sinú.",
+        "lookQuestion": "How does the view change between the square and the Sinú?",
+        "accessQuestion": "Who handles park information and onward air travel?",
+        "legs": [
+          "Parque Simón Bolívar",
+          "Avenida Primera landing",
+          "Plaza María Varilla"
+        ],
+        "photo": "Frame the cathedral against the square from the park. On Avenida Primera frame a ferry against the opposite bank.",
+        "kind": "Town walk",
+        "hours": "Plan this walk in daylight. Shops and events keep their own hours.",
+        "fees": "The public street walk needs no admission ticket. Pay individual businesses for food and purchases."
+      },
+      "zh": {
+        "name": "锡努河畔的蒙特里亚",
+        "body": "科尔多瓦省首府是通往海岸的公路和航空门户。沿第一大道可看清锡努河如何塑造城市布局，对岸街区长期依靠平板渡船来往。从阿沃莱特斯抵达时，可预留时间从这两个角度看河岸。",
+        "route": "从西蒙·玻利瓦尔公园出发，在广场看教堂后步行至第一大道。从步道辨认一处渡口，最后到玛丽亚·瓦里利亚广场附近结束。",
+        "question": "可以从机场直接开始这段步行吗？",
+        "answer": "洛斯加尔索内斯机场位于市中心以外，先乘车到公园再开始步行。",
+        "access": "市政府可提供公园和街道信息，航空与市内交通分别经营。",
+        "look": "对照广场与河岸，理解城区和锡努河的关系。",
+        "lookQuestion": "从中心广场走到锡努河沿途有什么变化？",
+        "accessQuestion": "公园和机场接驳分别向谁查询？",
+        "legs": [
+          "西蒙·玻利瓦尔公园",
+          "第一大道渡口",
+          "玛丽亚·瓦里利亚广场"
+        ],
+        "photo": "从公园拍座堂与广场；到第一大道，将渡船与对岸地形同框。",
+        "kind": "城区步行",
+        "hours": "建议白天走这一段。商铺、活动各有自己的时间。",
+        "fees": "走公共街道无需门票；用餐、购物向对应店家付费。"
+      }
+    },
+    "duration": "60–90"
+  }
+]

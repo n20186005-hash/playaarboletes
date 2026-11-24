@@ -22,7 +22,7 @@
   },
   "intro": {
     "title": "Explora Playa Arboletes",
-    "description": "Descubre la joya costera de Antioquia, Colombia: Playa Arboletes, una playa pública del Caribe con aguas cálidas y arena fina, ideal para el baño familiar y los atardeceres.\n\nA pocos pasos de la orilla se encuentra un volcán de lodo natural (diapirismo), una curiosidad geológica que puedes visitar por separado. Cerca también está Riviera del Sol, un complejo hotelero y parque acuático de temática de castillo de gestión privada, con tarifas e instalaciones propias.\n\nEn este sitio reunimos información práctica y neutral: dónde queda, cómo llegar desde Montería y Medellín, fotos reales, qué hacer y consejos para tu visita.",
+    "description": "Playa Arboletes es una playa pública de la costa caribeña de Antioquia, Colombia, con arena fina y vistas al atardecer.\n\nEl volcán de lodo natural que se encuentra cerca de la costa es un lugar distinto. Confirma por separado si se permite acceder al volcán y si se permite el baño en el tramo de playa que piensas visitar.\n\nEn este sitio reunimos información práctica y neutral: dónde queda, cómo llegar desde Montería y Medellín, fotos reales, qué hacer y consejos para tu visita.",
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -44,15 +44,15 @@
     "title": "💡 Consejos y Itinerario",
     "overview": "Itinerario Perfecto de Un Día:",
     "steps": [
-      "Mañana (Volcán de lodo y playa): Si el volcán de lodo está habilitado, ve temprano para un baño de lodo natural; luego camina hacia el Mar Caribe para lavarte. Verifica el estado de acceso antes de ir.",
+      "Mañana (volcán de lodo y playa): comprueba por separado el acceso al volcán y las condiciones de baño en el mar. Respeta las señales y las indicaciones de las autoridades locales. Si no puedes confirmar que la entrada o el baño están permitidos en ese punto, no entres.",
       "Tarde (Diversión en el Parque Acuático): Entra al parque acuático del castillo junto a la playa, nada en las piscinas gigantes y experimenta los toboganes y diversas instalaciones de entretenimiento.",
       "Noche (Atardecer y Comida): Regresa a la playa para encontrar el mejor lugar cerca de las esculturas de arena para fotografiar el atardecer caribeño. Luego, disfruta de un auténtico festín de mariscos colombianos en un restaurante cercano."
     ],
     "supplementsTitle": "Consejos Prácticos",
     "supplements": [
-      "Ropa: Si visitas el volcán de lodo, usa un traje de baño viejo. El lodo tiene mucha flotabilidad, pero eso no reemplaza la vigilancia: si no sabes nadar, quédate en zonas someras y nunca entres solo. Confirma siempre el estado de acceso antes de ir.",
+      "Visita al volcán: si se permite el acceso, permanece en las zonas habilitadas y sigue las instrucciones del personal. No des por hecho que se puede entrar al lodo.",
       "Protección Solar e Hidratación: El clima local es cálido con fuerte luz solar. Por favor, lleva protector solar ecológico de alto FPS, gafas de sol y mucha agua potable.",
-      "Servicios de Lavado: Después del baño de lodo, además de lavarte en el mar, los residentes locales ofrecen servicios de lavado con agua dulce en la playa. Es muy conveniente tener listos algunos billetes pequeños de pesos colombianos (COP) para propinas."
+      "Enjuague: si la actividad está habilitada, pregunta antes si hay duchas o un punto de lavado autorizado. No entres al mar para quitarte el lodo."
     ]
   },
   "knowledge": {
@@ -79,7 +79,7 @@
     "eyebrow": "Guía en Profundidad",
     "geology": {
       "title": "Maravilla Geológica: Diapirismo de Lodo",
-      "intro": "El volcán de lodo en Playa Arboletes no es producto de actividad magmática, sino un ejemplo clásico de \"Diapirismo de Lodo\". El gas natural y el agua a alta presión desde las profundidades empujan arcilla rica en minerales a través de fallas geológicas, creando una piscina burbujeante de lodo cálido. Este lodo es rico en azufre, magnesio y calcio. Debido a su alta densidad, el lodo es muy flotante; eso no reemplaza la supervisión; los que no saben nadar deben permanecer en zonas someras y el acceso puede cambiar, así que verifica las condiciones antes de visitar.",
+      "intro": "El volcán de lodo en Playa Arboletes no es producto de actividad magmática, sino un ejemplo clásico de \"Diapirismo de Lodo\". El gas natural y el agua a alta presión desde las profundidades empujan arcilla rica en minerales a través de fallas geológicas, creando una piscina burbujeante de lodo cálido. Este lodo es rico en azufre, magnesio y calcio. La flotabilidad del lodo no indica que el baño sea seguro. No entres sin autorización y sin conocer las condiciones del lugar.",
       "points": [],
       "source": "Nota de origen: Datos geológicos recopilados del Servicio Geológico Colombiano (SGC) y registros ambientales de CORPOURABA."
     },
@@ -118,7 +118,7 @@
       { "icon": "🇨🇴", "label": "País", "value": "Colombia" },
       { "icon": "🏙️", "label": "Región", "value": "Arboletes, Antioquia" },
       { "icon": "⭐", "label": "Calificación Google", "value": "4.5 / 5 (6,825)" },
-      { "icon": "🎫", "label": "Entrada", "value": "Playa pública gratis; enjuague del lodo in situ" },
+      { "icon": "🎫", "label": "Entrada", "value": "Playa pública; consulta por separado el acceso y los servicios del volcán." },
       { "icon": "🐕", "label": "Mascotas", "value": "Consultar al personal" },
       { "icon": "♿", "label": "Instalaciones", "value": "Baños, restaurantes, estacionamiento" }
     ]

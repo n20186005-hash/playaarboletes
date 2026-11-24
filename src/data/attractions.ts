@@ -1,3 +1,4 @@
+import stops from './coastStops.json';
 import type { Locale } from '@/i18n/routing';
 
 export type AttractionContent = {
@@ -168,4 +169,11 @@ export const attractions: Attraction[] = [
       },
     },
   },
+  ...stops.filter((place) => !['monteria','turbo','golfo-de-uraba','castillo-de-arboletes','volcan-de-lodo'].includes(place.slug)).map((place) => {
+    const localize = (locale: Locale): AttractionContent => ({
+      name: place.copy[locale].name, region: place.town,
+      desc: place.copy[locale].look, intro: place.copy[locale].body
+    });
+    return {slug: place.slug, content: {en: localize('en'), es: localize('es'), zh: localize('zh')}};
+  }),
 ];

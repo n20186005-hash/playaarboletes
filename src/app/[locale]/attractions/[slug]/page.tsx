@@ -1,3 +1,5 @@
+import CoastStop from '@/components/CoastStop';
+import {getBaseUrl} from '@/lib/env';
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
@@ -24,7 +26,12 @@ export async function generateMetadata({
   const attr = attractions.find((a) => a.slug === slug && !a.hub);
   if (!attr) return {};
   const c = attr.content[locale as Locale];
-  return { title: c.name, description: c.desc };
+  const path = '/attractions/' + slug;
+  const base = getBaseUrl();
+  return { title: c.name, description: c.desc, alternates: {
+    canonical: base + '/' + locale + path,
+    languages: Object.fromEntries(routing.locales.map(lang => [lang, base + '/' + lang + path]))
+  } };
 }
 
 export default async function AttractionPage({
@@ -69,7 +76,7 @@ export default async function AttractionPage({
               className="text-lg leading-relaxed mb-6"
               style={{ color: 'var(--text-secondary)' }}
             >
-              {c.intro}
+              {!c.source && slug !== 'playa-juan' ? null : c.intro}
             </p>
             {c.source && (
               <p className="text-xs leading-relaxed mb-10" style={{ color: 'var(--text-muted)' }}>
@@ -77,6 +84,7 @@ export default async function AttractionPage({
               </p>
             )}
 
+            <CoastStop slug={slug} locale={locale as Locale} />
             <h2
               className="font-display text-xl font-semibold mb-4"
               style={{ color: 'var(--text-primary)' }}

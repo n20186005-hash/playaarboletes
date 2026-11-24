@@ -1,3 +1,4 @@
+import CoastStop from './CoastStop';
 import type { Locale } from '@/i18n/routing';
 import { topics, type Topic } from '@/data/topics';
 import Gallery from './Gallery';
@@ -57,6 +58,7 @@ export default function TopicPage({ topic, locale, baseUrl, selfUrl }: Props) {
           {c.intro}
         </p>
 
+        <CoastStop slug={topic.slug} locale={locale} topic />
         {topic.showGallery && (
           <div className="mb-10">
             <Gallery />
@@ -85,7 +87,7 @@ export default function TopicPage({ topic, locale, baseUrl, selfUrl }: Props) {
             className="font-display text-xl sm:text-2xl font-semibold mb-4"
             style={{ color: 'var(--text-primary)' }}
           >
-            Preguntas frecuentes
+            {({es:'Preguntas frecuentes',en:'Visitor questions',zh:'游客常见问题'})[locale]}
           </h2>
           <div className="space-y-3">
             {c.faq.map((f, i) => (
@@ -111,7 +113,7 @@ export default function TopicPage({ topic, locale, baseUrl, selfUrl }: Props) {
             className="font-display text-xl sm:text-2xl font-semibold mb-4"
             style={{ color: 'var(--text-primary)' }}
           >
-            Más guías de Playa Arboletes
+            {({es:'Más guías de Playa Arboletes',en:'More guides to Arboletes',zh:'更多阿沃莱特斯指南'})[locale]}
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {related.map((t) => (

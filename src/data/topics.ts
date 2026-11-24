@@ -26,13 +26,13 @@ export const topics: Topic[] = [
         description:
           'Las playas y caletas de Arboletes, Antioquia: aguas cálidas, arena fina y la playa pública principal junto a otras caletas más tranquilas.',
         intro:
-          'Arboletes se extiende junto al Mar Caribe y reúne varias playas. La más conocida es Playa Arboletes, una playa pública con aguas cálidas y arena fina, ideal para el baño familiar y los atardeceres. Más allá de la playa principal, el pueblo cuenta con caletas más tranquilas y zonas rocosas para quienes buscan calma.',
+          'Playa Arboletes es una playa pública con arena fina y vistas al atardecer.',
         sections: [
           {
             id: 'playa-principal',
             title: 'Playa Arboletes (la playa principal)',
             content:
-              'Es una playa pública y de acceso gratuito, con aguas cálidas y poca profundidad al inicio, lo que la hace cómoda para familias. Cuenta con restaurantes, baños y estacionamiento cercanos. El volcán de lodo natural queda a pocos pasos de la orilla.',
+              'La playa principal es pública. El oleaje y las condiciones de baño pueden cambiar; antes de entrar al agua, verifica las indicaciones vigentes para ese tramo.',
           },
           {
             id: 'caletas',
@@ -60,7 +60,7 @@ export const topics: Topic[] = [
           },
           {
             q: '¿Se puede nadar?',
-            a: 'El agua es cálida y suele ser tranquila cerca de la orilla, pero no hay socorrista fijo; mantente en zonas poco profundas y cuida a los niños y a quienes no saben nadar.',
+            a: 'Comprueba las banderas, la señalización y las indicaciones de las autoridades locales. Si no puedes confirmar que se permite nadar en ese tramo, no entres al agua.',
           },
           {
             q: '¿Qué servicios hay en la playa?',
@@ -77,13 +77,13 @@ export const topics: Topic[] = [
         description:
           'The beaches and coves of Arboletes, Antioquia: warm waters, fine sand and the main public beach alongside quieter coves.',
         intro:
-          'Arboletes stretches along the Caribbean Sea and gathers several beaches. The best known is Playa Arboletes, a public beach with warm water and fine sand, great for family swimming and sunsets. Beyond the main beach, the town has quieter coves and rocky stretches for those seeking calm.',
+          'Playa Arboletes is a public beach with fine sand and sunset views.',
         sections: [
           {
             id: 'playa-principal',
             title: 'Playa Arboletes (the main beach)',
             content:
-              'A public, free-access beach with warm, shallow-near-the-shore water that makes it comfortable for families. Restaurants, restrooms and parking are nearby. The natural mud volcano is a short walk from the shore.',
+              'The main beach is public. Surf and bathing conditions can change; check current guidance for that stretch before entering the water.',
           },
           {
             id: 'caletas',
@@ -111,7 +111,7 @@ export const topics: Topic[] = [
           },
           {
             q: 'Can you swim?',
-            a: 'The water is warm and usually calm near the shore, but there is no fixed lifeguard; stay in shallow areas and watch children and non-swimmers.',
+            a: 'Check flags, signs and directions from local authorities. If you cannot confirm swimming is permitted at that stretch, stay out of the water.',
           },
           {
             q: 'What services are on the beach?',
@@ -127,13 +127,13 @@ export const topics: Topic[] = [
         title: '阿沃莱特斯海滩',
         description: '阿沃莱特斯（安蒂奥基亚）的海滩与小海湾：温暖的海水、细软的沙滩，以及主要公共海滩与更清静的小海湾。',
         intro:
-          '阿沃莱特斯（Arboletes）沿加勒比海延伸，分布着多处海滩。最知名的是 Playa Arboletes，一处免费开放的公共海滩，海水温暖、沙质细软，适合亲子戏水与欣赏日落。除了主海滩，镇上还有更安静的小海湾与礁岩地带，适合喜欢清静的游客。',
+          'Playa Arboletes 是一处拥有细沙和日落景观的公共海滩。',
         sections: [
           {
             id: 'playa-principal',
             title: 'Playa Arboletes（主海滩）',
             content:
-              '这是一处免费开放的公共海滩，近岸海水温暖、水浅，适合家庭游客。海滩附近有餐厅、洗手间与停车场。天然泥火山距离岸边仅几步之遥。',
+              '主海滩向公众开放。风浪和下水条件随时可能改变，请在下水前查询该路段的最新指引。',
           },
           {
             id: 'caletas',
@@ -161,7 +161,7 @@ export const topics: Topic[] = [
           },
           {
             q: '可以游泳吗？',
-            a: '海水温暖，近岸通常较为平静，但没有固定救生员；请停留在浅水区，并看护好儿童与不会游泳者。',
+            a: '请查看旗帜、现场标识，并遵守当地主管部门指引。如无法确认该路段允许游泳，请勿下水。',
           },
           {
             q: '海滩上有哪些服务？',
@@ -468,7 +468,7 @@ export const topics: Topic[] = [
         description:
           'El volcán de lodo natural junto a Playa Arboletes: qué es, cómo se forma (diapirismo) y consejos de visita.',
         intro:
-          'A pocos pasos de la playa se encuentra un volcán de lodo formado por diapirismo: el gas y el agua a presión empujan arcilla rica en minerales a la superficie. Es una curiosidad geológica que puedes visitar por separado de la playa.',
+          'A pocos pasos de la playa se encuentra un volcán de lodo formado por diapirismo: el gas y el agua a presión empujan arcilla rica en minerales a la superficie. Es una curiosidad geológica cuyo acceso se consulta por separado del de la playa.',
         sections: [
           {
             id: 'que-es',
@@ -480,13 +480,13 @@ export const topics: Topic[] = [
             id: 'cerca-playa',
             title: 'Ubicación',
             content:
-              'Queda a pocos pasos de la orilla de Playa Arboletes, dentro del pueblo. Se llega caminando desde la playa principal.',
+              'Queda a pocos pasos de la orilla de Playa Arboletes, dentro del pueblo. Consulta qué acceso peatonal está habilitado antes de ir.',
           },
           {
             id: 'consejos',
             title: 'Consejos de visita',
             content:
-              'Usa ropa vieja que no te importe manchar. El lodo flota mucho, pero eso no reemplaza la supervisión: quienes no saben nadar deben quedarse en zonas someras y nunca entrar solos.',
+              'Confirma si el acceso está permitido y permanece en las zonas habilitadas. Sigue las instrucciones del personal y no entres al lodo si no está autorizado.',
           },
           {
             id: 'estado',
@@ -506,11 +506,11 @@ export const topics: Topic[] = [
           },
           {
             q: '¿Es seguro para quienes no saben nadar?',
-            a: 'El lodo tiene mucha flotabilidad, pero no reemplaza la vigilancia. Los no nadadores deben permanecer en zonas someras y nunca entrar solos.',
+            a: 'La flotabilidad no garantiza la seguridad. No entres al lodo si no puedes confirmar que la actividad está autorizada y que puedes cumplir las instrucciones del personal.',
           },
           {
             q: '¿Cuánto cuesta?',
-            a: 'El enjuague con el lodo y los servicios de lavado locales se pagan en el sitio; confirma el precio con los prestadores directamente.',
+            a: 'Consulta con el operador si hay servicios de enjuague habilitados y cuáles son las tarifas vigentes, si corresponde.',
           },
         ],
       },
@@ -519,7 +519,7 @@ export const topics: Topic[] = [
         description:
           'The natural mud volcano by Playa Arboletes: what it is, how it forms (diapirism) and visiting tips.',
         intro:
-          'A few steps from the beach is a mud volcano formed by diapirism: gas and pressurized water push mineral-rich clay to the surface. It is a geological curiosity you can visit separately from the beach.',
+          'A few steps from the beach is a mud volcano formed by diapirism: gas and pressurized water push mineral-rich clay to the surface. It is a geological curiosity with access arrangements separate from those of the beach.',
         sections: [
           {
             id: 'que-es',
@@ -531,13 +531,13 @@ export const topics: Topic[] = [
             id: 'cerca-playa',
             title: 'Location',
             content:
-              'It sits a few steps from the shore of Playa Arboletes, within the town. You can walk there from the main beach.',
+              'It sits a few steps from the shore of Playa Arboletes, within the town. Check which pedestrian access is open before you go.',
           },
           {
             id: 'consejos',
             title: 'Visiting tips',
             content:
-              'Wear old clothes you do not mind staining. The mud is very buoyant, but that does not replace supervision — non-swimmers should stay in shallow areas and never enter alone.',
+              'Confirm that access is allowed and stay in designated areas. Follow staff instructions, and do not enter the mud unless authorized.',
           },
           {
             id: 'estado',
@@ -557,11 +557,11 @@ export const topics: Topic[] = [
           },
           {
             q: 'Is it safe for non-swimmers?',
-            a: 'The mud is very buoyant, but that does not replace supervision. Non-swimmers should stay in shallow areas and never enter alone.',
+            a: 'Buoyancy does not guarantee safety. Stay out of the mud if you cannot confirm the activity is permitted and you can follow staff instructions.',
           },
           {
             q: 'How much does it cost?',
-            a: 'The mud rinse and local washing services are paid on site; confirm the price directly with the providers.',
+            a: 'Ask the operator whether designated rinse facilities are available and whether any current fees apply.',
           },
         ],
       },
@@ -569,7 +569,7 @@ export const topics: Topic[] = [
         title: '阿沃莱特斯泥火山',
         description: 'Playa Arboletes 旁的天然泥火山：它是什么、如何形成（泥底辟），以及游览建议。',
         intro:
-          '步行几步即可到达一处由泥底辟作用形成的泥火山：地下气体与高压水流将富含矿物质的黏土推至地表。这是一处可独立于海滩参观的地质奇观。',
+          '步行几步即可到达一处由泥底辟作用形成的泥火山：地下气体与高压水流将富含矿物质的黏土推至地表。泥火山的开放情况须与海滩分开核实。',
         sections: [
           {
             id: 'que-es',
@@ -581,13 +581,13 @@ export const topics: Topic[] = [
             id: 'cerca-playa',
             title: '位置',
             content:
-              '它位于 Playa Arboletes 岸边仅几步之遥，在镇内。可从主海滩步行抵达。',
+              '它位于 Playa Arboletes 岸边仅几步之遥，在镇内。出发前请核实目前开放的步行入口。',
           },
           {
             id: 'consejos',
             title: '游览建议',
             content:
-              '请穿着不怕弄脏的旧衣服。泥浆浮力很大，但不能替代看管——不会游泳者应停留在浅水区，且切勿独自进入。',
+              '请确认泥火山允许进入，并留在指定区域。遵守现场工作人员指引，未获许可请勿进入泥浆。',
           },
           {
             id: 'estado',
@@ -607,11 +607,11 @@ export const topics: Topic[] = [
           },
           {
             q: '不会游泳者安全吗？',
-            a: '泥浆浮力很强，但不能替代看管。不会游泳者应停留在浅水区，切勿独自进入。',
+            a: '浮力不能保证安全；如果无法确认泥浴已获准开放，或不能遵守现场指引，请勿进入泥浆。',
           },
           {
             q: '费用是多少？',
-            a: '泥浆浴与当地冲洗服务在现场另行收费，请直接向服务提供方确认价格。',
+            a: '请向运营方确认是否有指定冲洗设施，以及当前是否收费。',
           },
         ],
       },

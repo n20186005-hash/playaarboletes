@@ -90,7 +90,7 @@ export default async function LocaleLayout({
         '@id': `${selfUrl}#attraction`,
         name: 'Playa Arboletes',
         description:
-          'Playa Arboletes is a public Caribbean beach in Arboletes, Antioquia, Colombia, known for warm waters, fine sand and calm swimming. A nearby natural mud volcano (mud diapirism) sits a short walk from the shore. An independent, non-profit travel-information guide to the beach, how to get there, photos and what to do.',
+          'Playa Arboletes is a public Caribbean beach in Arboletes, Antioquia, Colombia, with fine sand and views of the Caribbean. A nearby natural mud volcano (mud diapirism) sits a short walk from the shore. An independent, non-profit travel-information guide to the beach, how to get there, photos and what to do.',
         url: selfUrl,
         isAccessibleForFree: true,
         touristType: ['Beach Lovers', 'Ecotourism', 'Family Travel'],
@@ -133,7 +133,7 @@ export default async function LocaleLayout({
             name: 'Is Playa Arboletes free to visit?',
             acceptedAnswer: {
               '@type': 'Answer',
-              text: 'Yes. Playa Arboletes is a public beach and free to access. Nearby private businesses — such as the castle-themed water park (Riviera del Sol) — set their own prices for pools, slides and stays. The natural mud-volcano rinse and any local washing services are priced on-site.',
+              text: 'Yes. Playa Arboletes is a public beach and free to access. Nearby private businesses — such as the castle-themed water park (Riviera del Sol) — set their own prices for pools, slides and stays. Confirm mud-volcano access and any available washing services separately with the operator.',
             },
           },
           {
