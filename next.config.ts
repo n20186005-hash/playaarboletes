@@ -4,6 +4,8 @@ import type { NextConfig } from 'next';
 const withNextIntl = createNextIntlPlugin('./src/i18n/request.ts');
 
 const nextConfig: NextConfig = {
+  // Keep static generation within the build worker's memory budget.
+  experimental: { cpus: 1, staticGenerationMaxConcurrency: 2 },
   images: {
     remotePatterns: [
       { protocol: 'https' as const, hostname: 'images.unsplash.com' },
